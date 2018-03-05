@@ -1,0 +1,4 @@
+Table of Contents for DS_projects repo.
+
+1. Lego:
+A rudimentary analysis of historical lego data, as a Jupyter Notebook. Data from DataCamp.

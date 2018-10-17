@@ -2,3 +2,9 @@ Table of Contents for DS_projects repo.
 
 1. Lego:
 A rudimentary analysis of historical lego data, as a Jupyter Notebook. Data from DataCamp.
+
+2. Basics: 
+A basic jupyter notebook demonstrating data manipulation without pandas. Data from DataQuest
+
+3. Data Transform Python Only:
+Additional csv/ file manipulation code implementation by hand. Data from 538 and the CDC, via Dataquest

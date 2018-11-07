@@ -8,4 +8,7 @@ A basic jupyter notebook demonstrating data manipulation without pandas. Data fr
 
 3. Data Transform Python Only:
 Additional csv/ file manipulation code implementation by hand. Data from 538 and the CDC, via Dataquest
+
+4. Analyis and by hand data aggregation of CDC gun violence statistics
+
 5. Car_sales_proj: data cleaning and basic transform from German Ebay car sales scrape from Kaggle

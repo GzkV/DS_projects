@@ -13,6 +13,10 @@ Additional csv/ file manipulation code implementation by hand. Data from 538 and
 
 5. Car_sales_proj: data cleaning and basic transform from German Ebay car sales scrape from Kaggle
 
-6. NYC SAT Data: Data cleaning and multi-data set merging and analysis with Python, as well as some fundamentals of data viz and exploratory analyis - Data from NYC.edu, via DataQuest
+6. College Major Data: Analysis of income by college major and other demo factors. Dataset provided through DataQuest.
 
-7. Star Wars Opinion Survey: more in-depth data cleaning via python of survey data. Dataset compiled from FiveThirtyEight.
+7. College Major Viz: Additional data visualization demo on college major data in project 6. Data provided through DataQuest
+
+8. NYC SAT Data: Data cleaning and multi-data set merging and analysis with Python, as well as some fundamentals of data viz and exploratory analyis - Data from NYC.edu, via DataQuest
+
+9. Star Wars Opinion Survey: more in-depth data cleaning via python of survey data. Dataset compiled from FiveThirtyEight.

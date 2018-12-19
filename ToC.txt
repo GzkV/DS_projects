@@ -20,3 +20,5 @@ Additional csv/ file manipulation code implementation by hand. Data from 538 and
 8. NYC SAT Data: Data cleaning and multi-data set merging and analysis with Python, as well as some fundamentals of data viz and exploratory analyis - Data from NYC.edu, via DataQuest
 
 9. Star Wars Opinion Survey: more in-depth data cleaning via python of survey data. Dataset compiled from FiveThirtyEight.
+
+10. Sql analysis: Basic sql analysis of CIA factbook data

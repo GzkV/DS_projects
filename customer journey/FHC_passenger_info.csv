@@ -1,0 +1,1729 @@
+passenger_id,household_income,college_saving,retirement_contribution_strategy,assets_retirement_pct_invested,assets_retirement,client_employment_status,housing_situation,saving_emergency_fund_months,assets_liquid,housing_transaction_timing,mortgage_type,life_insurance,mortgage_term,mortgage_rate,estate_plan,rent_monthly,client_age,sentiment_finances,divorce,education,employer_sponsored,has_children,has_dependent_relatives,has_partner,healthcare,lower_monthly_payment,managing_credit_score,moving,new_child
+31412,255750.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I save enough to get my employer match,,"$250,000-$500,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"$20,000-$50,000",,,"Yes, my own",,,Yes,,35.03,83.7,0,1,1,1,0,1,0,,,0,1
+19596,258100.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I save enough to get my employer match,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$50,000-$100,000",,,"Yes, through my work",,,No,,69.44,25.2,0,0,1,1,0,1,0,,,0,0
+155358,141100.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)","I save a bit, as I can",,"$250,000-$500,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"$20,000-$50,000",,,"Yes, my own",,,No,,49.35,100.8,0,1,1,1,0,1,0,,,0,0
+156461,324000.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I save enough to get my employer match,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$20,000-$50,000",,,"Yes, my own",,,No,,38.85,55.8,0,0,1,1,0,1,0,0,,,1
+137701,114800.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)","I save a bit, as I can",,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,I don't have any savings,,,"Yes, my own",,,Yes,,38.7,0.0,0,0,0,1,0,1,0,,,0,0
+133314,24954.54,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I max out and save some extra outside my Employer Plan / IRA,,"$50,000-$100,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"$10,000-$20,000",,,"Yes, through my work",,,No,,29.7,102.6,0,0,1,1,0,1,0,,,0,0
+161176,920000.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I max out and save some extra outside my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"More than $100,000",,,"Yes, through my work",,,Yes,,41.85,120.0,0,1,1,1,0,1,0,,,0,0
+64257,173250.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I save enough to get my employer match,,"$100,000-$250,000",Employed (full or part time),Rent,More than 6 months,"$50,000-$100,000",,,"Yes, my own",,,Yes,,37.1,70.2,0,0,1,1,0,1,0,,,0,0
+51785,258.68,"Yes, in an Education Savings Account (ESA such as a 529 plan)",Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Live rent-free,I don't have any savings,I don't have any savings,,,No / Not sure,,,Not sure,,36.05,99.6,0,0,0,1,0,0,0,,,0,0
+98535,362700.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I max out my Employer Plan / IRA,,"$50,000-$100,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"Less than $5,000",,,"Yes, my own",,,Yes,,42.57,51.0,0,0,1,1,0,1,0,,,0,0
+73478,107350.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I save enough to get my employer match,,"$50,000-$100,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"$10,000-$20,000",,,"Yes, my own",,,Yes,,38.0,29.1,0,0,1,1,0,1,0,0,,,0
+40427,212500.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I max out and save some extra outside my Employer Plan / IRA,,"$250,000-$500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"More than $100,000",,,"Yes, through my work",,,No,,38.72,96.3,0,1,1,1,0,1,0,,,1,0
+150287,249400.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I max out and save some extra outside my Employer Plan / IRA,,"$250,000-$500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$20,000-$50,000",,,"Yes, my own",,,Yes,,36.8,102.0,0,1,1,1,0,1,0,,,0,0
+93392,132250.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I save enough to get my employer match,,"$50,000-$100,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"$10,000-$20,000",,,"Yes, through my work",,,Yes,,31.08,92.7,0,1,1,1,0,1,0,,,0,0
+85870,48600.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I save enough to get my employer match,,"$50,000-$100,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"$10,000-$20,000",,,"Yes, through my work",,,Yes,,51.6,56.4,0,0,1,1,0,0,1,,,0,0
+62753,103000.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I save enough to get my employer match,,"$100,000-$250,000",Employed (full or part time),Rent,2-3 months,"$20,000-$50,000",Within the next 6 months,,"Yes, through my work",,,Not sure,1000,63.28,92.7,0,0,1,1,0,1,0,,0,,0
+98523,,"Yes, in an Education Savings Account (ESA such as a 529 plan)",,,,Not working / Other,,,,,,,,,,,36.49,60.0,,0,,1,0,0,,,,,
+120601,193800.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I save enough to get my employer match,,"$50,000-$100,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"$10,000-$20,000",,,No / Not sure,,,No,,31.15,93.6,0,1,0,1,0,0,0,,,0,0
+146368,126000.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I save enough to get my employer match,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"More than $100,000",,,"Yes, my own",,,Yes,,41.6,56.4,0,1,1,1,0,1,0,,,0,0
+121128,138600.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I save enough to get my employer match,,"$250,000-$500,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"More than $100,000",,,"Yes, my own",,,No,,32.8,57.0,0,1,1,1,0,1,0,,,0,0
+69258,42300.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I save enough to get my employer match,,"$50,000-$100,000",Employed (full or part time),Rent,I don't have any savings,I don't have any savings,,,"Yes, through my work",,,No,,44.28,60.6,0,0,1,1,0,0,0,,,0,0
+56181,,"Yes, in an Education Savings Account (ESA such as a 529 plan)",,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, my own",,,Yes,,38.48,48.0,,0,,1,0,1,,,,0,
+40791,108000.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I max out and save some extra outside my Employer Plan / IRA,,"$20,000-$50,000",Employed (full or part time),Rent,2-3 months,"$50,000-$100,000",Within the next 6 months,,"Yes, my own",,,No,3500,30.8,114.0,0,0,0,1,0,1,1,,0,,0
+61089,302950.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I max out and save some extra outside my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"More than $100,000",,,"Yes, my own",,,No,,40.05,51.6,0,1,1,1,0,1,0,0,,,0
+14782,2.06,"Yes, in an Education Savings Account (ESA such as a 529 plan)",,,,Employed (full or part time),Other,,,,,No / Not sure,,,No,,28.0,52.2,0,0,,1,0,0,,,,0,0
+70683,,"Yes, in an Education Savings Account (ESA such as a 529 plan)",,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, my own",,,Not sure,,66.0,24.0,0,1,,1,0,1,,,,1,0
+75078,89128.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Rent,4-6 months,I don't have any savings,,,"Yes, through my work",,,No,,45.78,0.0,0,1,1,1,1,1,0,,,1,1
+9375,,"Yes, in an Education Savings Account (ESA such as a 529 plan)",,,,Employed (full or part time),Own my home outright,,,,,"Yes, my own",,,Not sure,,65.27,64.2,,0,,1,0,1,,,,,
+21330,,"Yes, in an Education Savings Account (ESA such as a 529 plan)",,,,Employed (full or part time),Rent,,,As soon as I can,,"Yes, through my work",,,Yes,3500,30.45,57.0,1,0,,1,0,0,,,1,,0
+15752,184000.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I max out my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$10,000-$20,000",,,"Yes, my own",,,Yes,,61.02,68.4,0,1,1,1,0,1,0,0,,,0
+5488,348000.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I max out my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"More than $100,000",,,"Yes, through my work",,,No,,47.0,102.0,0,1,1,1,0,1,0,,,0,0
+122446,,"Yes, in an Education Savings Account (ESA such as a 529 plan)",,,,Employed (full or part time),Own my home with a mortgage,,,,,No / Not sure,,,Yes,,42.32,56.4,0,1,,1,0,1,,,,0,0
+90835,164650.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I max out my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"$20,000-$50,000",,,"Yes, my own",,,No,,34.71,98.1,0,0,1,1,0,1,0,,,0,0
+12326,,"Yes, in an Education Savings Account (ESA such as a 529 plan)",,,,Employed (full or part time),Own my home with a mortgage,,,,Fixed rate mortgage,"Yes, my own",30-year fixed rate,Under 3.5%,Yes,,66.6,126.0,0,0,,1,0,1,,0,,,0
+193980,,"Yes, in an Education Savings Account (ESA such as a 529 plan)",,,,Own a business,,,,,,"Yes, my own",,,No,,54.5,103.5,,1,,1,0,1,,,,,
+196286,172500.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I save enough to get my employer match,,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"More than $100,000",,,"Yes, my own",,,No,,32.76,66.0,0,1,0,1,0,1,0,,,0,0
+42980,,"Yes, in an Education Savings Account (ESA such as a 529 plan)",,,,Employed (full or part time),Rent,,,,,No / Not sure,,,Not sure,,29.75,92.7,0,0,,1,0,0,,,,0,0
+2571,250800.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I max out and save some extra outside my Employer Plan / IRA,,"$250,000-$500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$50,000-$100,000",,,"Yes, my own",,,Yes,,31.85,81.0,0,0,1,1,0,1,0,,,0,1
+47829,45045.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I max out my Employer Plan / IRA,,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,I don't have any savings,I don't have any savings,,,"Yes, my own",,,No,,46.08,35.4,0,0,1,1,0,0,0,,,0,0
+201306,10100.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",Not currently contributing,,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"More than $100,000",,Fixed rate mortgage,No / Not sure,5/1 ARM,4.5% - 4.99%,No,,30.8,126.0,1,0,0,1,0,0,1,0,,,0
+175373,,"Yes, in an Education Savings Account (ESA such as a 529 plan)",,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, my own",,,No,,29.76,66.6,0,1,,1,0,1,,,,0,1
+77385,138000.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Own my home with a mortgage,4-6 months,I don't have any savings,,,"Yes, my own",,,No,,36.45,55.8,0,1,0,1,0,1,0,,,0,0
+63402,58000.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)","I save a bit, as I can",,"$10,000-$20,000",Employed (full or part time),Own my home with a mortgage,1 month or less,"Less than $5,000",,Adjustable rate mortgage,"Yes, through my work",7/1 ARM,4.0% - 4.49%,No,,36.75,74.7,0,0,1,1,0,1,0,0,,,1
+122968,,"Yes, in an Education Savings Account (ESA such as a 529 plan)",,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, through my work",,,Yes,,50.16,102.6,0,1,,1,0,1,,,,1,0
+66923,68250.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",Not currently contributing,,"Less than $10,000",Employed (full or part time),Rent,2-3 months,"Less than $5,000",,,No / Not sure,,,No,,38.11,58.2,0,1,0,1,1,1,,,,0,0
+59839,,"Yes, in an Education Savings Account (ESA such as a 529 plan)",,,,Not working / Other,Rent,,,,,No / Not sure,,,No,,32.98,31.8,0,1,,1,0,1,,,,1,0
+186687,77.76,"Yes, in an Education Savings Account (ESA such as a 529 plan)",,,,Not working / Other,Own my home with a mortgage,,,,,"Yes, through my work",,,Yes,,59.76,70.2,0,0,,1,1,1,,,,0,1
+133610,164500.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I max out my Employer Plan / IRA,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"$10,000-$20,000",,,"Yes, through my work",,,No,,36.8,81.9,0,0,1,1,0,1,0,,,0,0
+123582,480000.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I max out and save some extra outside my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"More than $100,000",,,"Yes, through my work",,,No,,49.28,81.9,0,1,1,1,0,1,0,,,1,0
+32430,66950.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",Not currently contributing,,"$10,000-$20,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$20,000-$50,000",,,No / Not sure,,,No,,35.49,104.4,0,0,1,1,0,0,0,,,0,0
+62774,148500.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I max out my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"More than $100,000",,,"Yes, my own",,,No,,45.6,61.2,1,1,1,1,0,0,0,0,,,0
+182233,241800.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I max out and save some extra outside my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Own my home outright,More than 6 months,"More than $100,000",,,"Yes, through my work",,,No,,35.2,109.2,0,1,1,1,0,1,0,,,1,0
+4863,249000.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I max out my Employer Plan / IRA,,"$250,000-$500,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"Less than $5,000",,,"Yes, through my work",,,No,,57.82,55.2,0,0,0,1,0,0,0,,,1,0
+204248,83200.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)",I max out my Employer Plan / IRA,,"$250,000-$500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$20,000-$50,000",,,"Yes, my own",,,Yes,,45.5,91.8,0,0,1,1,0,1,0,,,0,0
+151302,194000.0,"Yes, in an Education Savings Account (ESA such as a 529 plan)","I save a bit, as I can",,"$100,000-$250,000",Employed (full or part time),Own my home outright,4-6 months,"Less than $5,000",,,No / Not sure,,,No,,46.2,25.2,0,0,1,1,0,1,0,,,0,0
+175531,,"Yes, in an Education Savings Account (ESA such as a 529 plan)",,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, my own",,,Yes,,59.4,54.6,0,0,,1,0,1,,,,0,0
+15405,103680.0,,I max out and save some extra outside my Employer Plan / IRA,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$50,000-$100,000",,,"Yes, through my work",,,No,,25.73,56.4,0,0,1,0,0,1,,,,0,0
+88959,42400.0,"No, but I'd like to someday",I max out and save some extra outside my Employer Plan / IRA,,"$50,000-$100,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"Less than $5,000",,VA or FHA Loan,"Yes, my own",30-year fixed rate,3.5% - 3.99%,No,,40.94,0.0,0,1,1,1,0,0,0,1,,,0
+133175,59400.0,,I max out and save some extra outside my Employer Plan / IRA,,I haven't saved for retirement,Employed (full or part time),Live rent-free,More than 6 months,I don't have any savings,,,"Yes, my own",,,Yes,,37.84,63.0,0,0,0,0,0,0,0,,,0,0
+152822,427.5,"Yes, but not in an ESA",I max out and save some extra outside my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"More than $100,000",,,"Yes, through my work",,,Yes,,49.3,68.4,0,0,1,1,1,1,0,,,1,0
+69386,174000.0,,I max out and save some extra outside my Employer Plan / IRA,,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$10,000-$20,000",,,"Yes, my own",,,Yes,,56.16,115.2,0,0,1,0,0,1,0,,,0,0
+62696,32531.2,,I max out and save some extra outside my Employer Plan / IRA,,"Less than $10,000",Employed (full or part time),Own my home outright,More than 6 months,"$50,000-$100,000",,,"Yes, my own",,,Yes,,55.44,103.2,0,0,1,0,0,1,1,,,0,0
+82294,226000.0,Not applicable,I max out and save some extra outside my Employer Plan / IRA,,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"Less than $5,000",,,"Yes, my own",,,Yes,,45.54,76.5,0,0,1,1,0,1,0,,,0,0
+106499,159000.0,,I max out and save some extra outside my Employer Plan / IRA,,"$10,000-$20,000",Own a business,Rent,2-3 months,"$10,000-$20,000",Within the next 6 months,,"Yes, my own",,,No,1444,66.0,104.4,0,0,1,0,0,1,0,,0,,0
+103326,163760.0,,I max out and save some extra outside my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$50,000-$100,000",,,"Yes, my own",,,Yes,,58.31,117.6,0,0,1,0,0,1,0,,,0,0
+142289,166005.0,,I max out and save some extra outside my Employer Plan / IRA,,"$50,000-$100,000",Own a business,Own my home outright,More than 6 months,"$20,000-$50,000",,,"Yes, through my work",,,No,,69.6,49.2,0,0,0,0,0,1,0,,,0,0
+59760,111600.0,,I max out and save some extra outside my Employer Plan / IRA,,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"$10,000-$20,000",,,"Yes, my own",,,No,,27.0,70.8,0,0,1,0,0,1,0,,,0,0
+73418,116280.0,,I max out and save some extra outside my Employer Plan / IRA,,"Less than $10,000",Employed (full or part time),Rent,2-3 months,"Less than $5,000",,,"Yes, through my work",,,No,,21.87,66.0,0,0,1,0,0,1,0,,,0,0
+97010,95000.0,,I max out and save some extra outside my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"More than $100,000",,,"Yes, my own",,,Yes,,43.68,84.6,0,0,1,0,0,1,0,,,0,0
+30992,26750.0,"Yes, but not in an ESA",I max out and save some extra outside my Employer Plan / IRA,,"$20,000-$50,000",Not working / Other,Rent,More than 6 months,"Less than $5,000",,,"Yes, my own",,,Not sure,,38.64,65.4,1,0,0,1,0,0,0,,,0,0
+49662,250000.0,"Yes, but not in an ESA",I max out and save some extra outside my Employer Plan / IRA,,"$250,000-$500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$20,000-$50,000",,,"Yes, through my work",,,Yes,,37.2,144.0,0,1,1,1,0,1,0,,,0,0
+138083,193050.0,,I max out and save some extra outside my Employer Plan / IRA,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$20,000-$50,000",,,"Yes, through my work",,,No,,44.8,67.8,0,0,1,0,0,1,0,,,0,0
+4021,140700.0,,I max out and save some extra outside my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"More than $100,000",,,No / Not sure,,,Yes,,43.0,98.1,0,0,1,0,0,0,0,,,0,0
+122461,134400.0,Not applicable,I max out and save some extra outside my Employer Plan / IRA,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$5,000-$10,000",,,"Yes, through my work",,,Yes,,49.0,49.8,0,0,1,1,0,1,0,0,,,0
+148088,222610.0,,I max out and save some extra outside my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Rent,More than 6 months,"More than $100,000",,,"Yes, through my work",,,No,,38.8,104.4,0,0,1,0,0,0,0,,,0,0
+29544,60000.0,,I max out and save some extra outside my Employer Plan / IRA,,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,1 month or less,"Less than $5,000",,,"Yes, through my work",,,No,,56.68,57.0,0,0,1,0,0,0,0,,,0,0
+43554,109200.0,,I max out and save some extra outside my Employer Plan / IRA,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"$5,000-$10,000",,,"Yes, my own",,,Yes,,47.3,106.2,0,0,1,0,0,1,0,,,0,0
+156251,194999.22,,I max out and save some extra outside my Employer Plan / IRA,,"$20,000-$50,000",Employed (full or part time),Rent,2-3 months,"$10,000-$20,000",Within the next 6 months,,"Yes, my own",,,Yes,1500,38.15,87.3,0,0,1,0,0,0,0,,0,,0
+70937,35877.42,,I max out and save some extra outside my Employer Plan / IRA,,"$50,000-$100,000",Own a business,Rent,,"$5,000-$10,000",Within the next 6 months,,"Yes, my own",,,No,3333,33.66,81.0,0,0,,0,0,1,,,0,,0
+151471,890000.0,,I max out and save some extra outside my Employer Plan / IRA,,"More than $500,000",Own a business,Own my home outright,More than 6 months,"More than $100,000",,,"Yes, my own",,,Yes,,56.64,82.8,0,0,1,0,0,1,0,,,0,0
+168482,530000.0,,I max out and save some extra outside my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$50,000-$100,000",,,"Yes, my own",,,Yes,,45.0,91.8,0,0,1,0,0,1,0,,,0,0
+24007,44080.0,,I max out and save some extra outside my Employer Plan / IRA,,"$50,000-$100,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$10,000-$20,000",,,"Yes, my own",,,Yes,,52.8,0.0,0,0,1,0,0,0,1,,,0,0
+58634,56000.0,,I max out and save some extra outside my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"More than $100,000",,Fixed rate mortgage,"Yes, my own",7/1 ARM,3.5% - 3.99%,No,,32.2,115.2,0,0,0,0,0,0,0,1,,,0
+161135,143100.0,"No, I haven't really thought about it",I max out and save some extra outside my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Own my home outright,More than 6 months,"More than $100,000",,,"Yes, through my work",,,No,,47.04,61.2,0,0,1,1,0,1,0,,,0,0
+77105,135600.0,,I max out and save some extra outside my Employer Plan / IRA,,"$10,000-$20,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$20,000-$50,000",,,"Yes, through my work",,,No,,42.92,52.2,0,0,1,0,0,1,0,,,0,0
+120232,95000.0,,I max out and save some extra outside my Employer Plan / IRA,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,1 month or less,"Less than $5,000",,,"Yes, through my work",,,Yes,,62.64,0.0,0,1,1,0,0,1,0,,,1,0
+298,115700.0,,I max out and save some extra outside my Employer Plan / IRA,,"$20,000-$50,000",Employed (full or part time),Rent,More than 6 months,"$20,000-$50,000",,,"Yes, through my work",,,No,,28.8,91.8,0,0,1,0,0,0,0,,,0,0
+13933,172800.0,,I max out and save some extra outside my Employer Plan / IRA,,"$50,000-$100,000",Employed (full or part time),Live rent-free,More than 6 months,"$20,000-$50,000",,,"Yes, through my work",,,No,,32.32,32.4,0,0,1,0,0,1,0,,,0,1
+76623,837000.0,"Yes, but not in an ESA",I max out and save some extra outside my Employer Plan / IRA,,"More than $500,000",Own a business,Own my home with a mortgage,More than 6 months,"More than $100,000",,,"Yes, my own",,,Yes,,39.96,97.2,0,0,1,1,0,1,0,,,1,0
+41172,49560.0,,I max out and save some extra outside my Employer Plan / IRA,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$20,000-$50,000",,,"Yes, through my work",,,No,,56.42,55.2,0,0,1,0,0,1,0,,,0,0
+80275,348000.0,,I max out and save some extra outside my Employer Plan / IRA,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, through my work",,,No,,39.55,136.8,0,0,,0,0,1,,,,0,0
+173501,216000.0,,I max out and save some extra outside my Employer Plan / IRA,,"$100,000-$250,000",Employed (full or part time),Own my home outright,More than 6 months,"More than $100,000",,,"Yes, through my work",,,Yes,,53.58,92.7,0,0,1,0,0,1,0,,,1,0
+92289,118000.0,,I max out and save some extra outside my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"More than $100,000",,,"Yes, my own",,,Yes,,41.0,84.6,0,0,1,0,0,1,1,,,0,0
+65047,64200.0,,I max out and save some extra outside my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Rent,More than 6 months,"More than $100,000",As soon as I can,,"Yes, through my work",,,No,5000,29.75,144.0,0,0,1,0,0,0,0,,1,,0
+125195,32470.42,"Yes, but not in an ESA",I max out and save some extra outside my Employer Plan / IRA,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$20,000-$50,000",,Adjustable rate mortgage,"Yes, my own",5/1 ARM,Under 3.5%,No,,29.12,67.8,0,0,0,1,0,0,1,0,,,0
+87354,44500.0,,I max out and save some extra outside my Employer Plan / IRA,,"$50,000-$100,000",Employed (full or part time),Own my home with a mortgage,,"$20,000-$50,000",,,"Yes, through my work",,,No,,34.96,60.6,0,0,,0,0,1,,0,,,0
+95847,61500.0,,I max out and save some extra outside my Employer Plan / IRA,,"$250,000-$500,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"Less than $5,000",,,"Yes, through my work",,,No,,59.85,56.4,0,0,1,0,0,0,1,,,0,0
+41678,82000.0,,I max out and save some extra outside my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Rent,More than 6 months,"More than $100,000",Within the next 6 months,,"Yes, through my work",,,Yes,2000,67.2,69.6,0,0,1,0,0,0,0,,0,,0
+177772,56500.0,"No, I haven't really thought about it",I max out and save some extra outside my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Rent,More than 6 months,"More than $100,000",Within the next 6 months,,No / Not sure,,,Not sure,3000,31.85,141.6,0,0,1,1,0,0,0,,0,,0
+95009,60720.0,Not applicable,I max out and save some extra outside my Employer Plan / IRA,,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$20,000-$50,000",,,"Yes, through my work",,,No,,74.75,73.8,0,0,1,1,0,0,0,0,,,1
+119247,53500.0,,I max out and save some extra outside my Employer Plan / IRA,,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$20,000-$50,000",,,"Yes, my own",,,Yes,,62.64,128.4,0,0,1,0,0,1,0,,,0,0
+99240,42033.01,,I max out and save some extra outside my Employer Plan / IRA,,"$10,000-$20,000",Employed (full or part time),Own my home with a mortgage,1 month or less,"$5,000-$10,000",,Fixed rate mortgage,"Yes, my own",30-year fixed rate,Under 3.5%,No,,28.38,72.9,0,0,1,0,0,0,0,0,,,0
+151073,142100.0,,I max out and save some extra outside my Employer Plan / IRA,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"$20,000-$50,000",,,No / Not sure,,,No,,36.9,57.6,0,0,1,0,0,1,0,,,0,0
+71216,246000.0,,I max out and save some extra outside my Employer Plan / IRA,,"$250,000-$500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$50,000-$100,000",,,"Yes, through my work",,,No,,36.3,111.6,0,0,1,0,0,1,0,,,0,0
+59307,312000.0,,I max out and save some extra outside my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Own my home outright,More than 6 months,"More than $100,000",,,No / Not sure,,,Yes,,73.13,100.8,0,0,1,0,0,0,0,,,0,0
+185013,172000.0,"Yes, but not in an ESA",I max out and save some extra outside my Employer Plan / IRA,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"More than $100,000",,,"Yes, through my work",,,Yes,,46.74,63.6,0,0,1,1,0,1,0,,,1,0
+196788,357066.32,,I max out and save some extra outside my Employer Plan / IRA,,"Less than $10,000",Own a business,Rent,1 month or less,"Less than $5,000",As soon as I can,,"Yes, my own",,,No,344,42.68,73.8,0,0,1,0,0,1,0,,0,,0
+44419,275000.0,,I max out and save some extra outside my Employer Plan / IRA,,"Less than $10,000",Own a business,Own my home with a mortgage,2-3 months,"$10,000-$20,000",,,"Yes, my own",,,No,,48.0,64.2,0,0,0,0,0,1,0,,,0,0
+141021,147000.0,,I max out and save some extra outside my Employer Plan / IRA,,"More than $500,000",Own a business,Own my home outright,More than 6 months,"More than $100,000",,,"Yes, my own",,,Yes,,68.62,120.0,0,0,0,0,0,1,0,,,0,0
+34349,210000.0,,I max out and save some extra outside my Employer Plan / IRA,,"$100,000-$250,000",Own a business,Own my home with a mortgage,2-3 months,"$5,000-$10,000",,,"Yes, my own",,,No,,50.5,67.8,0,0,0,0,0,1,0,,,0,0
+189262,309000.0,,I max out and save some extra outside my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$50,000-$100,000",,,"Yes, through my work",,,Yes,,43.2,87.3,0,1,1,0,0,1,0,,,0,0
+18470,48790.0,"No, but I'd like to someday",I max out and save some extra outside my Employer Plan / IRA,,"Less than $10,000",Employed (full or part time),Rent,2-3 months,"Less than $5,000",,,"Yes, through my work",,,No,,57.78,53.4,1,1,1,1,0,0,1,,,1,0
+60681,332800.0,,I max out and save some extra outside my Employer Plan / IRA,,"$250,000-$500,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"$5,000-$10,000",,,"Yes, through my work",,,No,,30.8,81.0,0,0,1,0,0,1,0,,,0,0
+175831,81000.0,"No, I haven't really thought about it",I max out and save some extra outside my Employer Plan / IRA,,"$250,000-$500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"More than $100,000",,Fixed rate mortgage,"Yes, through my work",30-year fixed rate,4.0% - 4.49%,No,,36.4,120.0,1,1,1,1,0,0,0,1,,,1
+192747,399678.36,,I max out and save some extra outside my Employer Plan / IRA,,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"$10,000-$20,000",,Fixed rate mortgage,"Yes, my own",15-year fixed rate,4.5% - 4.99%,No,,28.38,108.0,0,0,1,0,0,0,0,0,,,0
+16399,186750.0,,I max out and save some extra outside my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"More than $100,000",,,"Yes, my own",,,Yes,,63.6,117.6,0,1,1,0,0,1,0,,,0,0
+103099,71940.0,,I max out and save some extra outside my Employer Plan / IRA,,"$50,000-$100,000",Employed (full or part time),Rent,More than 6 months,"$10,000-$20,000",,,"Yes, through my work",,,No,,28.25,57.6,0,0,1,0,0,0,0,,,1,0
+33747,288000.0,,I max out and save some extra outside my Employer Plan / IRA,,"$250,000-$500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$50,000-$100,000",,,"Yes, through my work",,,No,,54.6,0.0,0,0,1,0,0,1,0,,,0,0
+44689,63000.0,,I max out and save some extra outside my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Rent,More than 6 months,"More than $100,000",As soon as I can,,"Yes, through my work",,,No,35,44.0,98.4,0,0,0,0,0,0,0,,1,,0
+84048,101000.0,Not applicable,I max out and save some extra outside my Employer Plan / IRA,,"$50,000-$100,000",Employed (full or part time),Own my home outright,More than 6 months,"$50,000-$100,000",,,"Yes, my own",,,Yes,,62.54,59.4,0,0,1,1,1,1,1,,,0,0
+197639,190000.0,,I max out and save some extra outside my Employer Plan / IRA,,"$100,000-$250,000",Homemaker / Caregiver,Own my home with a mortgage,4-6 months,"$20,000-$50,000",,,No / Not sure,,,No,,26.6,0.0,0,0,1,0,0,0,1,,,1,0
+90929,90900.0,,I save enough to get my employer match,,"$10,000-$20,000",Employed (full or part time),Own my home with a mortgage,,"$5,000-$10,000",,,No / Not sure,,,Not sure,,40.92,48.6,0,0,1,0,0,1,,,,0,0
+167556,255000.0,,I save enough to get my employer match,,"$250,000-$500,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"$20,000-$50,000",,,"Yes, through my work",,,No,,42.18,55.2,0,0,1,0,0,0,0,,,0,0
+34386,106200.0,Not applicable,I save enough to get my employer match,,"$20,000-$50,000",Employed (full or part time),Rent,1 month or less,I don't have any savings,,,No / Not sure,,,No,,44.62,33.3,0,0,1,1,0,1,0,,,0,0
+13119,24975.0,,I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Rent,4-6 months,"Less than $5,000",,,"Yes, through my work",,,No,,57.82,63.6,0,0,1,0,0,1,0,,,0,0
+74854,184000.0,,I save enough to get my employer match,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"More than $100,000",,Fixed rate mortgage,"Yes, through my work",30-year fixed rate,Under 3.5%,No,,58.8,48.6,0,0,1,0,0,0,0,1,,,0
+96088,49680.0,,I save enough to get my employer match,,,Employed (full or part time),Other,,,,,"Yes, through my work",,,Not sure,,51.85,51.6,0,0,,0,0,1,,,,1,0
+55612,149.5,,I save enough to get my employer match,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,1 month or less,"$50,000-$100,000",,,"Yes, through my work",,,Yes,,49.92,48.0,0,0,1,0,0,1,0,,,1,0
+93607,32400.0,"No, but I'd like to someday",I save enough to get my employer match,,"$50,000-$100,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$10,000-$20,000",,,No / Not sure,,,No,,42.0,102.0,0,0,1,1,0,1,0,,,0,0
+60127,33200.0,"No, but I'd like to someday",I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Rent,4-6 months,"$5,000-$10,000",As soon as I can,,"Yes, through my work",,,No,805,26.88,58.8,0,1,1,1,0,1,0,,1,,0
+67108,41500.0,,I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Own my home with a mortgage,1 month or less,"Less than $5,000",,Fixed rate mortgage,No / Not sure,30-year fixed rate,4.0% - 4.49%,Not sure,,48.72,121.2,0,0,1,0,0,0,0,1,,,0
+77723,80910.0,"No, but I'd like to someday",I save enough to get my employer match,,"$50,000-$100,000",Employed (full or part time),Rent,4-6 months,"$10,000-$20,000",,,No / Not sure,,,Yes,,39.59,98.4,0,0,0,0,0,1,0,,,0,0
+129398,443019.66,,I save enough to get my employer match,,"$20,000-$50,000",Own a business,Rent,2-3 months,"$5,000-$10,000",Within the next 6 months,,"Yes, my own",,,Yes,3333,31.68,57.6,0,0,1,0,0,1,0,,0,,0
+52491,59340.0,,I save enough to get my employer match,,"$20,000-$50,000",Employed (full or part time),Rent,4-6 months,"$20,000-$50,000",Within the next year,,No / Not sure,,,No,700,28.84,94.5,0,0,1,0,0,0,0,,0,,0
+202696,86000.0,,I save enough to get my employer match,,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"$5,000-$10,000",,,"Yes, my own",,,Not sure,,26.66,61.2,0,0,1,0,0,1,0,,,0,1
+67111,4368.0,Not applicable,I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Rent,2-3 months,"Less than $5,000",,,No / Not sure,,,Not sure,,34.83,51.0,0,0,0,1,0,1,,,,0,0
+200670,163500.0,"Yes, but not in an ESA",I save enough to get my employer match,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$20,000-$50,000",,,"Yes, through my work",,,No,,35.35,90.0,0,0,1,1,0,1,0,,,1,0
+154300,75650.0,,I save enough to get my employer match,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"Less than $5,000",,Adjustable rate mortgage,"Yes, through my work",I don't know my term,Under 3.5%,No,,56.0,69.6,0,0,1,0,0,1,0,0,,,0
+70754,47200.0,,I save enough to get my employer match,,"$50,000-$100,000",Not working / Other,Own my home with a mortgage,I don't have any savings,"$50,000-$100,000",,,No / Not sure,,,No,,62.54,66.0,0,0,1,0,0,0,0,,,0,0
+47489,47192.0,"Yes, but not in an ESA",I save enough to get my employer match,,"$50,000-$100,000",Employed (full or part time),Rent,1 month or less,"Less than $5,000",,,"Yes, my own",,,No,,34.3,52.2,0,0,1,1,0,1,0,,,0,0
+71613,74665.92,,I save enough to get my employer match,,"$20,000-$50,000",Own a business,Own my home with a mortgage,4-6 months,"$10,000-$20,000",,Adjustable rate mortgage,"Yes, my own",3/1 ARM,3.5% - 3.99%,No,,47.3,53.4,0,0,0,1,0,0,0,0,,,0
+187496,93500.0,"Yes, but not in an ESA",I save enough to get my employer match,,"$10,000-$20,000",Employed (full or part time),Rent,4-6 months,"Less than $5,000",Within the next 2 years,,No / Not sure,,,No,800,40.28,69.6,0,0,1,1,0,1,0,,1,,0
+193132,113400.0,,I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Rent,2-3 months,"$10,000-$20,000",,,"Yes, through my work",,,No,,23.78,58.8,0,0,1,0,0,1,0,,,0,0
+157900,67200.0,Not applicable,I save enough to get my employer match,,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"$10,000-$20,000",,,"Yes, my own",,,Yes,,40.92,52.2,0,0,1,1,0,1,0,,,0,0
+115119,79200.0,,I save enough to get my employer match,,"$10,000-$20,000",Employed (full or part time),Other,1 month or less,"Less than $5,000",,,"Yes, through my work",,,Yes,,36.52,30.9,1,1,1,0,0,1,1,,,0,0
+9187,199800.0,,I save enough to get my employer match,,"$250,000-$500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$20,000-$50,000",,,"Yes, through my work",,,No,,51.5,58.2,0,0,1,0,0,1,0,,,0,0
+136939,105300.0,,I save enough to get my employer match,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,1 month or less,I don't have any savings,,Fixed rate mortgage,No / Not sure,30-year fixed rate,5.0% or higher,Yes,,49.5,0.0,0,0,1,0,0,1,0,1,,,0
+195444,77000.0,,I save enough to get my employer match,,"$20,000-$50,000",Employed (full or part time),Rent,I don't have any savings,I don't have any savings,,,"Yes, through my work",,,Yes,,53.46,54.6,0,0,0,0,0,1,0,,,0,0
+11540,21780.0,,I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Rent,I don't have any savings,I don't have any savings,,,No / Not sure,,,No,,34.51,35.7,0,0,1,0,0,0,0,,,0,0
+148337,92551.2,"No, but I'd like to someday",I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Rent,1 month or less,"Less than $5,000",,,"Yes, through my work",,,No,,41.83,116.4,0,1,1,1,0,0,1,,,0,0
+8584,68400.0,"No, but I'd like to someday",I save enough to get my employer match,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$5,000-$10,000",,,"Yes, through my work",,,No,,44.65,85.5,0,0,1,1,0,1,1,,,0,0
+172837,102960.0,"No, but I'd like to someday",I save enough to get my employer match,,"$50,000-$100,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"$10,000-$20,000",,,"Yes, through my work",,,No,,32.1,51.6,0,0,1,1,0,1,0,,,0,0
+104242,41500.0,"No, but I'd like to someday",I save enough to get my employer match,,"$250,000-$500,000",Employed (full or part time),Own my home with a mortgage,1 month or less,I don't have any savings,,,"Yes, through my work",,,No,,51.17,0.0,0,0,1,1,0,0,0,,,0,0
+108930,31150.0,,I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Rent,1 month or less,"Less than $5,000",,,No / Not sure,,,No,,30.68,0.0,0,0,1,0,0,1,0,,,1,0
+91801,34200.0,,I save enough to get my employer match,,"$50,000-$100,000",Employed (full or part time),Own my home outright,More than 6 months,"$20,000-$50,000",,,"Yes, my own",,,Yes,,71.28,135.6,0,0,1,0,0,0,0,,,1,0
+144668,135720.0,,I save enough to get my employer match,,"$50,000-$100,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"More than $100,000",,,"Yes, through my work",,,Yes,,35.84,99.0,0,0,1,0,0,0,0,,,0,0
+167551,166500.0,"No, I haven't really thought about it",I save enough to get my employer match,,"$20,000-$50,000",Employed (full or part time),Rent,2-3 months,"$5,000-$10,000",,,"Yes, through my work",,,Yes,,38.0,107.1,0,1,1,1,0,1,0,,,0,0
+19736,1456.0,,I save enough to get my employer match,,"$10,000-$20,000",Employed (full or part time),Own my home with a mortgage,1 month or less,I don't have any savings,,,"Yes, through my work",,,No,,46.98,60.0,0,0,1,0,0,1,1,,,0,0
+79388,52200.0,,I save enough to get my employer match,,"$10,000-$20,000",Employed (full or part time),Rent,I don't have any savings,"$10,000-$20,000",,,No / Not sure,,,Not sure,,43.24,60.0,0,0,1,0,0,1,0,,,1,0
+35018,35200.0,,I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Rent,4-6 months,I don't have any savings,Within the next year,,"Yes, my own",,,No,1125,38.52,48.6,0,0,1,0,0,1,0,,1,,0
+162802,57750.0,Not applicable,I save enough to get my employer match,,"$10,000-$20,000",Employed (full or part time),Own my home with a mortgage,I don't have any savings,"Less than $5,000",,,No / Not sure,,,No,,70.15,31.5,0,0,1,1,1,0,0,,,1,0
+54970,435000.0,"No, but I'd like to someday",I save enough to get my employer match,,"$20,000-$50,000",Own a business,Own my home with a mortgage,More than 6 months,"$5,000-$10,000",,,No / Not sure,,,No,,46.8,0.0,0,0,0,1,0,1,0,,,1,0
+185595,149500.0,,I save enough to get my employer match,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"$10,000-$20,000",,,"Yes, my own",,,Yes,,58.65,80.1,0,0,1,0,0,0,0,,,0,0
+172845,199500.0,"No, but I'd like to someday",I save enough to get my employer match,,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,1 month or less,"Less than $5,000",,,"Yes, through my work",,,No,,39.39,51.0,0,0,1,1,0,1,0,,,0,0
+56282,29100.0,,I save enough to get my employer match,,"More than $500,000",Not working / Other,Own my home with a mortgage,More than 6 months,"More than $100,000",,,No / Not sure,,,No,,66.15,64.2,0,0,0,0,0,0,1,,,1,0
+178654,120000.0,,I save enough to get my employer match,,"$50,000-$100,000",Employed (full or part time),Rent,4-6 months,"$20,000-$50,000",,,"Yes, my own",,,Yes,,35.7,51.6,0,0,1,0,0,0,0,,,1,0
+141779,62400.0,"No, but I'd like to someday",I save enough to get my employer match,,"$10,000-$20,000",Employed (full or part time),Own my home with a mortgage,I don't have any savings,I don't have any savings,,,"Yes, my own",,,No,,39.56,0.0,0,0,1,1,0,1,0,,,0,0
+144308,90900.0,,I save enough to get my employer match,,"$10,000-$20,000",Employed (full or part time),Rent,I don't have any savings,"Less than $5,000",,,"Yes, through my work",,,No,,51.04,61.8,0,0,1,0,0,1,0,,,0,0
+3666,150800.0,"No, but I'd like to someday",I save enough to get my employer match,,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"$5,000-$10,000",,,"Yes, through my work",,,No,,26.35,52.8,0,0,1,1,0,1,0,,,1,0
+100097,423750.0,,I save enough to get my employer match,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"$20,000-$50,000",,,"Yes, through my work",,,No,,30.03,110.4,0,0,1,0,0,1,0,,,0,0
+14552,82450.0,"No, I haven't really thought about it",I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Own my home with a mortgage,1 month or less,"Less than $5,000",,,"Yes, through my work",,,No,,48.48,0.0,0,0,1,1,0,1,0,,,0,0
+203330,34300.0,"Yes, but not in an ESA",I save enough to get my employer match,,"$10,000-$20,000",Employed (full or part time),Rent,,"Less than $5,000",,,"Yes, my own",,,No,,42.48,49.2,0,0,0,1,0,1,,,,1,0
+51957,148500.0,,I save enough to get my employer match,,"$250,000-$500,000",Employed (full or part time),Rent,1 month or less,"Less than $5,000",,,"Yes, my own",,,No,,54.72,70.8,0,0,1,0,0,1,0,,,0,0
+94077,39088.0,"Yes, but not in an ESA",I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Live rent-free,4-6 months,"Less than $5,000",,,"Yes, through my work",,,No,,27.6,64.8,0,0,1,1,0,0,1,,,0,0
+93834,111100.0,Not applicable,I save enough to get my employer match,,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,1 month or less,I don't have any savings,,,"Yes, through my work",,,No,,71.98,0.0,0,1,1,1,1,0,1,,,0,0
+66050,220000.0,"Yes, but not in an ESA",I save enough to get my employer match,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,,"$20,000-$50,000",,,"Yes, through my work",,,No,,49.98,66.0,0,0,1,1,0,1,,,,1,0
+139770,55395.45,,I save enough to get my employer match,,"$100,000-$250,000",Employed (full or part time),Rent,2-3 months,"$10,000-$20,000",,,No / Not sure,,,No,,45.24,0.0,0,0,1,0,0,0,0,,,0,0
+151203,182000.0,,I save enough to get my employer match,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"$20,000-$50,000",,,"Yes, through my work",,,Yes,,39.6,55.8,0,0,0,0,0,1,0,,,0,0
+27553,104400.0,,I save enough to get my employer match,,"$10,000-$20,000",Employed (full or part time),Rent,More than 6 months,"$20,000-$50,000",,,"Yes, my own",,,No,,29.25,72.0,0,0,1,0,0,0,0,,,0,0
+138393,111800.0,,I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"Less than $5,000",,,"Yes, through my work",,,No,,22.4,53.4,0,1,1,0,0,1,0,,,0,0
+56250,41810.0,,I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Rent,1 month or less,"Less than $5,000",,,"Yes, through my work",,,No,,49.4,61.8,0,0,1,0,0,1,0,,,0,0
+203006,75200.0,,I save enough to get my employer match,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, through my work",,,No,,43.61,58.8,0,0,,0,0,0,,,,0,0
+56946,64000.0,,I save enough to get my employer match,,"$100,000-$250,000",Own a business,Own my home with a mortgage,2-3 months,"Less than $5,000",,,"Yes, my own",,,Yes,,36.98,49.8,0,0,0,0,0,0,0,,,0,0
+193504,59400.0,,I save enough to get my employer match,,"$20,000-$50,000",Employed (full or part time),Other,1 month or less,"Less than $5,000",,,"Yes, my own",,,No,,35.84,59.4,0,0,1,0,0,0,0,,,0,0
+98651,110250.0,"Yes, but not in an ESA",I save enough to get my employer match,,"$10,000-$20,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$5,000-$10,000",,,No / Not sure,,,Yes,,53.35,65.4,0,0,1,1,0,1,0,,,0,0
+1400,307200.0,,I save enough to get my employer match,,"$100,000-$250,000",Employed (full or part time),Rent,More than 6 months,"More than $100,000",,,"Yes, through my work",,,No,,27.2,88.2,0,0,1,0,0,1,0,,,0,0
+28936,266.4,,I save enough to get my employer match,,"$20,000-$50,000",Own a business,Own my home outright,I don't have any savings,I don't have any savings,,,No / Not sure,,,Not sure,,33.99,64.8,0,0,0,0,1,0,0,,,1,0
+141097,45450.0,,I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Own my home outright,1 month or less,"Less than $5,000",,,"Yes, through my work",,,No,,67.86,53.4,0,0,1,0,0,0,1,,,0,0
+71505,32100.0,"No, I haven't really thought about it",I save enough to get my employer match,,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"$10,000-$20,000",,,No / Not sure,,,No,,53.1,0.0,0,0,1,1,0,1,0,,,1,1
+40611,48600.0,,I save enough to get my employer match,,"$50,000-$100,000",Employed (full or part time),Own my home outright,More than 6 months,"$20,000-$50,000",,,"Yes, through my work",,,No,,54.0,66.0,0,0,1,0,0,0,,,,0,0
+7886,64862.0,,I save enough to get my employer match,,"$20,000-$50,000",Employed (full or part time),Live rent-free,4-6 months,"$10,000-$20,000",,,"Yes, through my work",,,No,,41.4,53.4,0,0,1,0,0,1,0,,,1,0
+170884,54600.0,,I save enough to get my employer match,,"$20,000-$50,000",Employed (full or part time),Rent,2-3 months,I don't have any savings,,,"Yes, through my work",,,Yes,,37.8,0.0,0,1,0,0,0,1,1,,,1,1
+106589,297500.0,"No, I haven't really thought about it",I save enough to get my employer match,,"$50,000-$100,000",Employed (full or part time),Own my home with a mortgage,1 month or less,"$50,000-$100,000",,Fixed rate mortgage,"Yes, my own",30-year fixed rate,Under 3.5%,No,,38.38,52.2,0,0,1,1,0,1,0,0,,,0
+128898,76999.23,,I save enough to get my employer match,,"$250,000-$500,000",Own a business,Own my home outright,2-3 months,"$10,000-$20,000",,,"Yes, my own",,,No,,67.76,49.2,0,0,0,1,0,0,0,,,1,0
+29938,54500.0,,I save enough to get my employer match,,"$10,000-$20,000",Employed (full or part time),Live rent-free,1 month or less,"$10,000-$20,000",,,"Yes, my own",,,Yes,,17.2,0.0,0,0,0,0,0,0,0,,,0,0
+85158,263200.0,,I save enough to get my employer match,,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"More than $100,000",,,"Yes, through my work",,,Yes,,30.08,71.4,0,0,1,0,0,1,0,0,,,0
+111104,52640.0,,I save enough to get my employer match,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$20,000-$50,000",,,"Yes, through my work",,,Yes,,59.59,48.6,0,0,0,0,0,0,0,,,0,0
+92910,99000.0,,I save enough to get my employer match,,"$100,000-$250,000",Employed (full or part time),Own my home outright,1 month or less,"Less than $5,000",,,"Yes, my own",,,Yes,,51.51,49.2,0,0,1,0,0,1,0,,,0,0
+204874,65800.0,,I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Rent,2-3 months,"Less than $5,000",,,"Yes, through my work",,,No,,29.0,86.4,0,0,1,0,0,1,0,,,0,0
+62101,147000.0,"Yes, but not in an ESA",I save enough to get my employer match,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,1 month or less,"$5,000-$10,000",,,"Yes, through my work",,,No,,35.28,0.0,0,0,0,1,0,1,0,,,0,0
+91901,113300.0,,I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Rent,I don't have any savings,I don't have any savings,,,"Yes, my own",,,No,,47.97,56.4,0,0,1,0,0,1,0,,,1,0
+190314,350200.0,,I save enough to get my employer match,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"$20,000-$50,000",,,"Yes, through my work",,,No,,34.34,59.4,0,0,1,0,0,1,0,,,0,0
+197634,117000.0,,I save enough to get my employer match,,"$100,000-$250,000",Employed (full or part time),Own my home outright,2-3 months,"$50,000-$100,000",,,"Yes, through my work",,,Not sure,,52.64,58.8,0,0,1,0,0,1,0,,,0,0
+129557,68440.0,,I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Rent,1 month or less,I don't have any savings,,,"Yes, through my work",,,Not sure,,46.8,0.0,1,1,1,0,0,0,0,,,0,0
+163034,58800.0,,I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Own my home with a mortgage,1 month or less,"Less than $5,000",,,"Yes, through my work",,,Not sure,,46.56,63.6,0,0,1,0,0,0,0,,,0,0
+127483,35970.0,"No, but I'd like to someday",I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Rent,I don't have any savings,I don't have any savings,,,"Yes, through my work",,,No,,37.2,0.0,0,0,1,1,0,0,0,,,1,0
+114719,80240.0,,I save enough to get my employer match,,I haven't saved for retirement,Employed (full or part time),Rent,I don't have any savings,I don't have any savings,,,"Yes, through my work",,,No,,56.4,0.0,0,0,1,0,0,0,0,,,1,0
+182923,40460.8,,I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Rent,1 month or less,"Less than $5,000",,,"Yes, through my work",,,No,,20.24,0.0,0,0,1,0,0,1,1,,,1,0
+97838,55760.0,,I save enough to get my employer match,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,2-3 months,I don't have any savings,,,"Yes, my own",,,No,,69.44,56.4,0,0,1,0,0,0,0,,,0,0
+203907,3600.0,,I save enough to get my employer match,,"$10,000-$20,000",Own a business,Rent,More than 6 months,"$5,000-$10,000",,,"Yes, my own",,,Not sure,,30.34,66.0,0,1,1,0,0,1,0,,,0,0
+166892,35100.0,,I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"Less than $5,000",,,"Yes, through my work",,,No,,25.38,35.7,0,0,1,0,0,1,0,,,0,0
+141273,65550.0,,I save enough to get my employer match,,"$10,000-$20,000",Employed (full or part time),Rent,I don't have any savings,I don't have any savings,Sometime in the future,,"Yes, through my work",,,No,1200,36.12,0.0,0,0,1,0,0,0,0,,0,,0
+101119,5050.0,"No, but I'd like to someday",I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Own my home with a mortgage,1 month or less,"$5,000-$10,000",,,"Yes, through my work",,,Yes,,35.35,141.6,0,0,0,1,0,1,0,,,0,0
+164001,38880.0,,I save enough to get my employer match,,"$20,000-$50,000",Employed (full or part time),Rent,4-6 months,"$5,000-$10,000",,,"Yes, through my work",,,No,,33.6,26.7,0,0,1,0,0,0,0,,,1,0
+2942,62250.0,Not applicable,I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"$5,000-$10,000",,,"Yes, through my work",,,Yes,,66.7,55.2,0,0,1,1,0,0,1,,,0,0
+67191,114000.0,,I save enough to get my employer match,,"$50,000-$100,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$50,000-$100,000",,,"Yes, through my work",,,Yes,,74.9,117.6,0,0,1,0,0,1,0,,,0,0
+175868,117600.0,,I save enough to get my employer match,,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"Less than $5,000",,,"Yes, my own",,,No,,73.71,58.2,0,0,1,0,0,0,0,,,0,0
+157975,60000.0,Not applicable,I save enough to get my employer match,,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$50,000-$100,000",,,"Yes, through my work",,,Yes,,56.71,111.6,0,0,1,1,0,1,0,,,0,0
+41662,32000.0,,I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Rent,1 month or less,"Less than $5,000",,,"Yes, through my work",,,Yes,,54.0,58.8,0,0,1,0,0,0,0,,,0,0
+186031,84000.0,,I save enough to get my employer match,,"$20,000-$50,000",Employed (full or part time),Rent,1 month or less,"$20,000-$50,000",As soon as I can,,"Yes, through my work",,,Not sure,1000,48.16,30.3,0,0,1,0,0,0,1,,0,,0
+34416,120900.0,,I save enough to get my employer match,,"$250,000-$500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$20,000-$50,000",,I don't know,"Yes, my own",Some other term,Under 3.5%,No,,31.92,103.2,0,0,1,0,0,1,0,0,,,0
+10380,170000.0,"No, but I'd like to someday",I save enough to get my employer match,,"$50,000-$100,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$20,000-$50,000",,,"Yes, my own",,,No,,35.2,93.6,0,0,1,1,0,1,0,,,0,1
+196594,119000.0,,I save enough to get my employer match,,"$50,000-$100,000",Employed (full or part time),Own my home outright,4-6 months,"More than $100,000",,,"Yes, through my work",,,No,,44.88,67.8,0,0,1,0,0,0,0,,,0,0
+39788,95400.0,,I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"Less than $5,000",,,"Yes, my own",,,No,,47.7,57.0,0,0,1,0,0,1,0,,,0,0
+40918,52890.0,"No, but I'd like to someday",I save enough to get my employer match,,"$10,000-$20,000",Employed (full or part time),Rent,2-3 months,"Less than $5,000",,,"Yes, through my work",,,No,,41.82,70.8,0,0,0,1,0,1,0,,,0,0
+50208,104000.0,,I save enough to get my employer match,,"$50,000-$100,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"$5,000-$10,000",,,"Yes, through my work",,,Yes,,63.0,54.6,0,0,1,0,0,0,0,,,0,0
+71199,22000.0,,I save enough to get my employer match,,"$20,000-$50,000",Employed (full or part time),Rent,1 month or less,I don't have any savings,Sometime in the future,,No / Not sure,,,Not sure,775,47.6,51.6,0,0,0,0,0,1,0,,0,,0
+5217,53472.52,,I save enough to get my employer match,,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,1 month or less,"Less than $5,000",,,"Yes, through my work",,,No,,27.81,35.7,0,0,1,0,0,0,0,,,0,0
+159818,24300.0,"No, but I'd like to someday",I save enough to get my employer match,,I haven't saved for retirement,Employed (full or part time),Rent,1 month or less,I don't have any savings,Sometime in the future,,No / Not sure,,,No,550,40.8,58.2,0,1,1,1,0,0,0,,1,,0
+140615,34200.0,,I save enough to get my employer match,,"Less than $10,000",Employed (full or part time),Rent,2-3 months,"Less than $5,000",Within the next year,,"Yes, through my work",,,No,2000,39.2,71.4,0,1,1,0,0,1,0,,1,,0
+50275,94000.0,,I save enough to get my employer match,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"$20,000-$50,000",,Fixed rate mortgage,"Yes, through my work",30-year fixed rate,4.0% - 4.49%,Yes,,36.0,97.2,0,0,1,0,0,0,0,1,,,0
+135372,43000.0,,I save enough to get my employer match,,"$10,000-$20,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$50,000-$100,000",,Fixed rate mortgage,"Yes, through my work",30-year fixed rate,Under 3.5%,No,,25.73,26.1,0,0,1,0,0,1,1,0,,,0
+110059,85000.0,"No, but I'd like to someday",I save enough to get my employer match,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"$20,000-$50,000",,Fixed rate mortgage,"Yes, through my work",30-year fixed rate,4.0% - 4.49%,Not sure,,51.52,73.8,0,0,1,1,0,1,0,1,,,0
+48452,106000.0,,I save enough to get my employer match,,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"$10,000-$20,000",,,"Yes, my own",,,No,,51.92,48.0,0,0,0,0,0,1,0,,,1,0
+113758,52500.0,,I save enough to get my employer match,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"$5,000-$10,000",,,"Yes, through my work",,,No,,59.52,25.5,0,0,1,0,0,0,1,,,0,0
+202278,59500.0,"No, I haven't really thought about it",Not currently contributing,,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,2-3 months,I don't have any savings,,,"Yes, through my work",,,No,,39.95,52.2,0,1,1,1,0,1,0,,,0,0
+80855,,"No, I haven't really thought about it",,,,Employed (full or part time),Rent,,,As soon as I can,,"Yes, through my work",,,No,650,59.28,0.0,0,0,,1,0,0,,,1,,0
+160239,,"No, I haven't really thought about it",,,,Employed (full or part time),Other,,,,,No / Not sure,,,No,,39.2,0.0,0,0,,1,1,1,,,,0,0
+37164,44550.0,"No, I haven't really thought about it",,,,Employed (full or part time),Own my home with a mortgage,,,,,No / Not sure,,,No,,46.98,55.2,0,0,,1,0,1,,,,0,0
+159219,16000.0,"No, I haven't really thought about it",Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Own my home outright,I don't have any savings,I don't have any savings,,,No / Not sure,,,No,,34.4,68.4,0,0,0,1,1,1,0,,,1,0
+10664,,"No, I haven't really thought about it",,,,Own a business,Rent,,,,,No / Not sure,,,Not sure,,45.6,58.8,0,1,,1,1,1,,,,0,0
+11820,24600.0,"No, I haven't really thought about it",,,,Not working / Other,Rent,,,,,No / Not sure,,,No,,55.68,57.0,0,0,,1,0,1,,,,0,0
+4967,,"No, I haven't really thought about it",,,,Employed (full or part time),Rent,,,,,"Yes, through my work",,,No,,45.36,0.0,0,0,,1,0,1,,,,0,1
+36512,22750.38,"No, I haven't really thought about it",Not currently contributing,,"More than $500,000",Not working / Other,Other,I don't have any savings,"More than $100,000",,,No / Not sure,,,No,,49.05,71.4,0,0,0,1,0,0,0,,,0,0
+48510,37120.0,"No, I haven't really thought about it",Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Rent,I don't have any savings,I don't have any savings,,,No / Not sure,,,No,,31.9,0.0,0,0,0,1,0,1,0,,,1,1
+65567,84000.0,"No, I haven't really thought about it","I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Rent,2-3 months,"Less than $5,000",As soon as I can,,"Yes, through my work",,,No,1750,42.0,0.0,0,0,1,1,0,0,0,,1,,0
+143924,29750.0,"No, I haven't really thought about it",Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Rent,I don't have any savings,I don't have any savings,,,No / Not sure,,,No,,56.61,51.6,0,0,0,1,0,1,0,,,1,0
+113043,163800.0,"No, I haven't really thought about it",I max out my Employer Plan / IRA,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"More than $100,000",,,"Yes, through my work",,,Yes,,38.4,80.1,0,0,1,1,0,0,0,,,0,0
+83646,44305.72,"No, I haven't really thought about it",Not currently contributing,,"$50,000-$100,000",Homemaker / Caregiver,Live rent-free,I don't have any savings,I don't have any savings,,,"Yes, my own",,,Not sure,,37.37,55.2,0,0,0,1,0,0,0,,,0,0
+105887,33.9,"No, I haven't really thought about it",Not currently contributing,,I haven't saved for retirement,Not working / Other,Rent,2-3 months,"Less than $5,000",,,No / Not sure,,,Not sure,,49.84,0.0,0,0,0,1,0,0,0,,,0,0
+56431,21000.0,"No, I haven't really thought about it",Not currently contributing,,I haven't saved for retirement,Own a business,Live rent-free,I don't have any savings,I don't have any savings,,,"Yes, my own",,,No,,47.3,30.6,0,0,0,1,0,0,0,,,0,0
+168156,565000.0,"No, I haven't really thought about it","I save a bit, as I can",,"$50,000-$100,000",Employed (full or part time),Own my home outright,I don't have any savings,"$50,000-$100,000",,,"Yes, my own",,,No,,40.4,98.4,0,0,1,1,0,1,0,,,0,0
+13545,29400.0,"No, I haven't really thought about it","I save a bit, as I can",,"$20,000-$50,000",Own a business,Own my home with a mortgage,2-3 months,"$50,000-$100,000",,,"Yes, my own",,,No,,57.0,96.0,0,1,1,1,0,1,0,,,1,0
+152289,,"No, I haven't really thought about it",,,,Employed (full or part time),,,,,,"Yes, through my work",,,Not sure,,34.24,51.0,1,1,,1,1,0,,,,,0
+23745,119340.0,"No, I haven't really thought about it",Not currently contributing,,"Less than $10,000",Employed (full or part time),Own my home with a mortgage,I don't have any savings,"Less than $5,000",,,"Yes, through my work",,,No,,40.05,0.0,0,1,0,1,0,1,0,,,0,0
+116422,30400.0,"No, I haven't really thought about it",Not currently contributing,,"$250,000-$500,000",Not working / Other,Own my home outright,4-6 months,"$10,000-$20,000",,,"Yes, my own",,,Yes,,67.85,70.8,0,0,0,1,0,0,0,,,0,0
+137331,324500.0,"No, I haven't really thought about it",I max out my Employer Plan / IRA,,"$250,000-$500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"More than $100,000",,,"Yes, my own",,,Yes,,32.55,105.6,0,0,1,1,0,1,0,,,0,0
+120027,46500.0,"No, I haven't really thought about it",I max out my Employer Plan / IRA,,"$250,000-$500,000",Own a business,Live rent-free,4-6 months,"Less than $5,000",,,No / Not sure,,,Not sure,,30.6,58.8,0,0,0,1,0,0,0,,,0,0
+38219,87870.0,"No, I haven't really thought about it","I save a bit, as I can",,I haven't saved for retirement,Employed (full or part time),Rent,I don't have any savings,I don't have any savings,,,No / Not sure,,,Not sure,,49.14,68.4,0,0,0,1,0,1,1,,,0,0
+167929,180000.0,"No, I haven't really thought about it",,,,Employed (full or part time),Own my home outright,,,,,"Yes, through my work",,,No,,49.0,67.8,0,0,,1,0,1,,,,0,0
+158142,85000.0,"Yes, but not in an ESA",I max out my Employer Plan / IRA,,"$10,000-$20,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"$10,000-$20,000",,Fixed rate mortgage,"Yes, through my work",30-year fixed rate,4.0% - 4.49%,Yes,,31.32,0.0,0,0,0,1,0,1,0,1,,,0
+156113,50730.0,,I max out my Employer Plan / IRA,,"$20,000-$50,000",Employed (full or part time),Rent,More than 6 months,"$5,000-$10,000",,,No / Not sure,,,Not sure,,52.36,57.0,0,0,1,0,0,1,0,,,0,0
+40813,123200.0,,I max out my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Rent,More than 6 months,"$50,000-$100,000",,,"Yes, through my work",,,Yes,,47.47,48.6,0,0,1,0,0,0,0,,,0,0
+112454,162000.0,,I max out my Employer Plan / IRA,,"$10,000-$20,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"$5,000-$10,000",,,"Yes, my own",,,Yes,,35.0,72.9,0,0,1,0,0,0,0,0,,,0
+196731,297500.0,"Yes, but not in an ESA",I max out my Employer Plan / IRA,,"More than $500,000",Own a business,Own my home with a mortgage,More than 6 months,"More than $100,000",,,"Yes, my own",,,Yes,,43.68,56.4,0,1,1,1,0,1,0,,,0,0
+120225,441999.66,,I max out my Employer Plan / IRA,,"$10,000-$20,000",Employed (full or part time),Rent,I don't have any savings,"$5,000-$10,000",Within the next 6 months,,"Yes, through my work",,,No,3333,33.66,106.2,0,0,1,0,0,0,0,,0,,0
+126879,135200.0,,I max out my Employer Plan / IRA,,"$250,000-$500,000",Employed (full or part time),Rent,More than 6 months,"More than $100,000",,,"Yes, through my work",,,Yes,,67.98,68.4,0,0,1,0,0,0,0,,,0,0
+64714,324000.0,,I max out my Employer Plan / IRA,,"More than $500,000",Own a business,Own my home with a mortgage,More than 6 months,"More than $100,000",,,"Yes, my own",,,Yes,,71.37,74.7,0,0,1,0,0,1,0,,,0,0
+45176,128700.0,,I max out my Employer Plan / IRA,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$20,000-$50,000",,,"Yes, my own",,,Yes,,31.04,142.8,0,0,1,0,0,1,0,,,0,0
+92605,290000.0,"No, but I'd like to someday",I max out my Employer Plan / IRA,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"$50,000-$100,000",,,"Yes, my own",,,No,,27.39,70.8,0,0,1,1,1,1,0,,,0,1
+111804,247887.42,,I max out my Employer Plan / IRA,,"$10,000-$20,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"$5,000-$10,000",,,"Yes, my own",,,No,,32.64,77.4,0,0,1,0,0,0,0,,,0,0
+142273,24.42,,I max out my Employer Plan / IRA,,"Less than $10,000",Own a business,Own my home outright,1 month or less,"Less than $5,000",,,"Yes, my own",,,Yes,,22.22,48.0,0,0,1,0,0,0,0,,,0,0
+82977,-43.2,,I max out my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Rent,I don't have any savings,I don't have any savings,,,"Yes, my own",,,Not sure,,30.26,104.4,0,0,0,0,0,1,0,,,0,0
+178829,196800.0,,I max out my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"More than $100,000",,,"Yes, my own",,,Yes,,45.08,132.0,0,0,1,0,0,1,0,,,0,0
+80022,67200.0,,I max out my Employer Plan / IRA,,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,1 month or less,I don't have any savings,,,No / Not sure,,,Yes,,52.36,54.6,0,0,1,0,0,1,0,0,,,0
+122842,142500.0,,I max out my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Own my home outright,More than 6 months,"More than $100,000",,,"Yes, through my work",,,No,,60.39,0.0,0,0,1,0,0,1,1,,,0,0
+14482,333200.0,,I max out my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"More than $100,000",,,"Yes, my own",,,Yes,,51.84,80.1,0,1,1,0,0,1,0,0,,,0
+2629,273000.0,"No, but I'd like to someday",I max out my Employer Plan / IRA,,"$50,000-$100,000",Employed (full or part time),Rent,4-6 months,"$50,000-$100,000",As soon as I can,,"Yes, through my work",,,No,6500,48.88,60.6,0,0,0,1,0,1,0,,0,,0
+175352,70.2,,I max out my Employer Plan / IRA,,"$50,000-$100,000",Own a business,Rent,More than 6 months,"Less than $5,000",,,No / Not sure,,,Yes,,42.51,61.8,0,0,0,0,0,0,0,,,0,0
+127826,110000.0,,I max out my Employer Plan / IRA,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"$5,000-$10,000",,,"Yes, through my work",,,Yes,,54.52,69.6,0,0,1,0,0,1,0,,,0,0
+133947,180000.0,,I max out my Employer Plan / IRA,,"$250,000-$500,000",Own a business,Rent,4-6 months,"$20,000-$50,000",Within the next year,,No / Not sure,,,No,1900,42.77,80.1,0,0,1,0,0,1,0,,0,,0
+194116,78100.0,,I max out my Employer Plan / IRA,,"Less than $10,000",Employed (full or part time),Own my home with a mortgage,1 month or less,"Less than $5,000",,,"Yes, through my work",,,No,,19.55,35.1,0,1,1,0,0,1,0,,,0,1
+99833,214666.36,,I max out my Employer Plan / IRA,,"$50,000-$100,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"$10,000-$20,000",,,"Yes, through my work",,,No,,52.08,69.6,0,0,1,0,0,1,1,,,0,0
+114360,604.55,,I max out my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Rent,More than 6 months,"More than $100,000",As soon as I can,,"Yes, my own",,,Yes,2000,64.68,128.4,0,0,1,0,0,0,0,,0,,0
+8685,136800.0,,I max out my Employer Plan / IRA,,"$50,000-$100,000",Employed (full or part time),Own my home outright,4-6 months,"More than $100,000",,,"Yes, through my work",,,Yes,,48.48,54.6,0,0,1,0,0,1,0,,,0,0
+61809,94080.0,,I max out my Employer Plan / IRA,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$10,000-$20,000",,,"Yes, through my work",,,No,,26.39,87.3,0,0,1,0,0,1,0,,,1,0
+145328,33114.88,,I max out my Employer Plan / IRA,,"$10,000-$20,000",Employed (full or part time),Own my home with a mortgage,I don't have any savings,I don't have any savings,,,"Yes, through my work",,,Not sure,,59.8,32.7,0,0,1,0,0,1,0,0,,,0
+97890,110000.0,"Yes, but not in an ESA",I max out my Employer Plan / IRA,,"$10,000-$20,000",Employed (full or part time),Own my home with a mortgage,,"$20,000-$50,000",,,No / Not sure,,,Yes,,49.82,72.0,0,0,,1,0,0,,,,0,0
+91036,234000.0,,I max out my Employer Plan / IRA,,"$50,000-$100,000",Employed (full or part time),Own my home outright,2-3 months,"$20,000-$50,000",,,"Yes, my own",,,Yes,,47.2,0.0,0,0,1,0,0,1,0,,,0,0
+157010,277200.0,,I max out my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"More than $100,000",,,"Yes, through my work",,,Yes,,44.16,140.4,0,0,1,0,0,1,0,0,,,0
+4316,102000.0,,I max out my Employer Plan / IRA,,"$100,000-$250,000",Homemaker / Caregiver,Own my home with a mortgage,1 month or less,"$5,000-$10,000",,Fixed rate mortgage,"Yes, my own",30-year fixed rate,Under 3.5%,No,,50.4,59.4,0,0,1,0,0,1,,0,,,1
+191657,143070.0,,I max out my Employer Plan / IRA,,"$50,000-$100,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$5,000-$10,000",,,"Yes, through my work",,,Yes,,67.2,74.7,0,0,1,0,0,0,0,,,0,0
+200758,36400.0,,I max out my Employer Plan / IRA,,"$50,000-$100,000",Employed (full or part time),Rent,2-3 months,"Less than $5,000",Within the next year,,"Yes, my own",,,Yes,1042,47.38,55.2,0,0,1,0,0,1,1,,1,,0
+86723,155750.0,,I max out my Employer Plan / IRA,,"$10,000-$20,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"$5,000-$10,000",,Fixed rate mortgage,"Yes, my own",30-year fixed rate,5.0% or higher,Yes,,38.85,100.8,0,0,1,0,0,0,,1,,,0
+58824,,,I max out my Employer Plan / IRA,,"More than $500,000",Own a business,Own my home outright,More than 6 months,"More than $100,000",,,"Yes, my own",,,Yes,,40.8,70.8,0,0,1,0,0,0,0,,,0,0
+35597,88400.0,,I max out my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Rent,2-3 months,"$10,000-$20,000",,,"Yes, through my work",,,No,,64.8,0.0,0,0,0,0,0,0,0,,,1,0
+183166,43600.0,,I max out my Employer Plan / IRA,,"Less than $10,000",Employed (full or part time),Rent,More than 6 months,"$5,000-$10,000",,,No / Not sure,,,Yes,,24.3,120.0,0,0,0,0,0,0,0,,,0,0
+22170,49500.0,,I max out my Employer Plan / IRA,,"Less than $10,000",Employed (full or part time),Other,,,,,"Yes, my own",,,No,,65.88,33.6,0,0,,0,1,0,,,,0,1
+157003,172000.0,"Yes, but not in an ESA",I max out my Employer Plan / IRA,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"$20,000-$50,000",,,"Yes, my own",,,No,,31.98,63.0,0,0,1,1,0,1,0,,,0,1
+46529,310300.0,,I max out my Employer Plan / IRA,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$50,000-$100,000",,,"Yes, through my work",,,No,,35.7,86.4,0,1,1,0,0,1,0,,,0,1
+123195,124689.55,,I max out my Employer Plan / IRA,,"$50,000-$100,000",Own a business,Own my home outright,More than 6 months,"$50,000-$100,000",,,No / Not sure,,,Yes,,69.55,52.8,0,0,1,0,0,1,0,,,0,0
+183051,236000.0,"No, but I'd like to someday",I max out my Employer Plan / IRA,,"$50,000-$100,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"More than $100,000",,,"Yes, my own",,,No,,35.89,76.5,0,0,0,1,0,1,0,,,0,1
+49461,86000.0,,I max out my Employer Plan / IRA,,"Less than $10,000",Employed (full or part time),Rent,4-6 months,"$5,000-$10,000",,,"Yes, through my work",,,No,,27.82,82.8,0,0,0,0,0,1,0,,,0,0
+20946,91000.0,,I max out my Employer Plan / IRA,,"$250,000-$500,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$10,000-$20,000",,,"Yes, my own",,,Yes,,41.85,58.2,0,0,1,0,0,1,0,,,0,0
+8366,56100.0,,I max out my Employer Plan / IRA,,"Less than $10,000",Employed (full or part time),Rent,1 month or less,I don't have any savings,,,No / Not sure,,,No,,50.96,51.6,0,0,1,0,0,0,0,,,1,0
+182269,125430.0,,I max out my Employer Plan / IRA,,"$100,000-$250,000",Not working / Other,Rent,More than 6 months,"$20,000-$50,000",,,"Yes, my own",,,Not sure,,76.84,58.2,1,0,0,0,0,0,1,,,1,0
+67702,61800.0,,I max out my Employer Plan / IRA,,"Less than $10,000",Employed (full or part time),Rent,,I don't have any savings,,,"Yes, through my work",,,Yes,,31.92,100.8,0,0,,0,0,1,,,,0,0
+98962,35200.0,,I max out my Employer Plan / IRA,,"Less than $10,000",Employed (full or part time),Live rent-free,4-6 months,"Less than $5,000",,,"Yes, through my work",,,Not sure,,29.16,33.6,0,0,1,0,0,1,0,,,0,0
+12205,80800.0,,I max out my Employer Plan / IRA,,"$50,000-$100,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$50,000-$100,000",,,No / Not sure,,,No,,72.27,0.0,0,0,1,0,0,1,0,,,0,0
+119357,18200.0,,I max out my Employer Plan / IRA,,"More than $500,000",Own a business,Own my home outright,More than 6 months,"More than $100,000",,,"Yes, through my work",,,Not sure,,60.0,112.8,1,0,1,1,1,1,0,,,1,1
+63263,67600.0,,I max out my Employer Plan / IRA,,"$10,000-$20,000",Employed (full or part time),Rent,2-3 months,"$5,000-$10,000",,,No / Not sure,,,No,,27.25,51.6,0,0,1,0,0,0,0,,,1,0
+170411,123750.0,"Yes, but not in an ESA",I max out my Employer Plan / IRA,,"$20,000-$50,000",Employed (full or part time),Rent,2-3 months,"$20,000-$50,000",,,"Yes, through my work",,,No,,40.8,99.0,0,0,0,1,0,1,0,,,1,0
+59285,30.36,Not applicable,I max out my Employer Plan / IRA,,"Less than $10,000",Employed (full or part time),Other,1 month or less,"Less than $5,000",,,No / Not sure,,,Yes,,29.04,49.2,0,0,1,1,0,0,0,,,0,0
+110692,,,I max out my Employer Plan / IRA,,"Less than $10,000",Own a business,Own my home with a mortgage,2-3 months,"$5,000-$10,000",,Adjustable rate mortgage,"Yes, my own",15-year fixed rate,4.5% - 4.99%,Yes,,27.88,100.8,1,0,1,0,0,1,0,0,,,0
+134502,10800.0,,I max out my Employer Plan / IRA,,"Less than $10,000",Employed (full or part time),Rent,,,,,"Yes, through my work",,,Not sure,,30.24,0.0,0,0,,0,0,1,,,,0,0
+140009,55550.0,,I max out my Employer Plan / IRA,,"$10,000-$20,000",Employed (full or part time),Rent,4-6 months,"Less than $5,000",,,"Yes, my own",,,No,,36.58,64.2,0,0,1,0,0,1,0,,,0,0
+63993,56733.21,,I max out my Employer Plan / IRA,,"$20,000-$50,000",Employed (full or part time),Rent,1 month or less,"$10,000-$20,000",,,"Yes, through my work",,,Yes,,43.86,55.2,0,0,1,0,0,0,0,,,0,0
+141612,51000.0,,I max out my Employer Plan / IRA,,"$20,000-$50,000",Employed (full or part time),Own my home outright,More than 6 months,"$20,000-$50,000",,,"Yes, through my work",,,Yes,,74.2,56.4,0,0,0,0,0,0,1,,,1,0
+123560,508500.0,,I max out my Employer Plan / IRA,,"More than $500,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"More than $100,000",,,No / Not sure,,,No,,54.08,58.8,0,0,1,0,0,1,0,,,0,0
+184928,49980.0,,I max out my Employer Plan / IRA,,"$10,000-$20,000",Employed (full or part time),Rent,More than 6 months,"$5,000-$10,000",Sometime in the future,,"Yes, my own",,,No,600,31.64,55.2,0,0,0,0,0,0,0,,0,,0
+69933,205000.0,,I max out my Employer Plan / IRA,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"More than $100,000",,,No / Not sure,,,No,,38.16,52.2,0,1,1,0,0,1,0,,,0,0
+88809,199999.8,,I max out my Employer Plan / IRA,,"$250,000-$500,000",Employed (full or part time),Rent,More than 6 months,"$50,000-$100,000",As soon as I can,,"Yes, through my work",,,Yes,3333,40.05,72.0,0,0,1,0,0,1,0,,0,,0
+14869,66750.0,,I max out my Employer Plan / IRA,,"$100,000-$250,000",Employed (full or part time),Own my home outright,More than 6 months,"$50,000-$100,000",,,"Yes, through my work",,,No,,74.34,104.4,0,0,1,0,0,0,1,,,0,0
+76446,25500.0,,I max out my Employer Plan / IRA,,"Less than $10,000",Employed (full or part time),Own my home with a mortgage,1 month or less,"Less than $5,000",,,No / Not sure,,,No,,55.93,49.8,0,0,0,0,0,1,0,,,0,0
+44752,94160.0,,I max out my Employer Plan / IRA,,"Less than $10,000",Employed (full or part time),Rent,1 month or less,"Less than $5,000",As soon as I can,,"Yes, through my work",,,No,1500,43.0,70.8,0,0,1,0,1,0,0,,1,,0
+8334,101000.0,"No, but I'd like to someday",I max out my Employer Plan / IRA,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$20,000-$50,000",,,"Yes, my own",,,Yes,,29.97,67.8,0,0,1,1,0,1,0,,,0,0
+33361,176550.0,,I max out my Employer Plan / IRA,,"$250,000-$500,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"$20,000-$50,000",,,"Yes, my own",,,Yes,,44.88,87.3,0,1,1,0,0,1,0,,,0,0
+203530,55200.0,,Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Own my home with a mortgage,I don't have any savings,I don't have any savings,,Fixed rate mortgage,No / Not sure,30-year fixed rate,5.0% or higher,No,,34.2,55.2,0,0,0,0,0,1,0,1,,,0
+61533,13392.0,,Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Live rent-free,I don't have any savings,I don't have any savings,,,No / Not sure,,,No,,57.82,116.4,0,0,0,0,0,0,0,,,0,0
+151484,178200.0,"Yes, but not in an ESA",Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Own my home with a mortgage,4-6 months,"$5,000-$10,000",,,"Yes, my own",,,No,,56.16,53.4,0,0,0,1,0,1,0,,,0,0
+192244,0.0,"No, but I'd like to someday",Not currently contributing,,I haven't saved for retirement,Not working / Other,Live rent-free,1 month or less,I don't have any savings,,,No / Not sure,,,Not sure,,47.47,0.0,0,0,0,1,0,0,1,,,0,0
+107696,535.0,,Not currently contributing,,I haven't saved for retirement,Not working / Other,Other,I don't have any savings,"Less than $5,000",,,No / Not sure,,,Not sure,,33.0,72.0,0,0,0,0,0,1,0,,,0,0
+190715,90400.0,"No, but I'd like to someday",Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Own my home with a mortgage,1 month or less,I don't have any savings,,,No / Not sure,,,No,,41.2,0.0,0,1,0,1,0,1,0,,,0,0
+74543,21620.0,,Not currently contributing,,I haven't saved for retirement,Not working / Other,Rent,I don't have any savings,I don't have any savings,,,No / Not sure,,,No,,48.84,0.0,0,0,0,0,0,1,0,,,0,0
+120752,40896.0,"No, but I'd like to someday",Not currently contributing,,I haven't saved for retirement,Homemaker / Caregiver,Rent,I don't have any savings,I don't have any savings,,,No / Not sure,,,No,,37.8,0.0,1,0,0,1,0,0,0,,,0,0
+172147,26450.0,,Not currently contributing,,I haven't saved for retirement,Not working / Other,Rent,I don't have any savings,I don't have any savings,,,No / Not sure,,,No,,47.47,56.4,0,0,0,0,0,0,0,,,0,0
+74225,30800.0,Not applicable,Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Rent,I don't have any savings,I don't have any savings,,,No / Not sure,,,No,,27.6,49.8,0,0,0,1,0,0,0,,,0,0
+66104,0.85,,Not currently contributing,,I haven't saved for retirement,Not working / Other,Other,I don't have any savings,I don't have any savings,,,No / Not sure,,,Not sure,,97.02,52.2,0,0,0,0,0,1,0,,,0,0
+44963,25200.0,,"I save a bit, as I can",,I haven't saved for retirement,Not working / Other,Rent,1 month or less,"$5,000-$10,000",,,"Yes, my own",,,No,,35.34,60.6,0,0,0,0,0,0,0,,,0,0
+5990,3936.0,"No, but I'd like to someday",Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Rent,I don't have any savings,I don't have any savings,,,No / Not sure,,,No,,41.36,24.6,0,0,0,1,0,1,1,,,0,0
+100237,16800.0,,Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Rent,I don't have any savings,I don't have any savings,,,No / Not sure,,,No,,23.46,0.0,0,0,0,0,0,1,0,,,1,0
+514,0.0,,Not currently contributing,,I haven't saved for retirement,Not working / Other,Other,I don't have any savings,I don't have any savings,,,No / Not sure,,,Not sure,,92.07,70.2,0,0,0,0,0,1,0,,,0,0
+45938,44307.66,Not applicable,"I save a bit, as I can",,I haven't saved for retirement,Homemaker / Caregiver,Live rent-free,More than 6 months,"More than $100,000",,,"Yes, my own",,,No,,34.68,103.2,0,0,0,1,0,0,0,,,1,0
+56684,93852.0,,"I save a bit, as I can",,I haven't saved for retirement,Own a business,Own my home with a mortgage,1 month or less,"Less than $5,000",,,No / Not sure,,,No,,43.74,50.4,0,0,0,0,0,1,0,,,0,0
+172427,2659.2,,Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Other,I don't have any savings,I don't have any savings,,,"Yes, my own",,,Not sure,,21.0,52.8,0,0,0,0,0,0,0,,,0,0
+32554,0.0,,Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Live rent-free,,"Less than $5,000",,,"Yes, through my work",,,Not sure,,20.6,0.0,0,1,0,0,0,0,,,,1,0
+151244,58580.0,,"I save a bit, as I can",,I haven't saved for retirement,Employed (full or part time),Rent,2-3 months,I don't have any savings,,,"Yes, my own",,,No,,50.15,48.0,0,0,0,0,0,1,1,,,0,0
+95034,71400.0,,Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Rent,I don't have any savings,I don't have any savings,Sometime in the future,,No / Not sure,,,No,300,31.86,0.0,0,0,0,0,0,0,0,,0,,0
+15171,0.0,,Not currently contributing,,I haven't saved for retirement,Not working / Other,Other,I don't have any savings,I don't have any savings,,,No / Not sure,,,Not sure,,20.88,66.6,0,0,0,0,0,1,0,,,0,0
+185453,3210.0,,Not currently contributing,,I haven't saved for retirement,Not working / Other,Rent,I don't have any savings,I don't have any savings,,,No / Not sure,,,No,,33.3,0.0,0,0,0,0,0,0,0,,,1,0
+201301,0.0,,Not currently contributing,,I haven't saved for retirement,Not working / Other,Rent,4-6 months,I don't have any savings,,,"Yes, my own",,,Not sure,,42.0,58.8,0,0,0,0,0,0,0,,,1,0
+14866,94300.0,,Not currently contributing,,I haven't saved for retirement,Own a business,Own my home outright,More than 6 months,"More than $100,000",,,No / Not sure,,,Yes,,55.64,126.0,0,0,0,0,0,1,0,,,0,0
+56105,13440.0,,Not currently contributing,,I haven't saved for retirement,Not working / Other,Live rent-free,I don't have any savings,I don't have any savings,,,No / Not sure,,,No,,23.54,0.0,0,0,0,0,0,1,0,,,1,0
+124051,13500.0,,Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Rent,I don't have any savings,I don't have any savings,,,"Yes, my own",,,No,,20.79,63.6,0,1,0,0,0,0,0,,,1,0
+204560,38287.08,,"I save a bit, as I can",,I haven't saved for retirement,Employed (full or part time),Live rent-free,1 month or less,"Less than $5,000",,,"Yes, my own",,,No,,22.8,108.0,0,0,0,0,0,0,0,,,0,0
+38155,177000.0,"No, but I'd like to someday",Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Own my home with a mortgage,4-6 months,"$10,000-$20,000",,,"Yes, my own",,,No,,36.38,99.9,0,0,0,1,0,1,0,,,0,0
+111208,24900.0,,Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Rent,1 month or less,I don't have any savings,,,No / Not sure,,,No,,39.44,0.0,0,0,0,0,0,1,0,,,1,0
+181175,90900.0,,Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Live rent-free,1 month or less,"Less than $5,000",,,No / Not sure,,,No,,23.46,72.0,0,1,0,0,0,0,0,,,0,0
+55356,69000.0,,Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Own my home with a mortgage,2-3 months,I don't have any savings,,,"Yes, my own",,,No,,50.96,0.0,0,0,0,0,0,1,0,,,0,0
+137443,78850.0,,Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Rent,4-6 months,I don't have any savings,,,No / Not sure,,,No,,35.7,53.4,0,0,0,0,0,1,0,,,1,0
+23146,14760.0,Not applicable,Not currently contributing,,I haven't saved for retirement,Homemaker / Caregiver,Rent,1 month or less,"Less than $5,000",,,No / Not sure,,,No,,54.57,50.4,0,0,0,1,1,1,0,,,1,0
+74288,26400.0,"No, but I'd like to someday","I save a bit, as I can",,I haven't saved for retirement,Own a business,Rent,1 month or less,I don't have any savings,,,No / Not sure,,,No,,42.33,0.0,0,0,0,1,0,1,1,,,0,0
+44043,1044.0,"No, but I'd like to someday",Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Rent,2-3 months,"Less than $5,000",As soon as I can,,"Yes, my own",,,No,625,30.24,50.4,0,0,0,1,0,1,0,,1,,0
+155568,17820.0,Not applicable,"I save a bit, as I can",,I haven't saved for retirement,Not working / Other,Rent,1 month or less,I don't have any savings,,,No / Not sure,,,No,,39.48,67.2,0,0,0,1,0,0,1,,,1,0
+9671,29440.0,,Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Rent,I don't have any savings,I don't have any savings,,,"Yes, through my work",,,No,,65.52,58.2,0,0,1,0,0,0,1,,,0,0
+106548,63000.0,,"I save a bit, as I can",,I haven't saved for retirement,Employed (full or part time),Rent,2-3 months,"Less than $5,000",,,No / Not sure,,,No,,70.72,35.7,0,0,0,0,0,0,1,,,0,0
+17359,16350.0,,Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Rent,I don't have any savings,I don't have any savings,Sometime in the future,,No / Not sure,,,No,840,28.71,0.0,0,0,0,0,0,1,0,,0,,0
+140563,55000.0,,"I save a bit, as I can",,I haven't saved for retirement,Employed (full or part time),Rent,I don't have any savings,I don't have any savings,,,No / Not sure,,,No,,76.7,24.3,0,0,0,0,0,0,0,,,0,0
+124833,0.0,,Not currently contributing,,I haven't saved for retirement,Own a business,Live rent-free,2-3 months,I don't have any savings,,,No / Not sure,,,No,,35.7,0.0,0,1,0,0,0,0,0,,,0,0
+128736,492.24,,Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Rent,I don't have any savings,I don't have any savings,Sometime in the future,,No / Not sure,,,No,950,21.85,34.8,0,0,0,0,0,0,0,,1,,0
+168129,28800.0,,Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Rent,1 month or less,I don't have any savings,,,No / Not sure,,,Not sure,,23.31,31.2,0,0,0,0,0,0,0,,,1,0
+8820,88740.0,,Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Own my home with a mortgage,4-6 months,"More than $100,000",,,"Yes, my own",,,No,,37.6,49.2,0,1,0,0,0,1,0,,,0,0
+194881,14160.0,,"I save a bit, as I can",,I haven't saved for retirement,Employed (full or part time),Other,1 month or less,I don't have any savings,,,No / Not sure,,,No,,24.08,60.0,0,0,0,0,0,1,0,,,1,0
+68018,54600.0,,"I save a bit, as I can",,I haven't saved for retirement,Employed (full or part time),Rent,1 month or less,"$5,000-$10,000",,,No / Not sure,,,No,,30.1,53.4,0,0,0,0,0,0,0,,,0,0
+132596,0.0,,Not currently contributing,,I haven't saved for retirement,Not working / Other,Other,I don't have any savings,I don't have any savings,,,No / Not sure,,,Not sure,,106.92,49.8,0,0,0,0,0,1,0,,,0,0
+149870,49500.0,,Not currently contributing,,I haven't saved for retirement,Not working / Other,Own my home outright,I don't have any savings,I don't have any savings,,,No / Not sure,,,Not sure,,31.8,49.2,1,0,0,0,0,1,0,,,0,0
+120791,33174.72,,"I save a bit, as I can",,I haven't saved for retirement,Not working / Other,Other,More than 6 months,"More than $100,000",,,"Yes, my own",,,Not sure,,48.15,51.6,0,0,0,0,0,1,0,,,0,0
+125297,0.0,Not applicable,Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Other,,I don't have any savings,,,No / Not sure,,,Not sure,,34.2,69.6,0,0,0,1,0,0,,,,0,0
+98192,1726.08,,Not currently contributing,,I haven't saved for retirement,Not working / Other,Own my home with a mortgage,I don't have any savings,I don't have any savings,,,No / Not sure,,,Yes,,57.85,0.0,0,0,0,0,0,0,1,,,0,0
+42043,49000.0,,"I save a bit, as I can",,I haven't saved for retirement,Homemaker / Caregiver,Own my home with a mortgage,4-6 months,"Less than $5,000",,,"Yes, my own",,,Yes,,83.6,62.4,0,0,0,0,0,1,0,,,0,0
+9691,45500.0,,Not currently contributing,,I haven't saved for retirement,Homemaker / Caregiver,Own my home with a mortgage,I don't have any savings,I don't have any savings,,,No / Not sure,,,No,,37.76,0.0,0,0,1,0,0,1,0,,,0,0
+177812,36000.0,,Not currently contributing,,I haven't saved for retirement,Not working / Other,Rent,I don't have any savings,I don't have any savings,,,No / Not sure,,,No,,43.7,0.0,0,0,0,0,0,1,0,,,1,0
+77791,51150.0,,"I save a bit, as I can",,I haven't saved for retirement,Employed (full or part time),Rent,1 month or less,"Less than $5,000",,,No / Not sure,,,No,,28.62,67.2,0,1,0,0,0,0,1,,,1,0
+8687,11087.28,Not applicable,"I save a bit, as I can",,I haven't saved for retirement,Employed (full or part time),Rent,I don't have any savings,I don't have any savings,Within the next 2 years,,No / Not sure,,,No,178.00,37.8,0.0,0,0,0,1,0,0,0,,0,,0
+6553,61200.0,Not applicable,Not currently contributing,,I haven't saved for retirement,Own a business,Rent,2-3 months,I don't have any savings,,,No / Not sure,,,Not sure,,50.14,49.2,0,0,0,1,0,1,0,,,0,0
+124346,23000.0,,Not currently contributing,,I haven't saved for retirement,Not working / Other,Own my home with a mortgage,I don't have any savings,"$10,000-$20,000",,,"Yes, my own",,,No,,62.78,67.8,0,0,0,0,0,0,0,,,0,0
+192631,12000.0,Not applicable,Not currently contributing,,I haven't saved for retirement,Not working / Other,Other,I don't have any savings,I don't have any savings,,,No / Not sure,,,No,,46.08,61.2,0,0,0,1,0,0,0,,,1,0
+171292,25810.0,"No, but I'd like to someday",Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Other,I don't have any savings,I don't have any savings,,,No / Not sure,,,No,,28.21,0.0,0,0,0,1,0,0,0,,,0,0
+93027,20680.0,,Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Other,1 month or less,"Less than $5,000",,,No / Not sure,,,No,,33.64,0.0,0,1,0,0,0,0,0,,,0,0
+9979,31320.0,,Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Rent,4-6 months,I don't have any savings,,,"Yes, my own",,,Not sure,,30.45,33.9,0,0,0,0,0,0,0,,,1,0
+20692,24266.55,,Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Other,I don't have any savings,I don't have any savings,,,No / Not sure,,,No,,27.39,67.2,0,0,0,0,0,1,0,,,0,0
+8169,13350.0,"No, but I'd like to someday",Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Rent,I don't have any savings,I don't have any savings,,,No / Not sure,,,No,,32.48,0.0,0,1,0,1,0,0,0,,,0,1
+169984,18180.0,,Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Rent,I don't have any savings,I don't have any savings,Sometime in the future,,"Yes, my own",,,No,600,23.0,52.8,0,1,0,0,0,0,0,,1,,0
+5878,53760.0,,Not currently contributing,,I haven't saved for retirement,Employed (full or part time),Own my home with a mortgage,2-3 months,I don't have any savings,,,"Yes, through my work",,,No,,58.24,0.0,0,0,0,0,0,0,0,,,1,0
+20958,38400.0,Not applicable,Not currently contributing,,I haven't saved for retirement,Not working / Other,Own my home with a mortgage,I don't have any savings,I don't have any savings,,,"Yes, through my work",,,No,,41.31,0.0,0,0,0,1,1,1,1,0,,,0
+84940,13950.0,"No, but I'd like to someday",Not currently contributing,,I haven't saved for retirement,Not working / Other,Rent,I don't have any savings,I don't have any savings,,,No / Not sure,,,No,,34.3,0.0,0,0,0,1,0,0,0,,,0,0
+17288,0.0,,Not currently contributing,,I haven't saved for retirement,Not working / Other,Other,I don't have any savings,I don't have any savings,,,No / Not sure,,,Not sure,,99.0,54.6,0,0,0,0,0,1,0,,,0,0
+87500,82400.0,,Not currently contributing,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,1 month or less,"$5,000-$10,000",,,No / Not sure,,,No,,34.5,91.8,0,0,0,0,0,0,0,,,0,0
+202820,33950.0,,Not currently contributing,,"Less than $10,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"Less than $5,000",,,"Yes, my own",,,Yes,,84.36,60.6,0,0,0,0,0,0,0,,,0,0
+74083,51000.0,,Not currently contributing,,"$50,000-$100,000",Employed (full or part time),Rent,1 month or less,"$10,000-$20,000",As soon as I can,,"Yes, through my work",,,No,3000,31.15,109.2,0,0,0,0,0,0,1,,0,,0
+65606,,,,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, through my work",,,No,,34.51,99.6,,0,,0,0,1,,,,,
+106488,,,,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, through my work",,,No,,68.48,49.8,0,0,,0,0,1,,,,1,0
+123861,40000.0,,Not currently contributing,,"$10,000-$20,000",Employed (full or part time),Own my home with a mortgage,1 month or less,"Less than $5,000",,,"Yes, through my work",,,Yes,,43.6,72.0,0,0,1,0,0,1,0,,,0,0
+39666,182400.0,,Not currently contributing,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, my own",,,No,,46.74,56.4,0,1,,0,0,1,,,,1,0
+76598,123200.0,,"I save a bit, as I can",,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,I don't have any savings,,VA or FHA Loan,"Yes, my own",30-year fixed rate,Under 3.5%,No,,39.69,0.0,0,0,1,0,0,0,0,1,,,0
+117705,,,,,,Employed (full or part time),Live rent-free,,,,,"Yes, my own",,,No,,19.32,24.9,0,0,,0,0,0,,,,1,0
+116818,,"No, but I'd like to someday",,,,Employed (full or part time),Other,,,,,No / Not sure,,,No,,22.88,63.0,0,0,,1,0,0,,,,1,0
+66604,,Not applicable,,,,Employed (full or part time),,,,,,"Yes, through my work",,,No,,41.85,68.4,,0,,1,0,1,,,,,
+89105,116280.0,,Not currently contributing,,"$50,000-$100,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$20,000-$50,000",,,"Yes, my own",,,No,,36.0,105.6,0,0,1,0,0,0,0,,,0,0
+34539,,,,,,Employed (full or part time),Other,,,,,No / Not sure,,,Not sure,,43.65,72.0,0,0,,0,0,1,,,,0,0
+181869,41000.0,,"I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"Less than $5,000",,,"Yes, through my work",,,No,,56.0,0.0,0,0,1,0,1,1,0,,,0,0
+197846,,,,,,Employed (full or part time),Rent,,,Sometime in the future,,No / Not sure,,,Not sure,900,36.12,36.0,0,0,,0,0,1,,,0,,0
+80833,,,,,,Employed (full or part time),Own my home with a mortgage,,,,,No / Not sure,,,No,,36.8,58.8,,0,,0,0,0,,,,0,
+193323,38180.0,,Not currently contributing,,"Less than $10,000",Employed (full or part time),Rent,I don't have any savings,I don't have any savings,,,"Yes, through my work",,,No,,42.24,66.6,0,1,1,0,0,1,0,,,1,0
+164964,,,,,,Employed (full or part time),Rent,,,,,No / Not sure,,,No,635,63.14,69.6,0,0,,0,0,0,,,,,0
+83388,34650.0,,Not currently contributing,,"$10,000-$20,000",Employed (full or part time),Own my home outright,More than 6 months,I don't have any savings,,,"Yes, through my work",,,Yes,,55.8,67.2,0,0,0,0,0,0,0,,,1,0
+201972,,,,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, through my work",,,No,,34.44,65.4,0,0,,0,0,1,,,,1,0
+277,,,,,,Employed (full or part time),Rent,,,,,"Yes, my own",,,Not sure,,43.46,141.6,0,0,,0,0,0,,,,0,0
+157407,64380.0,,"I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Live rent-free,More than 6 months,"More than $100,000",,,No / Not sure,,,No,,25.2,105.6,0,0,0,0,0,0,0,,,0,0
+153873,11.88,"Yes, but not in an ESA",Not currently contributing,,"Less than $10,000",Employed (full or part time),Other,1 month or less,"Less than $5,000",,,No / Not sure,,,Not sure,,29.75,0.0,0,0,0,1,0,0,0,,,1,0
+193352,,"No, but I'd like to someday",,,,Employed (full or part time),Own my home with a mortgage,,,,,No / Not sure,,,No,,41.85,26.7,0,0,,1,0,0,,,,0,0
+103003,39200.0,,Not currently contributing,,"Less than $10,000",Employed (full or part time),Rent,4-6 months,"Less than $5,000",,,"Yes, my own",,,Not sure,,42.75,0.0,0,0,0,0,0,0,1,,,0,0
+40575,50500.0,,"I save a bit, as I can",,"$10,000-$20,000",Employed (full or part time),Rent,,,,,"Yes, through my work",,,No,,69.3,24.6,0,0,,0,0,1,,,,1,0
+76829,,Not applicable,,,,Employed (full or part time),,,,,,"Yes, through my work",,,,,63.28,58.2,,0,,1,0,1,,,,,
+53083,,,,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, through my work",,,Not sure,,60.45,50.4,1,1,,0,0,1,,,,0,0
+125806,,,,,,Employed (full or part time),,,,,,,,,,,50.31,0.0,,0,,0,0,0,,,,,
+178682,,Not applicable,,,,Employed (full or part time),Rent,,,,,No / Not sure,,,No,750,52.5,55.8,0,0,,1,0,1,,,0,,0
+106327,,"Yes, but not in an ESA",,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, my own",,,Not sure,,23.0,58.8,0,1,,1,1,1,,,,1,0
+38171,,,,,,Employed (full or part time),,,,,,"Yes, my own",,,,,27.55,52.8,,1,,0,0,1,,,,,
+132341,,,,,,Employed (full or part time),,,,,,,,,,,30.03,72.0,,0,,,,,,,,,
+33325,,,,,,Employed (full or part time),Live rent-free,,,,,No / Not sure,,,Yes,,30.16,69.0,,0,,0,0,1,,,,,
+185772,68040.0,,Not currently contributing,,"$250,000-$500,000",Employed (full or part time),Rent,More than 6 months,I don't have any savings,,,No / Not sure,,,No,,25.38,66.0,0,0,0,0,0,1,0,,,0,0
+97266,,,,,,Employed (full or part time),Own my home with a mortgage,,,,Fixed rate mortgage,"Yes, through my work",30-year fixed rate,4.5% - 4.99%,No,,58.32,70.2,0,0,,1,0,1,,1,,,0
+14541,,"No, but I'd like to someday",,,,Employed (full or part time),Rent,,,,,"Yes, through my work",,,No,,36.08,66.6,0,0,,1,0,0,,,,1,0
+43075,158050.0,"No, but I'd like to someday",Not currently contributing,,"$10,000-$20,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$10,000-$20,000",,,"Yes, my own",,,No,,25.8,53.4,0,0,1,1,0,1,1,,,0,0
+4265,,Not applicable,,,,Employed (full or part time),Own my home with a mortgage,,,,,No / Not sure,,,Yes,,45.9,56.4,,0,,1,0,1,,,,,
+103736,167200.0,,Not currently contributing,,"$10,000-$20,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"$5,000-$10,000",,,"Yes, my own",,,Yes,,49.35,64.8,0,0,0,0,0,1,0,,,0,0
+96317,406000.0,,"I save a bit, as I can",,"$20,000-$50,000",Employed (full or part time),Rent,2-3 months,"$50,000-$100,000",As soon as I can,,"Yes, my own",,,Yes,3000,30.24,105.6,0,0,0,0,0,0,0,,1,,0
+197429,103000.0,,"I save a bit, as I can",,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$10,000-$20,000",,,"Yes, my own",,,Yes,,65.1,34.5,0,0,0,0,0,1,0,,,0,0
+15546,,,,,,Employed (full or part time),Own my home with a mortgage,,,,Fixed rate mortgage,"Yes, my own",,,No,,29.7,96.3,0,0,,0,0,0,,1,,,0
+167309,,,,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, through my work",,,Yes,,46.2,72.9,0,0,,0,0,1,,0,,,0
+47583,,,,,,Employed (full or part time),Rent,,,,,"Yes, through my work",,,Yes,,24.2,64.2,,0,,0,0,0,,,,0,
+112840,,"Yes, but not in an ESA",,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, my own",,,No,,26.56,107.1,,0,,1,0,1,,,,0,
+193802,,,,,,Employed (full or part time),Own my home with a mortgage,,,,Fixed rate mortgage,No / Not sure,30-year fixed rate,3.5% - 3.99%,Not sure,,37.29,60.6,0,0,,0,0,1,,1,,,0
+95355,21700.0,,"I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Rent,I don't have any savings,"Less than $5,000",,,"Yes, through my work",,,No,,49.95,28.8,0,0,0,0,0,0,0,,,0,0
+110058,45920.0,"No, but I'd like to someday",Not currently contributing,,"Less than $10,000",Employed (full or part time),Own my home with a mortgage,1 month or less,I don't have any savings,,,No / Not sure,,,Not sure,,39.0,34.8,0,0,0,1,0,1,0,,,0,0
+67537,55500.0,,Not currently contributing,,"Less than $10,000",Employed (full or part time),Rent,More than 6 months,"$20,000-$50,000",Sometime in the future,,No / Not sure,,,Not sure,950,31.2,63.6,0,0,0,0,0,1,0,,0,,0
+46328,,,,,,Employed (full or part time),,,,,,,,,,,40.0,60.0,,0,,,,,,,,,
+8616,,"Yes, but not in an ESA",,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, my own",,,No,,44.52,62.4,,1,,1,0,1,,,,,
+157475,77700.0,,Not currently contributing,,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,I don't have any savings,I don't have any savings,,,"Yes, my own",,,No,,56.65,0.0,0,0,0,0,0,1,0,,,0,0
+201804,,,,,,Employed (full or part time),Rent,,,,,"Yes, through my work",,,No,,58.76,61.2,0,0,,0,0,0,,,,1,0
+2875,,,,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, through my work",,,No,,28.0,106.8,0,1,,0,0,1,,,,0,0
+158393,,,,,,Employed (full or part time),Rent,,,,,"Yes, through my work",,,Not sure,,63.8,67.8,0,0,,0,0,0,,,,0,0
+118432,132000.0,"Yes, but not in an ESA","I save a bit, as I can",,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"$10,000-$20,000",,,"Yes, through my work",,,No,,39.0,67.2,0,1,0,1,0,1,0,,,0,0
+109597,,,,,,Employed (full or part time),Rent,,,,,No / Not sure,,,Not sure,,34.32,27.3,,0,,0,0,1,,,,,
+204523,34560.0,,"I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Own my home outright,1 month or less,I don't have any savings,,,"Yes, through my work",,,No,,50.96,35.1,0,0,0,0,0,0,0,,,0,0
+95206,,,,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, my own",,,No,,74.4,57.0,,0,,0,0,0,,,,0,
+144850,,,,,,Employed (full or part time),Other,,,,,No / Not sure,,,Not sure,,29.1,95.4,,0,,0,0,0,,,,0,
+115610,133319.52,,"I save a bit, as I can",,"$100,000-$250,000",Employed (full or part time),Own my home outright,More than 6 months,"$5,000-$10,000",,,"Yes, through my work",,,No,,19.09,144.0,0,0,0,0,0,0,0,,,0,0
+28125,11700.0,,"I save a bit, as I can",,"$50,000-$100,000",Employed (full or part time),Rent,More than 6 months,"$20,000-$50,000",Within the next 6 months,,"Yes, my own",,,Not sure,2000,64.4,0.0,1,0,0,0,0,0,1,,1,,0
+83859,,,,,,Employed (full or part time),Rent,,,,,"Yes, my own",,,No,1000,30.9,133.2,0,0,,0,0,1,,,,,0
+176435,,,,,,Employed (full or part time),Rent,,,,,"Yes, my own",,,No,,60.8,26.1,0,0,,0,0,1,,,,0,0
+27430,,,,,,Employed (full or part time),Own my home with a mortgage,,,,VA or FHA Loan,"Yes, my own",30-year fixed rate,,Yes,,34.2,74.7,0,0,,0,0,1,,0,,,0
+34854,,,,,,Employed (full or part time),Rent,,,,,"Yes, my own",,,Not sure,,47.43,68.4,0,0,,0,0,0,,,,0,0
+109004,,,,,,Employed (full or part time),Own my home outright,,,,,"Yes, my own",,,Yes,,70.68,56.4,0,0,,0,0,1,,,,0,0
+123384,107396.28,,Not currently contributing,,"More than $500,000",Employed (full or part time),Rent,More than 6 months,"Less than $5,000",Sometime in the future,,"Yes, through my work",,,Yes,1500,40.04,61.8,0,0,1,0,0,1,0,,0,,0
+32812,,,,,,Employed (full or part time),Rent,,,,,"Yes, my own",,,Yes,,40.4,60.6,,0,,0,0,0,,,,0,
+162082,3237.0,Not applicable,,,,Employed (full or part time),Rent,,,Within the next year,,No / Not sure,,,No,1575,17.01,57.6,0,0,,1,0,0,,,1,,0
+79248,80000.0,"No, but I'd like to someday","I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Rent,1 month or less,"Less than $5,000",,,No / Not sure,,,No,,31.62,0.0,0,0,1,1,0,1,0,,,1,0
+188840,,,,,,Employed (full or part time),,,,,,"Yes, my own",,,,,71.37,36.0,,0,,0,0,1,,,,,
+46791,,,,,,Employed (full or part time),Rent,,,,,"Yes, through my work",,,Yes,,42.84,52.2,,0,,0,0,1,,,,,
+182007,,,,,,Employed (full or part time),Rent,,,,,"Yes, my own",,,No,,61.48,0.0,0,0,,0,1,0,,,,0,0
+48210,,,,,,Employed (full or part time),,,,,,,,,,,54.18,0.0,,0,,0,0,0,,,,,
+100962,,,,,,Employed (full or part time),Other,,,,,No / Not sure,,,No,,20.16,50.4,0,0,,0,0,0,,,,0,0
+161539,67200.0,,"I save a bit, as I can",,"$50,000-$100,000",Employed (full or part time),Own my home outright,More than 6 months,"$50,000-$100,000",,,No / Not sure,,,Yes,,59.52,58.8,0,0,1,0,0,0,0,,,0,0
+29063,,,,,,Employed (full or part time),,,,,,"Yes, my own",,,Yes,,25.3,72.0,,0,,0,0,0,,,,,
+148991,69350.0,,"I save a bit, as I can",,"$50,000-$100,000",Employed (full or part time),Rent,More than 6 months,"$50,000-$100,000",,,"Yes, my own",,,Yes,,32.77,141.6,0,0,0,0,0,1,0,,,0,0
+27868,3424.0,,"I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Own my home with a mortgage,4-6 months,I don't have any savings,,,"Yes, my own",,,No,,67.67,60.0,0,0,1,0,0,1,0,,,0,0
+115168,42000.0,"No, but I'd like to someday","I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Live rent-free,2-3 months,"Less than $5,000",,,"Yes, through my work",,,No,,22.77,71.4,0,0,1,1,0,0,0,,,1,0
+16156,,"No, but I'd like to someday",,,,Employed (full or part time),Own my home outright,,,,,"Yes, my own",,,No,,33.6,0.0,,0,,1,0,1,,,,,
+102648,,"No, but I'd like to someday",,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, through my work",,,Not sure,,39.24,30.0,0,0,,1,0,1,,,,0,0
+131270,,,,,,Employed (full or part time),,,,,,,,,,,30.36,51.6,,0,,,,,,,,,
+3493,148400.0,"No, but I'd like to someday",Not currently contributing,,"$10,000-$20,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"$10,000-$20,000",,VA or FHA Loan,"Yes, my own",30-year fixed rate,Under 3.5%,No,,30.3,67.8,0,0,0,1,0,1,0,1,,,0
+178141,,"No, but I'd like to someday",,,,Employed (full or part time),Own my home with a mortgage,,,,,No / Not sure,,,No,,40.95,69.6,0,0,,1,0,0,,,,0,0
+133989,,"Yes, but not in an ESA",,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, my own",,,No,,31.5,64.2,0,0,,1,0,1,,,,0,1
+39338,,,,,,Employed (full or part time),,,,,,"Yes, through my work",,,,,28.5,49.2,,0,,0,0,1,,,,,
+93026,,,,,,Employed (full or part time),Other,,,,,"Yes, through my work",,,Yes,,47.6,132.0,0,0,,0,0,0,,,,0,0
+11617,,,,,,Employed (full or part time),Rent,,,,,"Yes, through my work",,,Yes,,29.14,133.2,0,0,,0,0,1,,,,1,0
+140404,,,,,,Employed (full or part time),Rent,,,Within the next year,,"Yes, through my work",,,Not sure,2500,27.6,56.4,0,1,,0,1,0,,,1,,0
+88735,38700.0,,Not currently contributing,,"Less than $10,000",Employed (full or part time),Rent,1 month or less,"Less than $5,000",Within the next year,,"Yes, through my work",,,No,795,52.0,0.0,0,0,1,0,0,0,0,,1,,0
+202457,51750.0,,Not currently contributing,,"Less than $10,000",Employed (full or part time),Rent,1 month or less,"Less than $5,000",Within the next year,,"Yes, through my work",,,No,795,54.0,0.0,0,0,1,0,0,0,0,,1,,0
+11962,158340.0,,"I save a bit, as I can",,"More than $500,000",Employed (full or part time),Rent,More than 6 months,"More than $100,000",,,"Yes, through my work",,,Yes,,51.17,55.2,0,1,1,0,0,1,0,,,0,0
+21966,9900.0,Not applicable,"I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Other,4-6 months,"Less than $5,000",,,"Yes, through my work",,,Not sure,,22.75,61.8,0,0,0,1,0,1,0,,,0,0
+174625,,,,,,Employed (full or part time),,,,,,No / Not sure,,,,,14.94,116.4,,0,,0,0,0,,,,,
+169420,45360.0,,Not currently contributing,,"$50,000-$100,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"Less than $5,000",,,"Yes, my own",,,No,,57.2,69.0,0,0,0,0,0,1,0,,,0,0
+9879,,,,,,Employed (full or part time),,,,,,,,,,,62.1,57.0,,0,,0,0,1,,,,,
+56950,9266.0,,Not currently contributing,,"Less than $10,000",Employed (full or part time),Rent,1 month or less,"Less than $5,000",,,No / Not sure,,,No,,46.41,0.0,0,0,0,0,1,0,0,,,1,0
+171365,224000.0,,"I save a bit, as I can",,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"$5,000-$10,000",,,"Yes, my own",,,Yes,,48.84,90.0,0,1,1,0,0,1,0,,,0,0
+149030,48790.0,,Not currently contributing,,"Less than $10,000",Employed (full or part time),Rent,More than 6 months,"$10,000-$20,000",,,"Yes, through my work",,,No,,34.8,34.8,0,1,1,0,0,0,0,,,0,0
+82860,262500.0,"Yes, but not in an ESA",Not currently contributing,,"$20,000-$50,000",Employed (full or part time),Rent,4-6 months,I don't have any savings,,,No / Not sure,,,Not sure,,29.4,66.6,0,0,0,1,0,1,0,,,0,0
+75199,55640.0,,"I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Other,2-3 months,"Less than $5,000",,,"Yes, through my work",,,No,,40.67,87.3,0,0,0,0,1,0,0,,,0,0
+108373,,,,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, my own",,,Yes,,59.17,66.0,0,0,,0,0,1,,,,1,0
+128637,,,,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, through my work",,,No,,75.9,0.0,0,0,,0,0,1,,,,0,0
+74051,24600.0,,Not currently contributing,,"$10,000-$20,000",Employed (full or part time),Other,1 month or less,"Less than $5,000",,,"Yes, through my work",,,No,,33.25,97.2,0,0,0,0,0,1,0,,,0,0
+169267,,,,,,Employed (full or part time),Rent,,,,,"Yes, my own",,,No,,48.36,28.8,0,0,,0,0,1,,,,0,0
+69672,37800.0,,"I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Rent,More than 6 months,"Less than $5,000",,,"Yes, through my work",,,Yes,,30.38,54.0,0,0,0,0,0,0,,,,0,0
+128267,25920.0,Not applicable,"I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Rent,1 month or less,I don't have any savings,Within the next 2 years,,"Yes, through my work",,,No,750,39.14,70.8,0,0,1,1,0,1,0,,1,,0
+134940,48500.0,,Not currently contributing,,"$50,000-$100,000",Employed (full or part time),Own my home with a mortgage,More than 6 months,"$50,000-$100,000",,,No / Not sure,,,Yes,,50.6,0.0,1,1,0,0,0,0,0,,,0,1
+88643,,,,,,Employed (full or part time),Rent,,,,,No / Not sure,,,Not sure,,39.39,33.6,0,0,,0,0,0,,,,0,0
+73692,66300.0,,Not currently contributing,,"$50,000-$100,000",Employed (full or part time),Rent,More than 6 months,"$50,000-$100,000",Within the next 2 years,,"Yes, through my work",,,No,1800,70.62,87.3,0,0,1,0,0,0,0,,0,,0
+83185,,,,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, my own",,,No,,53.5,99.0,0,0,,0,0,1,,,,0,0
+157107,,,,,,Employed (full or part time),,,,,,,,,,,18.8,70.2,,0,,0,0,0,,,,,
+128136,31280.0,Not applicable,"I save a bit, as I can",,"$10,000-$20,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"Less than $5,000",,,"Yes, through my work",,,No,,64.96,32.7,0,0,1,1,1,1,0,,,0,0
+144982,34880.0,,"I save a bit, as I can",,"$50,000-$100,000",Employed (full or part time),Other,1 month or less,"$5,000-$10,000",,,"Yes, through my work",,,Yes,,40.6,141.6,0,0,0,0,0,1,0,,,0,0
+24705,93600.0,,"I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"$10,000-$20,000",,Fixed rate mortgage,"Yes, through my work",30-year fixed rate,3.5% - 3.99%,No,,47.7,64.8,0,0,1,0,0,0,0,0,,,0
+182625,,"Yes, but not in an ESA",,,,Employed (full or part time),,,,,,,,,,,34.24,124.8,,0,,1,0,1,,,,,
+160572,,,,,,Employed (full or part time),Own my home outright,,,,,"Yes, my own",,,No,,65.96,70.2,0,0,,0,0,1,,,,0,0
+158243,,Not applicable,,,,Employed (full or part time),Rent,,,,,No / Not sure,,,Not sure,2000,36.58,64.8,0,0,,1,0,1,,,0,,0
+100667,,,,,,Employed (full or part time),,,,,,,,,,,39.2,59.4,,0,,,,,,,,,
+38341,,,,,,Employed (full or part time),Own my home with a mortgage,,,,VA or FHA Loan,No / Not sure,30-year fixed rate,4.0% - 4.49%,Not sure,,27.2,48.0,0,0,,0,0,0,,0,,,0
+90960,,,,,,Employed (full or part time),Own my home with a mortgage,,,,Adjustable rate mortgage,"Yes, my own",5/1 ARM,5.0% or higher,Yes,,30.94,61.8,0,0,,0,0,1,,0,,,0
+36972,43600.0,,"I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Other,1 month or less,"Less than $5,000",,,"Yes, through my work",,,Not sure,,25.44,86.4,0,0,0,0,0,0,1,,,0,0
+31516,,,,,,Employed (full or part time),Own my home outright,,,,,No / Not sure,,,Yes,,58.86,68.4,0,0,,0,0,1,,,,0,0
+140641,,,,,,Employed (full or part time),Rent,,,,,"Yes, through my work",,,Yes,,40.33,64.2,0,0,,0,0,1,,,,1,0
+158082,,,,,,Employed (full or part time),Other,,,,,No / Not sure,,,Not sure,,19.38,65.4,0,0,,0,0,0,,,,0,0
+20997,,"Yes, but not in an ESA",,,,Employed (full or part time),Own my home outright,,,,,"Yes, through my work",,,Yes,,48.36,71.4,0,1,,1,0,0,,,,0,0
+31435,,,,,,Employed (full or part time),,,,,,,,,,,50.44,136.8,,1,,1,0,1,,,,,
+5887,32100.0,"No, but I'd like to someday",Not currently contributing,,"Less than $10,000",Employed (full or part time),Rent,1 month or less,"Less than $5,000",,,No / Not sure,,,No,,35.36,0.0,0,0,0,1,0,1,,,,1,0
+104563,,,,,,Employed (full or part time),,,,,,,,,,,33.6,139.2,,0,,,,,,,,,
+51069,,,,,,Employed (full or part time),Rent,,,,,"Yes, through my work",,,No,,39.9,66.0,0,0,,0,0,1,,,,0,0
+64480,61880.0,"No, but I'd like to someday","I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Rent,2-3 months,"$10,000-$20,000",Within the next 2 years,,"Yes, my own",,,No,1350,38.08,49.8,0,0,1,1,0,1,0,,1,,0
+70366,,,,,,Employed (full or part time),Rent,,,,,"Yes, through my work",,,Not sure,,76.16,27.3,0,0,,0,0,1,,,,0,0
+179690,,,,,,Employed (full or part time),Rent,,,,,No / Not sure,,,No,,36.48,102.0,,0,,0,0,0,,,,0,
+117671,,,,,,Employed (full or part time),Own my home with a mortgage,,,,,No / Not sure,,,No,,24.0,49.8,,0,,0,0,0,,,,,
+23060,43511.91,,Not currently contributing,,"$50,000-$100,000",Employed (full or part time),Live rent-free,More than 6 months,I don't have any savings,,,"Yes, my own",,,Not sure,,32.19,62.4,0,0,0,0,0,1,0,,,0,0
+18275,,,,,,Employed (full or part time),Other,,,,,"Yes, through my work",,,No,,29.45,61.8,0,0,,0,0,1,,,,1,0
+138984,110400.0,,Not currently contributing,,"$50,000-$100,000",Employed (full or part time),Own my home with a mortgage,2-3 months,I don't have any savings,,,"Yes, through my work",,,No,,57.2,63.0,0,0,1,0,1,1,0,,,0,0
+59575,24600.0,,"I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Other,4-6 months,"Less than $5,000",,,"Yes, through my work",,,Not sure,,29.75,54.0,0,0,0,0,0,1,0,,,0,0
+7573,,,,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, through my work",,,No,,37.37,58.8,0,0,,0,0,0,,,,0,0
+93034,,,,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, through my work",,,No,,36.16,100.8,0,0,,0,0,0,,,,0,0
+56737,210000.0,,"I save a bit, as I can",,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"More than $100,000",,,"Yes, through my work",,,Yes,,31.15,67.2,0,0,1,0,0,1,0,,,0,0
+99584,55800.0,,Not currently contributing,,"Less than $10,000",Employed (full or part time),Own my home with a mortgage,I don't have any savings,I don't have any savings,,,"Yes, my own",,,No,,58.14,0.0,0,0,1,0,0,1,0,,,0,0
+20145,,,,,,Employed (full or part time),,,,,,No / Not sure,,,,,47.0,87.3,,0,,0,0,1,,,,,
+4543,53280.0,,"I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Rent,2-3 months,"Less than $5,000",Sometime in the future,,"Yes, through my work",,,No,1500,26.68,54.0,0,1,1,0,0,0,0,,0,,0
+43060,,,,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, my own",,,Not sure,,36.72,55.8,,0,,0,0,0,,,,,
+169871,114000.0,,"I save a bit, as I can",,"$20,000-$50,000",Employed (full or part time),Rent,1 month or less,"$20,000-$50,000",,,"Yes, my own",,,No,,33.28,68.4,0,0,1,0,0,1,0,,,1,0
+160400,,,,,,Employed (full or part time),Rent,,,,,"Yes, through my work",,,Not sure,,47.53,55.2,0,0,,0,0,1,,,,0,0
+38948,,"No, but I'd like to someday",,,,Employed (full or part time),Rent,,,,,"Yes, through my work",,,Yes,,43.7,0.0,0,0,,1,0,1,,,,0,1
+99781,56.16,"Yes, but not in an ESA","I save a bit, as I can",,"$20,000-$50,000",Employed (full or part time),Own my home with a mortgage,4-6 months,"$20,000-$50,000",,Fixed rate mortgage,No / Not sure,30-year fixed rate,3.5% - 3.99%,Not sure,,32.55,54.6,1,0,0,1,0,0,0,1,,,0
+60371,,,,,,Employed (full or part time),,,,,,"Yes, my own",,,No,,46.41,0.0,,0,,0,0,1,,,,,
+36976,224000.0,,"I save a bit, as I can",,"$100,000-$250,000",Employed (full or part time),Own my home outright,4-6 months,"$50,000-$100,000",,,"Yes, my own",,,Yes,,77.4,71.4,0,0,0,0,0,0,0,,,0,0
+18917,29960.0,,"I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Rent,4-6 months,"Less than $5,000",,,"Yes, my own",,,No,,29.75,32.1,0,0,1,0,0,0,0,,,0,0
+90575,36000.0,,Not currently contributing,,"$20,000-$50,000",Employed (full or part time),Rent,2-3 months,"Less than $5,000",,,No / Not sure,,,No,,40.5,0.0,0,0,1,0,0,0,1,,,0,0
+114116,,Not applicable,,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, my own",,,No,,59.92,0.0,,0,,1,0,1,,,,0,
+66167,,,,,,Employed (full or part time),Own my home outright,,,,,No / Not sure,,,No,,75.6,140.4,0,0,,0,0,0,,,,0,0
+180509,27.3,,"I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Rent,1 month or less,I don't have any savings,,,"Yes, through my work",,,No,,27.59,0.0,0,0,1,0,0,0,0,,,0,0
+203450,,,,,,Employed (full or part time),Rent,,,As soon as I can,,No / Not sure,,,No,1550,36.08,97.2,0,0,,0,0,0,,,1,,0
+62180,,"Yes, but not in an ESA",,,,Employed (full or part time),Rent,,,Sometime in the future,,No / Not sure,,,Not sure,500,30.1,0.0,1,1,,1,1,0,,,0,,0
+89981,2950.0,,Not currently contributing,,"Less than $10,000",Employed (full or part time),Rent,I don't have any savings,"Less than $5,000",,,"Yes, my own",,,No,,63.9,0.0,0,0,0,0,1,0,0,,,1,0
+65169,,,,,,Employed (full or part time),Own my home with a mortgage,,,,,No / Not sure,,,Yes,,53.55,64.2,1,0,,0,0,0,,,,,0
+118202,,,,,,Employed (full or part time),Rent,,,,,"Yes, my own",,,Not sure,,52.08,60.6,0,0,,0,0,0,,,,0,0
+15050,,,,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, through my work",,,No,,35.64,83.7,,0,,0,0,1,,,,0,
+197211,87000.0,,"I save a bit, as I can",,"$20,000-$50,000",Employed (full or part time),Rent,4-6 months,"$20,000-$50,000",Within the next 6 months,,"Yes, through my work",,,Yes,1800,36.12,69.0,0,0,1,0,0,1,0,,0,,0
+104011,,,,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, through my work",,,No,,41.83,0.0,0,0,,0,0,0,,,,0,0
+147746,49200.0,,"I save a bit, as I can",,,Employed (full or part time),Rent,,,,,No / Not sure,,,Not sure,,37.2,63.0,0,0,,0,0,0,,,,1,0
+190755,40940.0,"No, but I'd like to someday",Not currently contributing,,"$20,000-$50,000",Employed (full or part time),Rent,I don't have any savings,"Less than $5,000",,,No / Not sure,,,No,,36.12,70.2,0,0,0,1,0,0,0,,,0,0
+16219,,"Yes, but not in an ESA",,,,Employed (full or part time),Rent,,,,,No / Not sure,,,No,,61.8,53.4,0,1,,1,0,1,,,,1,0
+12460,27250.0,,"I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Rent,More than 6 months,"$5,000-$10,000",,,No / Not sure,,,No,,55.46,53.4,0,0,0,0,0,1,0,,,0,0
+146561,,,,,,Employed (full or part time),Rent,,,,,"Yes, my own",,,No,,54.52,102.0,1,0,,0,0,0,,,,0,0
+169612,,,,,,Employed (full or part time),Rent,,,,,"Yes, through my work",,,No,,57.78,0.0,0,1,,0,0,0,,,,1,0
+21477,71040.0,,"I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Rent,I don't have any savings,I don't have any savings,,,"Yes, my own",,,No,,47.31,70.8,0,0,0,0,0,0,0,,,0,0
+192718,218500.0,Not applicable,Not currently contributing,,"Less than $10,000",Employed (full or part time),Rent,I don't have any savings,I don't have any savings,,,"Yes, through my work",,,Yes,,57.33,27.6,0,0,1,1,0,1,0,,,0,0
+72558,82160.0,,"I save a bit, as I can",,"$20,000-$50,000",Employed (full or part time),Rent,2-3 months,I don't have any savings,Within the next 6 months,,"Yes, my own",,,Yes,4000,38.27,0.0,0,0,0,0,0,1,0,,1,,0
+68894,56529.8,,Not currently contributing,,"$100,000-$250,000",Employed (full or part time),Rent,2-3 months,"$50,000-$100,000",Sometime in the future,,No / Not sure,,,Not sure,5000,38.16,96.0,0,0,0,0,0,0,0,,0,,0
+70921,,,,,,Employed (full or part time),,,,,,"Yes, through my work",,,Not sure,,29.97,50.4,,0,,0,0,1,,,,,
+136369,24960.0,"No, but I'd like to someday",Not currently contributing,,"Less than $10,000",Employed (full or part time),Rent,1 month or less,"Less than $5,000",,,"Yes, my own",,,No,,28.56,87.3,0,0,1,1,0,1,0,,,1,0
+203272,3090.0,,Not currently contributing,,"Less than $10,000",Employed (full or part time),Rent,More than 6 months,"$50,000-$100,000",As soon as I can,,No / Not sure,,,No,1600,23.54,70.8,0,0,0,0,0,0,0,,0,,0
+21959,,,,,,Employed (full or part time),Rent,,,,,"Yes, through my work",,,No,,30.8,57.6,0,0,,0,0,1,,,,0,0
+35655,,Not applicable,,,,Employed (full or part time),,,,,,,,,,,52.92,64.2,,0,,1,0,1,,,,,
+153736,,,,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, my own",,,No,,33.48,63.6,0,0,,0,0,1,,,,0,0
+115327,,,,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, my own",,,No,,55.25,62.4,0,0,,0,0,0,,,,0,0
+172712,98880.0,,Not currently contributing,,"$50,000-$100,000",Employed (full or part time),Rent,More than 6 months,"Less than $5,000",,,"Yes, through my work",,,No,,31.45,88.2,0,0,0,0,0,1,0,,,0,0
+15117,,,,,,Employed (full or part time),Rent,,,,,"Yes, through my work",,,Yes,1500,53.94,66.6,0,0,,0,0,1,,,,,0
+140914,,,,,,Employed (full or part time),Rent,,,,,"Yes, my own",,,Not sure,,52.38,55.2,0,0,,0,0,0,,,,0,0
+84249,,,,,,Employed (full or part time),Other,,,,,"Yes, my own",,,No,,67.2,67.8,0,0,,0,0,0,,,,0,0
+47627,,Not applicable,,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, through my work",,,No,,49.98,0.0,0,0,,1,0,1,,,,,0
+11694,55.2,,,,,Employed (full or part time),Rent,,,,,No / Not sure,,,No,,42.12,0.0,0,0,,0,0,1,,,,0,0
+71230,,,,,,Employed (full or part time),,,,,,,,,,,39.27,50.4,,0,,,,,,,,,
+10194,,,,,,Employed (full or part time),Rent,,,,,No / Not sure,,,Not sure,,25.52,67.8,,0,,0,0,0,,,,0,
+44402,,,,,,Employed (full or part time),,,,,,No / Not sure,,,,,49.05,61.2,,0,,0,0,0,,,,,
+154149,30.36,,"I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Rent,1 month or less,"Less than $5,000",,,No / Not sure,,,Not sure,,55.0,68.4,0,0,1,0,0,0,0,,,0,0
+186807,,"No, but I'd like to someday",,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, through my work",,,No,,51.17,128.4,0,0,,1,0,1,,,,0,0
+94522,,,,,,Employed (full or part time),Other,,,,,"Yes, through my work",,,No,,18.4,98.4,0,0,,0,0,0,,,,0,0
+25350,,"No, but I'd like to someday",,,,Employed (full or part time),Own my home with a mortgage,,,,,No / Not sure,,,Yes,,38.7,70.8,0,1,,1,0,1,,,,0,0
+42111,,,,,,Employed (full or part time),Rent,,,,,"Yes, through my work",,,No,,38.18,0.0,0,0,,0,0,0,,,,0,0
+24845,,,,,,Employed (full or part time),Rent,,,,,"Yes, through my work",,,No,,48.59,0.0,,0,,0,0,1,,,,0,
+36163,48720.0,"Yes, but not in an ESA","I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Rent,2-3 months,"$5,000-$10,000",,,"Yes, through my work",,,No,,38.8,70.8,0,0,1,1,0,0,0,,,0,0
+136057,,,,,,Employed (full or part time),,,,,,,,,,,36.55,0.0,,0,,0,0,1,,,,,
+105327,,"No, but I'd like to someday",,,,Employed (full or part time),Rent,,,,,No / Not sure,,,Not sure,,23.2,60.0,0,0,,1,0,1,,,,1,0
+179195,,,,,,Employed (full or part time),Own my home outright,,,,,No / Not sure,,,No,,53.55,52.2,0,0,,0,0,1,,,,0,0
+204062,24080.0,,Not currently contributing,,"Less than $10,000",Employed (full or part time),Rent,1 month or less,"Less than $5,000",,,"Yes, through my work",,,No,,74.46,0.0,0,0,0,0,0,0,1,,,1,0
+119294,,,,,,Employed (full or part time),Rent,,,,,No / Not sure,,,No,,19.58,96.0,0,0,,0,0,0,,,,0,0
+29958,,,,,,Employed (full or part time),Rent,,,,,No / Not sure,,,No,,48.59,72.0,0,0,,0,0,1,,,,0,0
+57255,92820.0,,"I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Rent,I don't have any savings,I don't have any savings,,,"Yes, through my work",,,No,,45.6,60.6,0,0,0,0,1,0,0,,,0,0
+36828,,,,,,Employed (full or part time),,,,,,,,,,,22.08,61.8,,0,,0,0,1,,,,,
+137761,39150.0,,Not currently contributing,,"$20,000-$50,000",Employed (full or part time),Rent,1 month or less,I don't have any savings,Within the next 2 years,,No / Not sure,,,No,900,31.31,60.6,0,0,0,0,0,0,0,,1,,0
+178771,45500.0,,"I save a bit, as I can",,"$100,000-$250,000",Employed (full or part time),Own my home outright,More than 6 months,"$50,000-$100,000",,,No / Not sure,,,Yes,,78.2,51.6,0,0,1,0,0,1,0,,,0,0
+150277,,"Yes, but not in an ESA",,,,Employed (full or part time),,,,,,"Yes, through my work",,,No,,26.4,49.8,,0,,1,0,1,,,,,
+149174,5150.0,,Not currently contributing,,"More than $500,000",Employed (full or part time),Own my home outright,1 month or less,"$10,000-$20,000",,,"Yes, my own",,,No,,33.2,53.4,0,0,0,0,0,0,0,,,0,0
+87665,113000.0,,Not currently contributing,,"Less than $10,000",Employed (full or part time),Rent,1 month or less,"Less than $5,000",Sometime in the future,,No / Not sure,,,No,1800,30.1,0.0,0,0,0,0,0,1,0,,1,,0
+126859,,,,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, my own",,,Yes,,39.14,65.4,0,0,,0,0,1,,,,0,0
+36676,,"No, but I'd like to someday",,,,Employed (full or part time),Rent,,,,,No / Not sure,,,No,,46.53,0.0,0,0,,1,0,0,,,,1,0
+109997,22750.0,,Not currently contributing,,"Less than $10,000",Employed (full or part time),Rent,1 month or less,"Less than $5,000",As soon as I can,,No / Not sure,,,No,650,51.23,27.9,0,0,0,0,0,0,0,,1,,0
+134830,60500.0,"Yes, but not in an ESA","I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Own my home with a mortgage,1 month or less,"Less than $5,000",,,"Yes, through my work",,,No,,30.6,72.0,0,0,1,1,0,1,0,,,0,0
+78527,,,,,,Employed (full or part time),,,,,,,,,,,30.96,144.0,,0,,0,0,0,,,,,
+114112,,,,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, through my work",,,No,,42.18,57.6,,0,,0,0,0,,,,0,
+3572,125440.0,,"I save a bit, as I can",,"$100,000-$250,000",Employed (full or part time),Own my home outright,More than 6 months,"$10,000-$20,000",,,"Yes, through my work",,,Yes,,58.3,49.8,0,0,1,0,1,0,0,,,0,0
+140235,48000.0,,Not currently contributing,,"Less than $10,000",Employed (full or part time),Live rent-free,1 month or less,I don't have any savings,,,No / Not sure,,,No,,29.44,0.0,0,1,0,0,1,0,1,,,1,0
+101954,39666.27,,Not currently contributing,,"$100,000-$250,000",Employed (full or part time),Other,1 month or less,"Less than $5,000",,,No / Not sure,,,Not sure,,27.06,48.6,0,1,1,0,0,0,0,,,0,0
+122192,67500.0,,"I save a bit, as I can",,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,1 month or less,I don't have any savings,,,"Yes, my own",,,No,,69.0,71.4,0,0,1,0,0,1,0,,,0,0
+171789,2833.05,,Not currently contributing,,"Less than $10,000",Employed (full or part time),Other,1 month or less,"Less than $5,000",,,No / Not sure,,,Not sure,,34.65,60.0,0,0,1,0,0,1,0,,,0,0
+165196,,,,,,Employed (full or part time),,,,,,,,,,,26.6,52.8,,0,,,,,,,,,
+168548,87200.0,,"I save a bit, as I can",,"$20,000-$50,000",Employed (full or part time),Rent,More than 6 months,I don't have any savings,,,No / Not sure,,,No,,24.9,57.6,0,0,0,0,0,0,0,,,0,0
+84884,,,,,,Employed (full or part time),Own my home with a mortgage,,,,Fixed rate mortgage,"Yes, my own",15-year fixed rate,Under 3.5%,Yes,,62.25,67.2,0,1,,0,0,1,,0,,,0
+66950,51040.0,,"I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Live rent-free,More than 6 months,"More than $100,000",,,No / Not sure,,,No,,24.6,59.4,0,0,0,0,0,0,0,,,0,0
+70400,,,,,,Employed (full or part time),,,,,,No / Not sure,,,,,40.67,100.8,,0,,0,1,0,,,,,
+162243,,Not applicable,,,,Employed (full or part time),,,,,,"Yes, my own",,,Yes,,45.6,109.2,,0,,1,0,0,,,,,
+109731,,,,,,Employed (full or part time),Rent,,,,,No / Not sure,,,Yes,,30.69,66.0,0,0,,0,0,0,,,,0,0
+44816,,"No, but I'd like to someday",,,,Employed (full or part time),Rent,,,,,"Yes, through my work",,,Yes,,58.0,50.4,0,0,,1,0,0,,,,1,0
+67959,391227.48,,Not currently contributing,,"$100,000-$250,000",Employed (full or part time),Own my home with a mortgage,2-3 months,"$5,000-$10,000",,,"Yes, my own",,,Yes,,70.84,60.6,0,0,0,1,0,0,0,,,0,0
+89082,,,,,,Employed (full or part time),,,,,,,,,,,52.8,49.8,,0,,0,0,1,,,,,
+162336,,"No, but I'd like to someday",,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, my own",,,No,,33.9,0.0,0,0,,1,0,0,,,,0,0
+186441,,,,,,Employed (full or part time),Own my home with a mortgage,,,,,"Yes, my own",,,Yes,,52.5,60.0,0,0,,0,0,1,,,,0,0
+73638,,,,,,Employed (full or part time),Rent,,,,,No / Not sure,,,Yes,,38.16,48.0,,0,,0,0,1,,,,0,
+5512,213600.0,"No, but I'd like to someday","I save a bit, as I can",,"Less than $10,000",Employed (full or part time),Live rent-free,1 month or less,"Less than $5,000",,,No / Not sure,,,No,,35.7,0.0,0,1,0,1,1,1,1,,,0,1
+55310,155400.0,"No, but I'd like to someday",Not currently contributing,,"$10,000-$20,000",Homemaker / Caregiver,Own my home with a mortgage,1 month or less,"Less than $5,000",,,"Yes, my own",,,Yes,,39.55,25.2,0,0,0,1,0,1,0,,,0,1
+54645,,,,,,Own a business,Own my home with a mortgage,,,,,"Yes, my own",,,Yes,,49.0,69.6,0,1,,0,0,1,,,,0,0
+138794,36000.0,"No, but I'd like to someday","I save a bit, as I can",,"Less than $10,000",Own a business,Rent,I don't have any savings,"Less than $5,000",,,"Yes, my own",,,No,,63.22,57.0,0,0,0,1,0,1,0,,,0,0
+193205,45555.1,"No, but I'd like to someday","I save a bit, as I can",,"$10,000-$20,000",Not working / Other,Live rent-free,1 month or less,"$50,000-$100,000",,,No / Not sure,,,Yes,,21.78,0.0,0,0,0,1,0,0,0,,,1,0
+74440,,"No, but I'd like to someday",,,,Own a business,Own my home with a mortgage,,,,,No / Not sure,,,No,,51.7,0.0,,0,,1,1,1,,,,,
+198958,,,,,,Not working / Other,Own my home with a mortgage,,,,,No / Not sure,,,Not sure,,56.16,63.6,0,0,,0,0,1,,,,0,0
+196927,41340.0,,Not currently contributing,,"$20,000-$50,000",Own a business,Own my home with a mortgage,I don't have any savings,I don't have any savings,,Something else,"Yes, my own",30-year fixed rate,5.0% or higher,Not sure,,58.14,49.2,0,0,0,0,0,0,0,1,,,0
+93305,,,,,,Homemaker / Caregiver,Own my home with a mortgage,,,,,"Yes, my own",,,No,,37.62,97.2,0,0,,0,0,1,,,,0,0
+55033,34580.0,,"I save a bit, as I can",,"$250,000-$500,000",Homemaker / Caregiver,Own my home with a mortgage,I don't have any savings,"$10,000-$20,000",,,"Yes, my own",,,Not sure,,37.37,69.0,1,0,0,0,0,1,0,,,1,0
+32420,,Not applicable,,,,Own a business,Own my home with a mortgage,,,,,"Yes, my own",,,Not sure,,50.96,56.4,0,0,,1,0,1,,0,,,0
+25334,668918.25,,"I save a bit, as I can",,"$50,000-$100,000",Own a business,Own my home with a mortgage,4-6 months,"$50,000-$100,000",,VA or FHA Loan,"Yes, my own",7/1 ARM,4.5% - 4.99%,Yes,,71.28,60.0,1,0,0,1,0,1,,0,,,0
+81963,186000.0,,Not currently contributing,,"More than $500,000",Own a business,Own my home with a mortgage,More than 6 months,"More than $100,000",,,"Yes, my own",,,Yes,,65.28,104.4,0,0,1,0,0,1,0,,,0,0
+73419,,"No, but I'd like to someday",,,,Own a business,Rent,,,,,No / Not sure,,,No,1250,48.4,109.2,0,0,,1,0,0,,,,,0
+83784,116000.0,,"I save a bit, as I can",,"$50,000-$100,000",Own a business,Own my home with a mortgage,2-3 months,"$10,000-$20,000",,Fixed rate mortgage,No / Not sure,30-year fixed rate,4.0% - 4.49%,Not sure,,23.94,90.9,0,0,0,0,0,1,0,1,,,0
+85512,,,,,,Homemaker / Caregiver,Own my home with a mortgage,,,,,"Yes, my own",,,Yes,,54.0,82.8,0,0,,0,0,1,,,,0,0
+81759,,"No, but I'd like to someday",,,,Homemaker / Caregiver,Rent,,,,,"Yes, my own",,,Yes,,46.64,57.0,0,0,,1,0,1,,,,0,0
+75316,76500.0,,,,,Not working / Other,Own my home with a mortgage,,,,,No / Not sure,,,Yes,,32.93,0.0,0,0,,0,0,1,,,,0,0
+205148,89610.0,Not applicable,Not currently contributing,,"Less than $10,000",Own a business,Own my home with a mortgage,2-3 months,I don't have any savings,,,"Yes, my own",,,Yes,,48.3,64.8,0,0,0,1,0,0,,0,,,0
+204704,73600.0,"No, but I'd like to someday","I save a bit, as I can",,"$20,000-$50,000",Own a business,Rent,2-3 months,"$10,000-$20,000",,,No / Not sure,,,Not sure,,65.45,36.0,0,0,0,1,1,1,1,,,0,1
+172749,,,,,,Own a business,Own my home with a mortgage,,,,,"Yes, through my work",,,Yes,,54.0,61.8,0,1,,0,0,0,,,,0,0
+124362,30240.0,Not applicable,Not currently contributing,,"$250,000-$500,000",Not working / Other,Other,I don't have any savings,"More than $100,000",Sometime in the future,,No / Not sure,,,Not sure,370,22.26,53.4,0,0,0,1,0,0,0,,0,,0
+188657,4995.0,,Not currently contributing,,"$50,000-$100,000",Own a business,Rent,,"Less than $5,000",As soon as I can,,"Yes, my own",,,Yes,750,42.12,67.8,0,0,,0,0,1,,,1,,0
+12239,612.0,Not applicable,Not currently contributing,,"$50,000-$100,000",Not working / Other,Rent,1 month or less,I don't have any savings,,,"Yes, my own",,,No,,47.73,0.0,0,0,0,1,1,1,0,,,1,0
+116472,51600.0,,Not currently contributing,,"Less than $10,000",Own a business,Rent,2-3 months,"Less than $5,000",,,No / Not sure,,,Not sure,,52.64,70.2,0,0,0,0,0,0,0,,,0,0
+114186,25777.52,,Not currently contributing,,"Less than $10,000",Not working / Other,Other,1 month or less,"Less than $5,000",,,"Yes, through my work",,,Not sure,,36.96,57.6,0,0,1,0,0,0,0,,,0,0
+83856,112700.0,,Not currently contributing,,"$250,000-$500,000",Own a business,Own my home outright,,,,,No / Not sure,,,No,,50.96,118.8,0,0,,0,0,1,,,,0,0
+62871,199098.9,,Not currently contributing,,"Less than $10,000",Own a business,Rent,I don't have any savings,"More than $100,000",Sometime in the future,,"Yes, through my work",,,Yes,2323,46.62,0.0,0,0,0,0,0,0,0,,0,,0
+146810,79800.0,,Not currently contributing,,"Less than $10,000",Not working / Other,Rent,1 month or less,"Less than $5,000",,,No / Not sure,,,Not sure,,48.84,28.2,0,1,1,0,0,1,0,,,1,0
+71837,15770.0,,Not currently contributing,,"Less than $10,000",Not working / Other,Live rent-free,I don't have any savings,"Less than $5,000",,,"Yes, through my work",,,No,,18.7,33.0,0,0,1,0,0,1,0,,,1,0
+90787,0.0,,Not currently contributing,,"Less than $10,000",Homemaker / Caregiver,Other,I don't have any savings,"Less than $5,000",,,No / Not sure,,,No,,55.65,0.0,0,0,0,0,1,1,0,,,0,0
+154418,68640.0,,Not currently contributing,,"Less than $10,000",Own a business,Rent,2-3 months,"Less than $5,000",,,No / Not sure,,,No,,49.56,0.0,0,0,0,0,0,0,1,,,1,0
+137708,302400.0,,Not currently contributing,,"More than $500,000",Not working / Other,Rent,4-6 months,"$50,000-$100,000",,,"Yes, my own",,,Yes,,49.8,100.8,1,0,0,0,0,1,0,,,0,0
+132117,21314.93,,Not currently contributing,,"More than $500,000",Homemaker / Caregiver,Other,I don't have any savings,"More than $100,000",,,No / Not sure,,,Not sure,,50.35,57.6,0,0,0,0,0,1,0,,,0,0
+200237,38250.0,,Not currently contributing,,"Less than $10,000",Not working / Other,Own my home outright,1 month or less,"Less than $5,000",,,No / Not sure,,,No,,55.2,0.0,0,0,0,0,0,1,0,,,0,0
+36938,93600.0,,Not currently contributing,,"$250,000-$500,000",Own a business,Own my home outright,More than 6 months,"More than $100,000",,,"Yes, my own",,,Yes,,79.2,75.6,0,0,0,0,0,1,0,,,0,0
+157774,21000.0,Not applicable,Not currently contributing,,"Less than $10,000",Not working / Other,Rent,I don't have any savings,I don't have any savings,,,No / Not sure,,,No,,36.26,32.1,0,0,0,1,0,1,0,,,0,0
+32528,33666.33,,Not currently contributing,,"More than $500,000",Not working / Other,Other,4-6 months,"More than $100,000",,,"Yes, through my work",,,Not sure,,28.38,55.2,0,0,0,0,0,1,0,,,0,0
+87734,,"Yes, but not in an ESA",,,,Not working / Other,Other,,,,,"Yes, my own",,,No,,54.5,55.8,0,0,,1,0,0,,,,0,0
+105978,84800.0,,"I save a bit, as I can",,"$10,000-$20,000",Own a business,Rent,1 month or less,"$10,000-$20,000",,,No / Not sure,,,No,,31.5,69.6,0,0,0,0,0,1,1,,,1,0
+84605,113360.0,,"I save a bit, as I can",,"$10,000-$20,000",Own a business,Rent,4-6 months,"Less than $5,000",,,No / Not sure,,,No,,54.88,25.2,1,0,0,0,0,0,0,,,1,0
+126515,34488.35,,"I save a bit, as I can",,"$100,000-$250,000",Own a business,Other,1 month or less,"$50,000-$100,000",,,"Yes, my own",,,Yes,,64.35,62.4,1,0,0,0,0,1,0,,,0,0
+136261,,"Yes, but not in an ESA",,,,Homemaker / Caregiver,,,,,,,,,,,38.0,111.6,,0,,1,1,1,,,,,
+102921,58100.0,,"I save a bit, as I can",,"Less than $10,000",Homemaker / Caregiver,Rent,2-3 months,"Less than $5,000",,,"Yes, through my work",,,No,,32.8,0.0,0,1,0,0,0,1,0,,,1,0
+157157,72380.0,,"I save a bit, as I can",,"$10,000-$20,000",Own a business,Rent,More than 6 months,"$10,000-$20,000",As soon as I can,,"Yes, my own",,,Not sure,1000,44.0,121.2,0,0,0,0,0,1,0,,0,,0
+48743,27160.0,,"I save a bit, as I can",,"$10,000-$20,000",Not working / Other,Rent,More than 6 months,"$20,000-$50,000",,,"Yes, my own",,,Yes,,58.88,101.7,0,0,0,0,0,0,1,,,1,0
+3324,77040.0,,"I save a bit, as I can",,"$10,000-$20,000",Own a business,Rent,2-3 months,"Less than $5,000",,,No / Not sure,,,Not sure,,35.26,65.4,0,0,0,0,0,0,0,,,0,0
+196686,,,,,,Not working / Other,Rent,,,Sometime in the future,,No / Not sure,,,Yes,2100,54.6,24.0,0,0,,0,0,1,,,0,,0
+199749,,,,,,Homemaker / Caregiver,Other,,,,,No / Not sure,,,Not sure,,36.54,100.8,0,1,,0,0,1,,,,0,0
+171713,,,,,,Homemaker / Caregiver,,,,,,,,,,,23.24,0.0,,0,,0,0,1,,,,,
+153604,,,,,,Homemaker / Caregiver,Other,,,,,No / Not sure,,,No,,48.6,0.0,,0,,0,0,0,,,,0,
+37182,,,,,,Homemaker / Caregiver,,,,,,"Yes, my own",,,Not sure,,52.25,58.8,0,0,,0,0,1,,,,,0
+469,1428.0,,,,,Not working / Other,Own my home outright,,,,,No / Not sure,,,No,,53.01,98.4,0,0,,0,0,0,,,,0,0
+197458,,,,,,Not working / Other,Own my home outright,,,,,"Yes, my own",,,Yes,,80.66,48.0,,0,,0,0,0,,,,,
+78613,,,,,,Not working / Other,Rent,,,Within the next year,,No / Not sure,,,No,600,39.55,0.0,0,0,,0,0,0,,,1,,0
+85153,,,,,,Not working / Other,Own my home outright,,,,,"Yes, my own",,,Yes,,63.86,54.6,0,0,,0,0,1,,,,0,0
+34968,,,,,,Own a business,Own my home outright,,,,,No / Not sure,,,Yes,,70.81,71.4,,0,,0,0,0,,,,,
+41467,,,,,,Own a business,Own my home outright,,,,,"Yes, my own",,,Yes,,49.88,66.0,0,0,,0,0,1,,,,0,0
+67079,59.95,,,,,Retired,Own my home outright,,,,,No / Not sure,,,Not sure,,59.8,54.0,0,0,,0,0,1,,,,0,0
+21159,,,,,,Not working / Other,,,,,,No / Not sure,,,,,32.9,56.4,,0,,0,0,0,,,,,
+121395,,,,,,Not working / Other,Rent,,,,,No / Not sure,,,No,,56.64,60.6,0,0,,0,0,1,,,,1,0
+139841,,,,,,Not working / Other,,,,,,"Yes, my own",,,,,52.65,58.2,,0,,0,0,0,,,,,
+51656,,,,,,Not working / Other,,,,,,,,,,,71.61,52.2,,0,,,,,,,,,
+196034,,,,,,Not working / Other,Rent,,,,,No / Not sure,,,No,,52.44,49.2,1,0,,0,1,0,,,,1,0
+78136,,,,,,Not working / Other,Other,,,,,No / Not sure,,,Not sure,,20.52,49.2,0,1,,0,0,0,,,,,0
+12309,,,,,,Not working / Other,Rent,,,,,No / Not sure,,,No,,39.6,0.0,0,0,,0,0,0,,,,0,0
+14442,,,,,,Not working / Other,Rent,,,,,"Yes, my own",,,No,,37.2,98.1,0,0,,0,0,0,,,,1,0
+82675,,,,,,Not working / Other,Other,,,,,No / Not sure,,,No,,60.97,0.0,,0,,0,0,0,,,,1,
+183167,,,,,,Not working / Other,Other,,,,,No / Not sure,,,No,,66.34,0.0,0,0,,0,0,0,,,,1,0
+54182,,,,,,Not working / Other,,,,,,,,,,,33.66,61.2,,0,,,,,,,,,
+62589,,,,,,Not working / Other,Rent,,,,,No / Not sure,,,No,,28.8,52.2,0,0,,0,0,1,,,,0,0
+138473,,,,,,Not working / Other,Rent,,,,,No / Not sure,,,Yes,,48.41,54.6,0,0,,0,1,0,,,,0,0
+154780,,,,,,Not working / Other,Rent,,,,,No / Not sure,,,No,,31.62,0.0,0,0,,0,0,0,,,,0,0
+128286,,,,,,Not working / Other,Rent,,,,,No / Not sure,,,No,,32.3,48.0,0,0,,0,0,1,,,,0,0
+175735,,,,,,Not working / Other,Rent,,,,,No / Not sure,,,Not sure,,51.84,48.0,0,0,,0,0,0,,,,0,0
+204814,,,,,,Not working / Other,Rent,,,,,No / Not sure,,,No,,30.69,0.0,0,0,,0,0,0,,,,0,0
+150013,,,,,,Not working / Other,Rent,,,,,No / Not sure,,,Yes,,59.95,93.6,0,0,,0,0,0,,,,0,0
+59216,,,,,,Not working / Other,Rent,,,,,No / Not sure,,,Not sure,,31.02,61.8,0,0,,0,0,0,,,,0,0
+110688,,Not applicable,,,,Not working / Other,Rent,,,,,No / Not sure,,,Not sure,,56.4,0.0,0,0,,1,0,0,,,,0,1
+183182,,,,,,Not working / Other,Other,,,,,No / Not sure,,,No,,73.26,0.0,0,0,,0,1,1,,,,0,0
+88894,,,,,,Not working / Other,Live rent-free,,,,,No / Not sure,,,No,,46.98,0.0,0,0,,0,0,0,,,,0,0
+70715,,Not applicable,,,,Not working / Other,,,,,,"Yes, my own",,,Not sure,,70.72,59.4,0,0,,1,0,0,,,,,0
+38262,,,,,,Not working / Other,,,,,,No / Not sure,,,,,27.0,142.8,,0,,0,0,0,,,,,
+60244,,,,,,Not working / Other,Other,,,,,No / Not sure,,,No,,50.15,64.8,1,0,,0,0,1,,,,0,0
+42735,,,,,,Full-time student,,,,,,,,,,,26.88,117.6,,0,,,,,,,,,
+187744,,,,,,Full-time student,,,,,,,,,,,17.1,69.6,,0,,,,,,,,,
+159725,,,,,,Full-time student,,,,,,,,,,,23.78,0.0,,0,,,,,,,,,
+13348,,,,,,Full-time student,,,,,,,,,,,35.65,66.0,,0,,,,,,,,,
+51893,,,,,,Full-time student,,,,,,,,,,,67.58,122.4,,0,,,,,,,,,
+160791,,,,,,Full-time student,,,,,,,,,,,16.2,95.4,,0,,,,,,,,,
+62207,,,,,,Full-time student,,,,,,,,,,,22.08,58.8,,0,,,,,,,,,
+182845,,,,,,Full-time student,,,,,,,,,,,30.74,0.0,,1,,,,,,,,,
+15426,,,,,,Full-time student,,,,,,,,,,,21.39,54.0,,0,,,,,,,,,
+64601,,,,,,Full-time student,,,,,,,,,,,41.6,70.2,,1,,,,,,,,,
+95977,,,,,,Full-time student,,,,,,,,,,,81.6,115.2,,0,,,,,,,,,
+67188,,,,,,Full-time student,,,,,,,,,,,24.08,144.0,,0,,,,,,,,,
+95756,,,,,,Full-time student,,,,,,,,,,,30.08,49.8,,0,,,,,,,,,
+115852,,,,,,Full-time student,,,,,,,,,,,23.31,48.0,,1,,,,,,,,,
+18566,,,,,,Full-time student,,,,,,,,,,,39.1,52.2,,0,,,,,,,,,
+159599,,,,,,Full-time student,,,,,,,,,,,35.97,51.6,,0,,,,,,,,,
+195914,,,,,,Full-time student,,,,,,,,,,,39.6,66.0,,1,,,,,,,,,
+192335,,,,,,Full-time student,,,,,,,,,,,18.54,54.6,,0,,,,,,,,,
+198728,,,,,,Full-time student,,,,,,,,,,,35.31,64.8,,1,,,,,,,,,
+11532,,,,,,Full-time student,,,,,,,,,,,20.34,53.4,,0,,,,,,,,,
+183426,,,,,,Full-time student,,,,,,,,,,,50.85,62.4,,1,,,,,,,,,
+137136,,,,,,Full-time student,,,,,,,,,,,25.92,140.4,,0,,,,,,,,,
+191345,,,,,,Own a business,Rent,,,As soon as I can,,No / Not sure,,,No,600,62.4,0.0,0,0,,0,0,0,,,0,,0
+45203,,,,,,Own a business,,,,,,,,,,,65.49,53.4,,0,,,,,,,,,
+194417,,,,,,Own a business,Rent,,,,,"Yes, my own",,,No,,33.99,98.1,,0,,0,0,1,,,,,
+120009,,,,,,Own a business,,,,,,"Yes, my own",,,Yes,,18.18,138.0,,0,,0,0,0,,,,,
+159304,,,,,,Own a business,,,,,,"Yes, my own",,,,,57.57,71.4,,0,,0,0,1,,,,,
+100285,,,,,,Own a business,,,,,,,,,,,39.9,52.2,,0,,,,,,,,,
+204823,,,,,,Own a business,,,,,,,,,,,44.64,52.2,,0,,,,,,,,,
+115747,,,,,,Own a business,,,,,,,,,,,18.05,81.0,,0,,1,0,0,,,,,
+160293,,,,,,Own a business,,,,,,,,,,,52.2,0.0,,0,,,,,,,,,
+110381,,,,,,Own a business,Other,,,,,No / Not sure,,,No,,56.68,60.6,,0,,0,0,0,,,,,
+132265,,,,,,Own a business,,,,,,,,,,,56.18,54.6,,0,,,,,,,,,
+150781,,,,,,Own a business,,,,,,,,,,,54.05,69.0,,0,,0,0,1,,,,,
+85063,,,,,,Retired,,,,,,No / Not sure,,,Not sure,,60.06,50.4,,0,,0,0,1,,,,,
+19104,,,,,,Retired,Other,,,,,No / Not sure,,,Not sure,,79.31,48.6,0,0,,1,0,0,,,,0,0
+41510,,,,,,Retired,,,,,,No / Not sure,,,No,,56.65,70.8,,0,,1,0,0,,,,,
+65757,,,,,,Retired,,,,,,,,,,,82.11,54.0,,0,,,,,,,,,
+60793,,,,,,Retired,,,,,,,,,,,65.52,122.4,,0,,,,,,,,,
+19507,,,,,,Retired,,,,,,,,,,,88.2,66.0,,0,,,,,,,,,
+83010,,,,,,Retired,,,,,,,,,,,50.4,94.5,,0,,,,,,,,,
+59166,,,,,,Retired,,,,,,,,,,,85.85,0.0,,0,,,,,,,,,
+41972,,,,,,Retired,,,,,,,,,,,68.6,59.4,,0,,,,,,,,,
+10585,,,,,,Retired,,,,,,,,,,,66.0,31.5,,0,,,,,,,,,
+183487,,,,,,Retired,,,,,,,,,,,84.36,82.8,,0,,,,,,,,,
+76062,,,,,,Retired,,,,,,,,,,,59.13,63.0,,0,,,,,,,,,
+153784,,,,,,Retired,,,,,,,,,,,71.28,0.0,,0,,,,,,,,,
+198595,,,,,,Retired,,,,,,,,,,,51.3,61.8,,0,,,,,,,,,
+34314,,,,,,Retired,,,,,,,,,,,63.63,51.6,,0,,,,,,,,,
+52179,,,,,,Retired,,,,,,,,,,,72.27,72.0,,0,,,,,,,,,
+155690,,,,,,Retired,,,,,,,,,,,65.8,130.8,,0,,,,,,,,,
+149687,,,,,,Retired,,,,,,,,,,,81.2,0.0,,0,,,,,,,,,
+160242,,,,,,Retired,,,,,,,,,,,60.68,76.5,,0,,,,,,,,,
+114680,,,,,,Retired,,,,,,,,,,,63.84,56.4,,0,,,,,,,,,
+170578,,,,,,Retired,,,,,,,,,,,69.7,107.1,,0,,,,,,,,,
+73252,,,,,,Retired,,,,,,,,,,,61.32,29.4,,0,,,,,,,,,
+25617,,,,,,Retired,,,,,,,,,,,75.53,57.6,,0,,,,,,,,,
+190411,,,,,,Retired,,,,,,,,,,,69.7,82.8,,0,,,,,,,,,
+13744,,,,,,Retired,,,,,,,,,,,60.45,76.5,,0,,,,,,,,,
+189839,,,,,,Retired,,,,,,,,,,,55.51,51.6,,0,,,,,,,,,
+184819,,,,,,Retired,,,,,,,,,,,71.2,61.8,,0,,,,,,,,,
+146441,,,,,,Retired,,,,,,,,,,,65.34,71.4,,0,,,,,,,,,
+140024,,,,,,Retired,,,,,,,,,,,71.04,70.2,,0,,,,,,,,,
+30416,,,,,,Retired,,,,,,,,,,,84.96,0.0,,0,,,,,,,,,
+29648,,,,,,Retired,,,,,,,,,,,86.58,63.0,,0,,,,,,,,,
+83423,,,,,,Retired,,,,,,,,,,,42.93,28.5,,1,,,,,,,,,
+26552,,,,,,Retired,,,,,,,,,,,60.06,0.0,,0,,,,,,,,,
+169926,,,,,,Retired,,,,,,,,,,,71.5,99.0,,0,,,,,,,,,
+201266,,,,,,Retired,,,,,,,,,,,59.04,50.4,,0,,,,,,,,,
+37982,,,,,,Retired,,,,,,,,,,,70.98,96.0,,0,,,,,,,,,
+36452,,,,,,Retired,,,,,,,,,,,64.4,52.2,,0,,,,,,,,,
+22089,,,,,,Retired,,,,,,,,,,,74.4,0.0,,0,,,,,,,,,
+124480,,,,,,Retired,,,,,,,,,,,70.56,52.2,,0,,,,,,,,,
+151360,,,,,,Retired,,,,,,,,,,,70.72,80.1,,0,,,,,,,,,
+11488,,,,,,Retired,,,,,,,,,,,60.35,69.0,,0,,,,,,,,,
+59727,,,,,,Retired,,,,,,,,,,,65.1,55.8,,0,,,,,,,,,
+23762,,,,,,Retired,,,,,,,,,,,73.08,96.0,,0,,,,,,,,,
+95101,,,,,,Retired,,,,,,,,,,,62.37,24.6,,0,,,,,,,,,
+54222,,,,,,Retired,,,,,,,,,,,86.7,48.0,,0,,,,,,,,,
+97464,,,,,,Retired,,,,,,,,,,,53.3,0.0,,0,,,,,,,,,
+188200,,,,,,Retired,,,,,,,,,,,71.54,136.8,,0,,,,,,,,,
+115399,,,,,,Retired,,,,,,,,,,,78.81,67.2,,0,,,,,,,,,
+34128,,,,,,Retired,,,,,,,,,,,56.1,54.6,,0,,,,,,,,,
+143787,,,,,,Retired,,,,,,,,,,,71.76,63.0,,0,,,,,,,,,
+110881,,,,,,Retired,,,,,,,,,,,61.2,69.0,,0,,,,,,,,,
+97884,,,,,,Retired,,,,,,,,,,,66.74,115.2,,0,,,,,,,,,
+201808,,,,,,Retired,,,,,,,,,,,78.54,83.7,,0,,,,,,,,,
+111683,,,,,,Retired,,,,,,,,,,,92.22,64.2,,0,,,,,,,,,
+50735,,,,,,Retired,,,,,,,,,,,68.68,133.2,,0,,,,,,,,,
+11844,,,,,,Retired,,,,,,,,,,,53.94,101.7,,0,,,,,,,,,
+36044,,,,,,Retired,,,,,,,,,,,70.84,58.2,,0,,,,,,,,,
+140178,,,,,,Retired,,,,,,,,,,,74.58,103.2,,0,,,,,,,,,
+73182,,,,,,Retired,,,,,,,,,,,68.25,32.7,,0,,,,,,,,,
+36344,,,,,,Retired,,,,,,,,,,,47.0,122.4,,1,,,,,,,,,
+102712,,,,,,Retired,,,,,,,,,,,65.96,75.6,,0,,,,,,,,,
+146737,,,,,,Retired,,,,,,,,,,,76.76,105.6,,0,,,,,,,,,
+174694,,,,,,Retired,,,,,,,,,,,72.36,26.4,,0,,,,,,,,,
+149908,,,,,,Retired,,,,,,,,,,,62.78,67.2,,0,,,,,,,,,
+60266,,,,,,Retired,,,,,,,,,,,65.8,57.0,,0,,,,,,,,,
+142872,,,,,,Retired,,,,,,,,,,,70.38,69.6,,0,,,,,,,,,
+179137,,,,,,Retired,,,,,,,,,,,53.0,61.2,,0,,,,,,,,,
+47058,,,,,,Retired,,,,,,,,,,,59.4,48.6,,1,,,,,,,,,
+195921,,,,,,Retired,,,,,,,,,,,73.15,70.8,,0,,,,,,,,,
+167925,,,,,,Retired,,,,,,,,,,,82.6,72.0,,0,,,,,,,,,
+41005,,,,,,Retired,,,,,,,,,,,68.87,0.0,,0,,,,,,,,,
+74696,,,,,,Retired,,,,,,,,,,,77.42,69.6,,0,,,,,,,,,
+108114,,,,,,Retired,,,,,,,,,,,84.46,103.5,,0,,,,,,,,,
+126345,,,,,,Retired,,,,,,,,,,,82.39,0.0,,0,,,,,,,,,
+190055,,,,,,Retired,,,,,,,,,,,70.85,74.7,,0,,,,,,,,,
+23389,,,,,,Retired,,,,,,,,,,,66.42,112.8,,0,,,,,,,,,
+8631,,,,,,Retired,,,,,,,,,,,65.0,72.0,,0,,,,,,,,,
+121771,,,,,,Retired,,,,,,,,,,,71.4,102.0,,0,,,,,,,,,
+167125,,,,,,Retired,,,,,,,,,,,50.6,58.2,,0,,,,,,,,,
+14930,,,,,,Retired,,,,,,,,,,,66.93,77.4,,0,,,,,,,,,
+25982,,,,,,Retired,,,,,,,,,,,65.65,81.0,,0,,,,,,,,,
+57307,,,,,,Retired,,,,,,,,,,,86.7,61.8,,0,,,,,,,,,
+166251,,,,,,Retired,,,,,,,,,,,80.73,90.0,,0,,,,,,,,,
+125316,,,,,,Retired,,,,,,,,,,,63.36,114.0,,0,,,,,,,,,
+84394,,,,,,Retired,,,,,,,,,,,78.26,58.8,,0,,,,,,,,,
+41458,,,,,,Retired,,,,,,,,,,,78.66,87.3,,0,,,,,,,,,
+113141,,,,,,Retired,,,,,,,,,,,74.24,118.8,,0,,,,,,,,,
+95363,,,,,,Retired,,,,,,,,,,,79.05,0.0,,0,,,,,,,,,
+24377,,,,,,Retired,,,,,,,,,,,67.89,118.8,,0,,,,,,,,,
+70786,,,,,,Retired,,,,,,,,,,,56.55,135.6,,0,,,,,,,,,
+56626,,,,,,Retired,,,,,,,,,,,64.97,110.4,,0,,,,,,,,,
+16106,,,,,,Retired,,,,,,,,,,,91.52,54.6,,0,,,,,,,,,
+105030,,,,,,Retired,,,,,,,,,,,73.47,54.6,,0,,,,,,,,,
+188,,,,,,Retired,,,,,,,,,,,55.0,0.0,,1,,,,,,,,,
+55177,,,,,,Retired,,,,,,,,,,,78.54,58.8,,0,,,,,,,,,
+24095,,,,,,Retired,,,,,,,,,,,71.71,0.0,,0,,,,,,,,,
+152118,,,,,,Retired,,,,,,,,,,,75.48,49.2,,1,,,,,,,,,
+145361,,,,,,Retired,,,,,,,,,,,58.22,63.6,,0,,,,,,,,,
+153513,,,,,,Retired,,,,,,,,,,,58.32,124.8,,0,,,,,,,,,
+140735,,,,,,Retired,,,,,,,,,,,82.6,59.4,,0,,,,,,,,,
+53121,,,,,,Retired,,,,,,,,,,,61.44,118.8,,0,,,,,,,,,
+4658,,,,,,Retired,,,,,,,,,,,61.48,58.2,,0,,,,,,,,,
+189353,,,,,,Retired,,,,,,,,,,,78.78,99.0,,0,,,,,,,,,
+89010,,,,,,Retired,,,,,,,,,,,68.0,133.2,,0,,,,,,,,,
+156043,,,,,,Retired,,,,,,,,,,,55.44,0.0,,0,,,,,,,,,
+190424,,,,,,Retired,,,,,,,,,,,68.53,0.0,,0,,,,,,,,,
+167454,,,,,,Retired,,,,,,,,,,,17.82,55.2,,0,,,,,,,,,
+198460,,,,,,Retired,,,,,,,,,,,113.85,54.0,,0,,,,,,,,,
+122513,,,,,,Retired,,,,,,,,,,,58.1,144.0,,0,,,,,,,,,
+90172,,,,,,Retired,,,,,,,,,,,77.04,79.2,,0,,,,,,,,,
+13386,,,,,,Retired,,,,,,,,,,,69.12,142.8,,0,,,,,,,,,
+141284,,,,,,Retired,,,,,,,,,,,94.8,58.8,,0,,,,,,,,,
+138831,,,,,,Retired,,,,,,,,,,,40.17,0.0,,0,,,,,,,,,
+8187,,,,,,Retired,,,,,,,,,,,83.78,66.6,,0,,,,,,,,,
+157751,,,,,,Retired,,,,,,,,,,,69.58,67.8,,0,,,,,,,,,
+13904,,,,,,Retired,,,,,,,,,,,61.56,67.8,,0,,,,,,,,,
+104133,,,,,,Retired,,,,,,,,,,,71.38,70.8,,0,,,,,,,,,
+146952,,,,,,Retired,,,,,,,,,,,48.88,55.2,,0,,,,,,,,,
+165535,,,,,,Retired,,,,,,,,,,,56.61,104.4,,0,,,,,,,,,
+5789,,,,,,Retired,,,,,,,,,,,78.85,58.8,,0,,,,,,,,,
+33864,,,,,,Retired,,,,,,,,,,,97.75,66.6,,0,,,,,,,,,
+104136,,,,,,Retired,,,,,,,,,,,67.9,104.4,,0,,,,,,,,,
+74325,,,,,,Retired,,,,,,,,,,,70.62,0.0,,0,,,,,,,,,
+101259,,,,,,Retired,,,,,,,,,,,66.0,110.4,,0,,,,,,,,,
+23259,,,,,,Retired,,,,,,,,,,,55.8,57.0,,0,,,,,,,,,
+71843,,,,,,Retired,,,,,,,,,,,69.68,52.2,,0,,,,,,,,,
+1287,,,,,,Retired,,,,,,,,,,,64.68,81.9,,0,,,,,,,,,
+160816,,,,,,Retired,,,,,,,,,,,80.73,0.0,,0,,,,,,,,,
+84168,,,,,,Retired,,,,,,,,,,,79.2,110.4,,0,,,,,,,,,
+164338,,,,,,Retired,,,,,,,,,,,96.0,50.4,,0,,,,,,,,,
+101508,,,,,,Retired,,,,,,,,,,,78.39,33.6,,0,,,,,,,,,
+34537,,,,,,Retired,,,,,,,,,,,78.81,142.8,,0,,,,,,,,,
+102508,,,,,,Retired,,,,,,,,,,,62.16,74.7,,0,,,,,,,,,
+3082,,,,,,Retired,,,,,,,,,,,73.47,48.6,,0,,,,,,,,,
+185640,,,,,,Retired,,,,,,,,,,,84.75,0.0,,0,,,,,,,,,
+180524,,,,,,Retired,,,,,,,,,,,97.58,97.2,,0,,,,,,,,,
+192538,,,,,,Retired,,,,,,,,,,,77.39,81.9,,0,,,,,,,,,
+71193,,,,,,Retired,,,,,,,,,,,77.25,64.2,,0,,,,,,,,,
+21198,,,,,,Retired,,,,,,,,,,,56.0,136.8,,0,,,,,,,,,
+116520,,,,,,Retired,,,,,,,,,,,56.28,52.8,,0,,,,,,,,,
+28856,,,,,,Retired,,,,,,,,,,,65.0,55.8,,0,,,,,,,,,
+131858,,,,,,,,,,,,,,,,,,99.6,,0,,,,,,,,,
+41311,,,,,,,,,,,,,,,,,,114.0,,0,,,,,,,,,
+38993,,,,,,,,,,,,,,,,,,135.6,,,,,,,,,,,
+54500,,,,,,,,,,,,,,,,,,99.6,,1,,,,,,,,,
+144198,,,,,,,,,,,,,,,,,22.68,97.2,,1,,,,,,,,,
+112471,,,,,,,,,,,,,,,,,,122.4,,0,,,,,,,,,
+25991,,,,,,,,,,,,,,,,,,126.0,,,,,,,,,,,
+187007,,,,,,,,,,,,,,,,,,132.0,,,,,,,,,,,
+192681,,,,,,,,,,,,,,,,,,140.4,,,,,,,,,,,
+118053,,,,,,,,,,,,,,,,,,130.8,,,,,,,,,,,
+142736,,,,,,,,,,,,,,,,,,139.2,,0,,,,,,,,,
+190191,,,,,,,,,,,,,,,,,,129.6,,,,,,,,,,,
+116598,,,,,,,,,,,,,,,,,,106.8,,,,,,,,,,,
+35860,,,,,,,,,,,,,,,,,,133.2,,0,,,,,,,,,
+52810,,,,,,,,,,,,,,,,,,117.6,,,,,,,,,,,
+186307,,,,,,,,,,,,,,,,,,123.6,,0,,,,,,,,,
+173031,,,,,,,,,,,,,,,,,,138.0,,0,,,,,,,,,
+159213,,,,,,,,,,,,,,,,,,139.2,,0,,,,,,,,,
+18682,,,,,,,,,,,,,,,,,,102.0,,,,,,,,,,,
+64680,,,,,,,,,,,,,,,,,,99.6,,0,,,,,,,,,
+135580,,,,,,,,,,,,,,,,,,135.6,,,,,,,,,,,
+75781,,,,,,,,,,,,,,,,,,117.6,,0,,,,,,,,,
+161118,,,,,,,,,,,,,,,,,,108.0,,,,,,,,,,,
+129989,,,,,,,,,,,,,,,,,,138.0,,,,,,,,,,,
+23063,,,,,,,,,,,,,,,,,,96.0,,,,,,,,,,,
+156289,,,,,,,,,,,,,,,,,,102.0,,0,,,,,,,,,
+69765,,,,,,,,,,,,,,,,,,122.4,,,,,,,,,,,
+103190,,,,,,,,,,,,,,,,,,124.8,,0,,,,,,,,,
+58050,,,,,,,,,,,,,,,,,,102.0,,,,,,,,,,,
+171838,,,,,,,,,,,,,,,,,,144.0,,0,,,,,,,,,
+4990,,,,,,,,,,,,,,,,,,140.4,,,,,,,,,,,
+70111,,,,,,,,,,,,,,,,,,124.8,,,,,,,,,,,
+28841,,,,,,,,,,,,,,,,,,108.0,,,,,,,,,,,
+174953,,,,,,,,,,,,,,,,,,99.6,,1,,,,,,,,,
+152168,,,,,,,,,,,,,,,,,,141.6,,,,,,,,,,,
+149369,,,,,,,,,,,,,,,,,,99.6,,,,,,,,,,,
+148590,,,,,,,,,,,,,,,,,,132.0,,1,,,,,,,,,
+39542,,,,,,,,,,,,,,,,,,141.6,,,,,,,,,,,
+185468,,,,,,,,,,,,,,,,,,141.6,,0,,,,,,,,,
+118988,,,,,,,,,,,,,,,,,,134.4,,0,,,,,,,,,
+178704,,,,,,,,,,,,,,,,,,132.0,,,,,,,,,,,
+39899,,,,,,,,,,,,,,,,,,97.2,,,,,,,,,,,
+46794,,,,,,,,,,,,,,,,,,123.6,,1,,,,,,,,,
+61698,,,,,,,,,,,,,,,,,78.0,114.0,,0,,,,,,,,,
+162763,,,,,,,,,,,,,,,,,,104.4,,0,,,,,,,,,
+118665,,,,,,,,,,,,,,,,,,138.0,,0,,,,,,,,,
+30439,,,,,,,,,,,,,,,,,,99.6,,0,,,,,,,,,
+113654,,,,,,,,,,,,,,,,,,128.4,,,,,,,,,,,
+115371,,,,,,,,,,,,,,,,,,116.4,,,,,,,,,,,
+181210,,,,,,,,,,,,,,,,,,144.0,,0,,,,,,,,,
+139869,,,,,,,,,,,,,,,,,,106.8,,,,,,,,,,,
+86446,,,,,,,,,,,,,,,,,,115.2,,,,,,,,,,,
+99811,,,,,,,,,,,,,,,,,,99.6,,0,,,,,,,,,
+144749,,,,,,,,,,,,,,,,,43.2,130.8,,0,,,,,,,,,
+84367,,,,,,,,,,,,,,,,,,97.2,,,,,,,,,,,
+91335,,,,,,,,,,,,,,,,,,105.6,,,,,,,,,,,
+103346,,,,,,,,,,,,,,,,,,127.2,,0,,,,,,,,,
+28319,,,,,,,,,,,,,,,,,,133.2,,,,,,,,,,,
+144388,,,,,,,,,,,,,,,,,,135.6,,,,,,,,,,,
+38994,,,,,,,,,,,,,,,,,,133.2,,0,,,,,,,,,
+114764,,,,,,,,,,,,,,,,,,111.6,,0,,,,,,,,,
+164127,,,,,,,,,,,,,,,,,,109.2,,,,,,,,,,,
+101478,,,,,,,,,,,,,,,,,,102.0,,0,,,,,,,,,
+101884,,,,,,,,,,,,,,,,,,123.6,,,,,,,,,,,
+78060,,,,,,,,,,,,,,,,,,124.8,,,,,,,,,,,
+159132,,,,,,,,,,,,,,,,,,122.4,,0,,,,,,,,,
+159151,,,,,,,,,,,,,,,,,,109.2,,,,,,,,,,,
+174113,,,,,,,,,,,,,,,,,,134.4,,,,,,,,,,,
+6634,,,,,,,,,,,,,,,,,,121.2,,,,,,,,,,,
+106248,,,,,,,,,,,,,,,,,,99.6,,,,,,,,,,,
+128166,,,,,,,,,,,,,,,,,,129.6,,,,,,,,,,,
+113026,,,,,,,,,,,,,,,,,,132.0,,,,,,,,,,,
+106024,,,,,,,,,,,,,,,,,,96.0,,0,,,,,,,,,
+170089,,,,,,,,,,,,,,,,,,117.6,,,,,,,,,,,
+102557,,,,,,,,,,,,,,,,,,140.4,,,,,,,,,,,
+180912,,,,,,,,,,,,,,,,,,96.0,,,,,,,,,,,
+138692,,,,,,,,,,,,,,,,,,136.8,,,,,,,,,,,
+151002,,,,,,,,,,,,,,,,,,98.4,,0,,,,,,,,,
+44928,,,,,,,,,,,,,,,,,,114.0,,,,,,,,,,,
+29605,,,,,,,,,,,,,,,,,,108.0,,0,,,,,,,,,
+198599,,,,,,,,,,,,,,,,,,134.4,,,,,,,,,,,
+205092,,,,,,,,,,,,,,,,,,139.2,,0,,,,,,,,,
+193218,,,,,,,,,,,,,,,,,,136.8,,,,,,,,,,,
+193870,,,,,,,,,,,,,,,,,,138.0,,,,,,,,,,,
+2309,,,,,,,,,,,,,,,,,,132.0,,,,,,,,,,,
+63782,,,,,,,,,,,,,,,,,,135.6,,,,,,,,,,,
+62716,,,,,,,,,,,,,,,,,,110.4,,,,,,,,,,,
+150198,,,,,,,,,,,,,,,,,,98.4,,0,,,,,,,,,
+1935,,,,,,,,,,,,,,,,,,108.0,,0,,,,,,,,,
+66980,,,,,,,,,,,,,,,,,,141.6,,0,,,,,,,,,
+179139,,,,,,,,,,,,,,,,,,111.6,,0,,,,,,,,,
+90798,,,,,,,,,,,,,,,,,,108.0,,0,,,,,,,,,
+63544,,,,,,,,,,,,,,,,,,103.2,,0,,,,,,,,,
+129384,,,,,,,,,,,,,,,,,,130.8,,,,,,,,,,,
+196716,,,,,,,,,,,,,,,,,,138.0,,0,,,,,,,,,
+203945,,,,,,,,,,,,,,,,,,118.8,,,,,,,,,,,
+52632,,,,,,,,,,,,,,,,,,138.0,,0,,,,,,,,,
+133241,,,,,,,,,,,,,,,,,,133.2,,0,,,,,,,,,
+86730,,,,,,,,,,,,,,,,,,63.6,,,,,,,,,,,
+198177,,,,,,,,,,,,,,,,,,67.2,,,,,,,,,,,
+36540,,,,,,,,,,,,,,,,,,49.2,,,,,,,,,,,
+134240,,,,,,,,,,,,,,,,,,55.8,,,,,,,,,,,
+94947,,,,,,,,,,,,,,,,,,72.0,,0,,,,,,,,,
+151033,,,,,,,,,,,,,,,,,,69.0,,,,,,,,,,,
+152406,,,,,,,,,,,,,,,,,,52.2,,,,,,,,,,,
+10264,,,,,,,,,,,,,,,,,,64.8,,,,,,,,,,,
+130221,,,,,,,,,,,,,,,,,,60.6,,1,,,,,,,,,
+37166,,,,,,,,,,,,,,,,,,69.6,,0,,,,,,,,,
+2231,,,,,,,,,,,,,,,,,,54.6,,0,,,,,,,,,
+193200,,,,,,,,,,,,,,,,,,69.0,,,,,,,,,,,
+192473,,,,,,,,,,,,,,,,,,60.6,,0,,,,,,,,,
+57411,,,,,,,,,,,,,,,,,,49.2,,,,,,,,,,,
+105310,,,,,,,,,,,,,,,,,,55.8,,,,,,,,,,,
+103955,,,,,,,,,,,,,,,,,,48.6,,0,,,,,,,,,
+155313,,,,,,,,,,,,,,,,,,80.1,,,,,,,,,,,
+143303,,,,,,,,,,,,,,,,,,57.6,,0,,,,,,,,,
+98762,,,,,,,,,,,,,,,,,,57.6,,,,,,,,,,,
+54216,,,,,,,,,,,,,,,,,,50.4,,,,,,,,,,,
+5962,,,,,,,,,,,,,,,,,,55.2,,,,,,,,,,,
+119165,,,,,,,,,,,,,,,,,,69.0,,0,,,,,,,,,
+38552,,,,,,,,,,,,,,,,,,48.6,,0,,,,,,,,,
+162461,,,,,,,,,,,,,,,,,,71.4,,,,,,,,,,,
+111386,,,,,,,,,,,,,,,,,,55.2,,0,,,,,,,,,
+199934,,,,,,,,,,,,,,,,,,64.8,,,,,,,,,,,
+3860,,,,,,,,,,,,,,,,,,71.4,,,,,,,,,,,
+33320,,,,,,,,,,,,,,,,,,61.8,,,,,,,,,,,
+175654,,,,,,,,,,,,,,,,,,84.6,,,,,,,,,,,
+135138,,,,,,,,,,,,,,,,,,54.0,,,,,,,,,,,
+20103,,,,,,,,,,,,,,,,,,57.0,,0,,,,,,,,,
+20264,,,,,,,,,,,,,,,,,,91.8,,,,,,,,,,,
+136757,,,,,,,,,,,,,,,,,,72.0,,,,,,,,,,,
+77449,,,,,,,,,,,,,,,,,,69.0,,,,,,,,,,,
+120599,,,,,,,,,,,,,,,,,,54.6,,0,,,,,,,,,
+186324,,,,,,,,,,,,,,,,,,54.0,,1,,,,,,,,,
+98994,,,,,,,,,,,,,,,,,,55.8,,,,,,,,,,,
+184236,,,,,,,,,,,,,,,,,,67.8,,,,,,,,,,,
+81344,,,,,,,,,,,,,,,,,,65.4,,,,,,,,,,,
+103793,,,,,,,,,,,,,,,,,,52.8,,,,,,,,,,,
+105568,,,,,,,,,,,,,,,,,,57.6,,0,,,,,,,,,
+99110,,,,,,,,,,,,,,,,,,67.2,,0,,,,,,,,,
+102738,,,,,,,,,,,,,,,,,,66.6,,0,,,,,,,,,
+133833,,,,,,,,,,,,,,,,,,70.2,,0,,,,,,,,,
+68263,,,,,,,,,,,,,,,,,,65.4,,,,,,,,,,,
+108615,,,,,,,,,,,,,,,,,,66.0,,,,,,,,,,,
+13839,,,,,,,,,,,,,,,,,,55.2,,,,,,,,,,,
+129040,,,,,,,,,,,,,,,,,,51.0,,0,,,,,,,,,
+92110,,,,,,,,,,,,,,,,,,65.4,,0,,,,,,,,,
+26216,,,,,,,,,,,,,,,,,,54.6,,0,,,,,,,,,
+167994,,,,,,,,,,,,,,,,,,61.2,,0,,,,,,,,,
+192640,,,,,,,,,,,,,,,,,,57.0,,,,,,,,,,,
+141302,,,,,,,,,,,,,,,,,,68.4,,,,,,,,,,,
+197998,,,,,,,,,,,,,,,,,,31.5,,0,,,,,,,,,
+71017,,,,,,,,,,,,,,,,,,69.6,,,,,,,,,,,
+191429,,,,,,,,,,,,,,,,,,52.8,,,,,,,,,,,
+114229,,,,,,,,,,,,,,,,,,55.8,,,,,,,,,,,
+67074,,,,,,,,,,,,,,,,,,57.6,,,,,,,,,,,
+145998,,,,,,,,,,,,,,,,,,55.2,,,,,,,,,,,
+146947,,,,,,,,,,,,,,,,,,70.8,,0,,,,,,,,,
+85892,,,,,,,,,,,,,,,,,,59.4,,,,,,,,,,,
+180678,,,,,,,,,,,,,,,,,,50.4,,,,,,,,,,,
+189572,,,,,,,,,,,,,,,,,,70.2,,,,,,,,,,,
+10040,,,,,,,,,,,,,,,,,,54.6,,,,,,,,,,,
+3322,,,,,,,,,,,,,,,,,,56.4,,0,,,,,,,,,
+144304,,,,,,,,,,,,,,,,,,69.6,,,,,,,,,,,
+134975,,,,,,,,,,,,,,,,,,55.8,,0,,,,,,,,,
+199271,,,,,,,,,,,,,,,,,35.6,70.8,,0,,,,,,,,,
+44793,,,,,,,,,,,,,,,,,,51.6,,,,,,,,,,,
+19383,,,,,,,,,,,,,,,,,,67.2,,,,,,,,,,,
+199530,,,,,,,,,,,,,,,,,,70.2,,0,,,,,,,,,
+75923,,,,,,,,,,,,,,,,,,50.4,,0,,,,,,,,,
+156797,,,,,,,,,,,,,,,,,,51.6,,0,,,,,,,,,
+147658,,,,,,,,,,,,,,,,,,68.4,,,,,,,,,,,
+133346,,,,,,,,,,,,,,,,,,69.0,,0,,,,,,,,,
+110176,,,,,,,,,,,,,,,,,,60.6,,0,,,,,,,,,
+107004,,,,,,,,,,,,,,,,,,86.4,,,,,,,,,,,
+112287,,,,,,,,,,,,,,,,,,51.0,,0,,,,,,,,,
+5983,,,,,,,,,,,,,,,,,,80.1,,,,,,,,,,,
+116388,,,,,,,,,,,,,,,,,,49.2,,,,,,,,,,,
+186829,,,,,,,,,,,,,,,,,,61.8,,,,,,,,,,,
+144705,,,,,,,,,,,,,,,,,,102.6,,0,,,,,,,,,
+59659,,,,,,,,,,,,,,,,,,64.8,,,,,,,,,,,
+25715,,,,,,,,,,,,,,,,,,62.4,,,,,,,,,,,
+15189,,,,,,,,,,,,,,,,,,69.0,,1,,,,,,,,,
+70146,,,,,,,,,,,,,,,,,,58.8,,0,,,,,,,,,
+192359,,,,,,,,,,,,,,,,,,49.2,,0,,,,,,,,,
+88001,,,,,,,,,,,,,,,,,,98.1,,0,,,,,,,,,
+60514,,,,,,,,,,,,,,,,,,62.4,,,,,,,,,,,
+85824,,,,,,,,,,,,,,,,,,58.2,,,,,,,,,,,
+5525,,,,,,,,,,,,,,,,,,54.0,,,,,,,,,,,
+29702,,,,,,,,,,,,,,,,,,69.6,,,,,,,,,,,
+2308,,,,,,,,,,,,,,,,,,60.6,,,,,,,,,,,
+140425,,,,,,,,,,,,,,,,,,61.2,,,,,,,,,,,
+89867,,,,,,,,,,,,,,,,,,49.8,,0,,,,,,,,,
+9830,,,,,,,,,,,,,,,,,,48.0,,0,,,,,,,,,
+73341,,,,,,,,,,,,,,,,,,57.0,,0,,,,,,,,,
+167148,,,,,,,,,,,,,,,,,,62.4,,,,,,,,,,,
+98876,,,,,,,,,,,,,,,,,,52.2,,0,,,,,,,,,
+151352,,,,,,,,,,,,,,,,,,60.6,,,,,,,,,,,
+19976,,,,,,,,,,,,,,,,,,67.8,,0,,,,,,,,,
+26780,,,,,,,,,,,,,,,,,,50.4,,,,,,,,,,,
+80091,,,,,,,,,,,,,,,,,,69.6,,,,,,,,,,,
+14566,,,,,,,,,,,,,,,,,,88.2,,,,,,,,,,,
+199959,,,,,,,,,,,,,,,,,,60.0,,,,,,,,,,,
+203810,,,,,,,,,,,,,,,,,,57.6,,,,,,,,,,,
+134351,,,,,,,,,,,,,,,,,,58.8,,,,,,,,,,,
+83035,,,,,,,,,,,,,,,,,,69.6,,0,,,,,,,,,
+150614,,,,,,,,,,,,,,,,,,58.2,,0,,,,,,,,,
+141674,,,,,,,,,,,,,,,,,,77.4,,0,,,,,,,,,
+110203,,,,,,,,,,,,,,,,,,52.2,,,,,,,,,,,
+137523,,,,,,,,,,,,,,,,,,56.4,,1,,,,,,,,,
+173415,,,,,,,,,,,,,,,,,,56.4,,1,,,,,,,,,
+103706,,,,,,,,,,,,,,,,,,67.8,,,,,,,,,,,
+36040,,,,,,,,,,,,,,,,,,72.0,,,,,,,,,,,
+14886,,,,,,,,,,,,,,,,,,69.6,,,,,,,,,,,
+23739,,,,,,,,,,,,,,,,,,64.2,,0,,,,,,,,,
+39229,,,,,,,,,,,,,,,,,,60.6,,,,,,,,,,,
+93499,,,,,,,,,,,,,,,,,,51.6,,,,,,,,,,,
+28945,,,,,,,,,,,,,,,,,,56.4,,,,,,,,,,,
+89179,,,,,,,,,,,,,,,,,,63.6,,,,,,,,,,,
+112000,,,,,,,,,,,,,,,,,,66.0,,,,,,,,,,,
+203814,,,,,,,,,,,,,,,,,,66.0,,0,,,,,,,,,
+67993,,,,,,,,,,,,,,,,,,67.8,,,,,,,,,,,
+183463,,,,,,,,,,,,,,,,,,56.4,,,,,,,,,,,
+29673,,,,,,,,,,,,,,,,,,61.2,,,,,,,,,,,
+195323,,,,,,,,,,,,,,,,,,66.0,,,,,,,,,,,
+93468,,,,,,,,,,,,,,,,,,50.4,,0,,,,,,,,,
+18631,,,,,,,,,,,,,,,,,,70.2,,,,,,,,,,,
+30287,,,,,,,,,,,,,,,,,,53.4,,,,,,,,,,,
+157323,,,,,,,,,,,,,,,,,,63.0,,,,,,,,,,,
+197573,,,,,,,,,,,,,,,,,,55.2,,,,,,,,,,,
+143790,,,,,,,,,,,,,,,,,,65.4,,0,,,,,,,,,
+152010,,,,,,,,,,,,,,,,,,50.4,,0,,,,,,,,,
+24262,,,,,,,,,,,,,,,,,,61.8,,,,,,,,,,,
+27496,,,,,,,,,,,,,,,,,,61.8,,,,,,,,,,,
+9746,,,,,,,,,,,,,,,,,26.35,60.6,,0,,,,,,,,,
+81730,,,,,,,,,,,,,,,,,,56.4,,,,,,,,,,,
+144206,,,,,,,,,,,,,,,,,,107.1,,0,,,,,,,,,
+96187,,,,,,,,,,,,,,,,,,63.0,,,,,,,,,,,
+110508,,,,,,,,,,,,,,,,,,51.0,,0,,,,,,,,,
+197266,,,,,,,,,,,,,,,,,,51.0,,,,,,,,,,,
+49403,,,,,,,,,,,,,,,,,,51.0,,0,,,,,,,,,
+84389,,,,,,,,,,,,,,,,,,65.4,,,,,,,,,,,
+193983,,,,,,,,,,,,,,,,,,69.0,,,,,,,,,,,
+121813,,,,,,,,,,,,,,,,,,65.4,,0,,,,,,,,,
+137040,,,,,,,,,,,,,,,,,,28.5,,0,,,,,,,,,
+62462,,,,,,,,,,,,,,,,,,24.9,,0,,,,,,,,,
+176732,,,,,,,,,,,,,,,,,,61.2,,0,,,,,,,,,
+140657,,,,,,,,,,,,,,,,,,57.6,,0,,,,,,,,,
+30466,,,,,,,,,,,,,,,,,,96.3,,,,,,,,,,,
+160668,,,,,,,,,,,,,,,,,,51.0,,,,,,,,,,,
+21381,,,,,,,,,,,,,,,,,,51.6,,0,,,,,,,,,
+5649,,,,,,,,,,,,,,,,,,61.8,,,,,,,,,,,
+33302,,,,,,,,,,,,,,,,,,62.4,,,,,,,,,,,
+77773,,,,,,,,,,,,,,,,,,65.4,,,,,,,,,,,
+6230,,,,,,,,,,,,,,,,,,49.2,,,,,,,,,,,
+120226,,,,,,,,,,,,,,,,,,57.0,,0,,,,,,,,,
+192385,,,,,,,,,,,,,,,,,,69.6,,,,,,,,,,,
+86658,,,,,,,,,,,,,,,,,,108.0,,,,,,,,,,,
+17208,,,,,,,,,,,,,,,,,,60.0,,,,,,,,,,,
+176278,,,,,,,,,,,,,,,,,,69.0,,0,,,,,,,,,
+143247,,,,,,,,,,,,,,,,,,85.5,,0,,,,,,,,,
+5271,,,,,,,,,,,,,,,,,,64.2,,,,,,,,,,,
+178381,,,,,,,,,,,,,,,,,,60.0,,0,,,,,,,,,
+8779,,,,,,,,,,,,,,,,,,28.2,,0,,,,,,,,,
+80684,,,,,,,,,,,,,,,,,26.4,49.2,,0,,,,,,,,,
+147945,,,,,,,,,,,,,,,,,,50.4,,,,,,,,,,,
+188762,,,,,,,,,,,,,,,,,,55.2,,,,,,,,,,,
+144060,,,,,,,,,,,,,,,,,,55.2,,0,,,,,,,,,
+58774,,,,,,,,,,,,,,,,,,48.0,,,,,,,,,,,
+149905,,,,,,,,,,,,,,,,,,59.4,,0,,,,,,,,,
+193613,,,,,,,,,,,,,,,,,,54.0,,,,,,,,,,,
+105457,,,,,,,,,,,,,,,,,,72.0,,,,,,,,,,,
+121764,,,,,,,,,,,,,,,,,,64.8,,0,,,,,,,,,
+190290,,,,,,,,,,,,,,,,,,52.8,,0,,,,,,,,,
+98300,,,,,,,,,,,,,,,,,,49.8,,,,,,,,,,,
+43842,,,,,,,,,,,,,,,,,,49.2,,,,,,,,,,,
+136080,,,,,,,,,,,,,,,,,,50.4,,,,,,,,,,,
+131501,,,,,,,,,,,,,,,,,,51.0,,,,,,,,,,,
+58476,,,,,,,,,,,,,,,,,,51.0,,,,,,,,,,,
+39558,,,,,,,,,,,,,,,,,,54.0,,,,,,,,,,,
+186627,,,,,,,,,,,,,,,,,,48.6,,,,,,,,,,,
+164239,,,,,,,,,,,,,,,,,,71.4,,,,,,,,,,,
+149938,,,,,,,,,,,,,,,,,,52.2,,,,,,,,,,,
+61668,,,,,,,,,,,,,,,,,,35.1,,,,,,,,,,,
+112331,,,,,,,,,,,,,,,,,,27.9,,0,,,,,,,,,
+25649,,,,,,,,,,,,,,,,,,61.2,,,,,,,,,,,
+62202,,,,,,,,,,,,,,,,,,70.2,,0,,,,,,,,,
+92548,,,,,,,,,,,,,,,,,,65.4,,,,,,,,,,,
+1771,,,,,,,,,,,,,,,,,,58.8,,,,,,,,,,,
+177142,,,,,,,,,,,,,,,,,,69.6,,,,,,,,,,,
+72042,,,,,,,,,,,,,,,,,,67.8,,,,,,,,,,,
+32887,,,,,,,,,,,,,,,,,,69.6,,,,,,,,,,,
+159506,,,,,,,,,,,,,,,,,,67.8,,,,,,,,,,,
+187974,,,,,,,,,,,,,,,,,,71.4,,0,,,,,,,,,
+76467,,,,,,,,,,,,,,,,,,64.2,,0,,,,,,,,,
+39273,,,,,,,,,,,,,,,,,,54.0,,0,,,,,,,,,
+173907,,,,,,,,,,,,,,,,,,56.4,,0,,,,,,,,,
+68084,,,,,,,,,,,,,,,,,,59.4,,,,,,,,,,,
+82656,,,,,,,,,,,,,,,,,,57.6,,0,,,,,,,,,
+160360,,,,,,,,,,,,,,,,,,71.4,,,,,,,,,,,
+174670,,,,,,,,,,,,,,,,,,64.8,,,,,,,,,,,
+78713,,,,,,,,,,,,,,,,,,64.2,,0,,,,,,,,,
+157684,,,,,,,,,,,,,,,,,,69.6,,,,,,,,,,,
+153296,,,,,,,,,,,,,,,,,,63.6,,,,,,,,,,,
+190887,,,,,,,,,,,,,,,,,,69.6,,0,,,,,,,,,
+15770,,,,,,,,,,,,,,,,,,69.6,,0,,,,,,,,,
+174460,,,,,,,,,,,,,,,,,,62.4,,0,,,,,,,,,
+13288,,,,,,,,,,,,,,,,,,99.9,,,,,,,,,,,
+100684,,,,,,,,,,,,,,,,,,71.4,,0,,,,,,,,,
+98751,,,,,,,,,,,,,,,,,,70.2,,,,,,,,,,,
+112079,,,,,,,,,,,,,,,,,,67.2,,0,,,,,,,,,
+38202,,,,,,,,,,,,,,,,,30.6,67.2,,0,,,,,,,,,
+94470,,,,,,,,,,,,,,,,,,70.8,,0,,,,,,,,,
+140121,,,,,,,,,,,,,,,,,,61.2,,,,,,,,,,,
+78524,,,,,,,,,,,,,,,,,,66.6,,0,,,,,,,,,
+167686,,,,,,,,,,,,,,,,,,53.4,,,,,,,,,,,
+23172,,,,,,,,,,,,,,,,,,54.6,,,,,,,,,,,
+59958,,,,,,,,,,,,,,,,,,72.0,,,,,,,,,,,
+75934,,,,,,,,,,,,,,,,,,70.8,,1,,,,,,,,,
+125020,,,,,,,,,,,,,,,,,,49.2,,0,,,,,,,,,
+159412,,,,,,,,,,,,,,,,,,60.0,,0,,,,,,,,,
+15996,,,,,,,,,,,,,,,,,,57.0,,0,,,,,,,,,
+36771,,,,,,,,,,,,,,,,,,52.8,,,,,,,,,,,
+56864,,,,,,,,,,,,,,,,,,56.4,,,,,,,,,,,
+164817,,,,,,,,,,,,,,,,,,64.8,,0,,,,,,,,,
+186309,,,,,,,,,,,,,,,,,,49.2,,0,,,,,,,,,
+11740,,,,,,,,,,,,,,,,,,51.0,,,,,,,,,,,
+172293,,,,,,,,,,,,,,,,,,70.2,,0,,,,,,,,,
+33181,,,,,,,,,,,,,,,,,,55.8,,,,,,,,,,,
+83349,,,,,,,,,,,,,,,,,,52.8,,,,,,,,,,,
+24195,,,,,,,,,,,,,,,,,,35.7,,0,,,,,,,,,
+162064,,,,,,,,,,,,,,,,,,67.8,,,,,,,,,,,
+43770,,,,,,,,,,,,,,,,,,52.8,,,,,,,,,,,
+34347,,,,,,,,,,,,,,,,,,67.8,,,,,,,,,,,
+183701,,,,,,,,,,,,,,,,,,66.6,,,,,,,,,,,
+72912,,,,,,,,,,,,,,,,,,51.6,,,,,,,,,,,
+112696,,,,,,,,,,,,,,,,,,52.2,,0,,,,,,,,,
+14714,,,,,,,,,,,,,,,,,,58.2,,0,,,,,,,,,
+191431,,,,,,,,,,,,,,,,,,54.6,,,,,,,,,,,
+68777,,,,,,,,,,,,,,,,,,49.2,,0,,,,,,,,,
+176103,,,,,,,,,,,,,,,,,,69.6,,,,,,,,,,,
+121457,,,,,,,,,,,,,,,,,,55.2,,0,,,,,,,,,
+156757,,,,,,,,,,,,,,,,,,66.0,,,,,,,,,,,
+121629,,,,,,,,,,,,,,,,,35.6,67.2,,0,,,,,,,,,
+71684,,,,,,,,,,,,,,,,,43.2,51.6,,0,,,,,,,,,
+134438,,,,,,,,,,,,,,,,,,52.8,,0,,,,,,,,,
+123184,,,,,,,,,,,,,,,,,,56.4,,,,,,,,,,,
+123246,,,,,,,,,,,,,,,,,,82.8,,,,,,,,,,,
+61500,,,,,,,,,,,,,,,,,,64.2,,0,,,,,,,,,
+18544,,,,,,,,,,,,,,,,,,48.0,,0,,,,,,,,,
+41211,,,,,,,,,,,,,,,,,,53.4,,,,,,,,,,,
+193858,,,,,,,,,,,,,,,,,,50.4,,0,,,,,,,,,
+194138,,,,,,,,,,,,,,,,,,72.0,,,,,,,,,,,
+144593,,,,,,,,,,,,,,,,,,53.4,,,,,,,,,,,
+16520,,,,,,,,,,,,,,,,,,54.6,,,,,,,,,,,
+29881,,,,,,,,,,,,,,,,,,55.2,,0,,,,,,,,,
+146262,,,,,,,,,,,,,,,,,,66.0,,,,,,,,,,,
+124851,,,,,,,,,,,,,,,,,,69.0,,,,,,,,,,,
+73229,,,,,,,,,,,,,,,,,,63.0,,0,,,,,,,,,
+139306,,,,,,,,,,,,,,,,,,62.4,,,,,,,,,,,
+65218,,,,,,,,,,,,,,,,,,58.8,,,,,,,,,,,
+190194,,,,,,,,,,,,,,,,,,51.6,,,,,,,,,,,
+138445,,,,,,,,,,,,,,,,,,90.0,,0,,,,,,,,,
+17699,,,,,,,,,,,,,,,,,,57.6,,,,,,,,,,,
+32486,,,,,,,,,,,,,,,,,,50.4,,0,,,,,,,,,
+176122,,,,,,,,,,,,,,,,,,57.0,,,,,,,,,,,
+158507,,,,,,,,,,,,,,,,,,52.8,,,,,,,,,,,
+131417,,,,,,,,,,,,,,,,,,71.4,,,,,,,,,,,
+519,,,,,,,,,,,,,,,,,,55.2,,0,,,,,,,,,
+182055,,,,,,,,,,,,,,,,,,64.8,,,,,,,,,,,
+187049,,,,,,,,,,,,,,,,,,52.2,,0,,,,,,,,,
+156415,,,,,,,,,,,,,,,,,,64.2,,,,,,,,,,,
+153942,,,,,,,,,,,,,,,,,,54.0,,,,,,,,,,,
+51992,,,,,,,,,,,,,,,,,,62.4,,,,,,,,,,,
+112803,,,,,,,,,,,,,,,,,,72.0,,,,,,,,,,,
+138835,,,,,,,,,,,,,,,,,,55.2,,,,,,,,,,,
+86444,,,,,,,,,,,,,,,,,,68.4,,,,,,,,,,,
+146207,,,,,,,,,,,,,,,,,,57.6,,,,,,,,,,,
+192246,,,,,,,,,,,,,,,,,,69.0,,,,,,,,,,,
+198800,,,,,,,,,,,,,,,,,,48.0,,0,,,,,,,,,
+187290,,,,,,,,,,,,,,,,,,58.8,,0,,,,,,,,,
+116475,,,,,,,,,,,,,,,,,,70.2,,,,,,,,,,,
+87240,,,,,,,,,,,,,,,,,,54.6,,,,,,,,,,,
+184716,,,,,,,,,,,,,,,,,,51.6,,,,,,,,,,,
+91836,,,,,,,,,,,,,,,,,,66.0,,0,,,,,,,,,
+146590,,,,,,,,,,,,,,,,,,57.0,,0,,,,,,,,,
+181932,,,,,,,,,,,,,,,,,,58.8,,0,,,,,,,,,
+196265,,,,,,,,,,,,,,,,,,57.6,,0,,,,,,,,,
+76873,,,,,,,,,,,,,,,,,,61.8,,,,,,,,,,,
+111820,,,,,,,,,,,,,,,,,,58.2,,,,,,,,,,,
+122651,,,,,,,,,,,,,,,,,,49.8,,0,,,,,,,,,
+192758,,,,,,,,,,,,,,,,,,68.4,,,,,,,,,,,
+80600,,,,,,,,,,,,,,,,,,69.0,,0,,,,,,,,,
+21982,,,,,,,,,,,,,,,,,,58.2,,0,,,,,,,,,
+65142,,,,,,,,,,,,,,,,,,70.2,,,,,,,,,,,
+57283,,,,,,,,,,,,,,,,,,56.4,,,,,,,,,,,
+30786,,,,,,,,,,,,,,,,,,60.0,,,,,,,,,,,
+117469,,,,,,,,,,,,,,,,,,70.2,,,,,,,,,,,
+116875,,,,,,,,,,,,,,,,,,55.2,,1,,,,,,,,,
+10832,,,,,,,,,,,,,,,,,,48.6,,,,,,,,,,,
+49108,,,,,,,,,,,,,,,,,,71.4,,,,,,,,,,,
+126168,,,,,,,,,,,,,,,,,,65.4,,,,,,,,,,,
+137536,,,,,,,,,,,,,,,,,,52.8,,,,,,,,,,,
+196318,,,,,,,,,,,,,,,,,,59.4,,,,,,,,,,,
+54390,,,,,,,,,,,,,,,,,,61.8,,,,,,,,,,,
+24927,,,,,,,,,,,,,,,,,,61.2,,0,,,,,,,,,
+42520,,,,,,,,,,,,,,,,,,54.0,,0,,,,,,,,,
+86441,,,,,,,,,,,,,,,,,,48.6,,,,,,,,,,,
+141892,,,,,,,,,,,,,,,,,,32.4,,,,,,,,,,,
+93067,,,,,,,,,,,,,,,,,,62.4,,0,,,,,,,,,
+50066,,,,,,,,,,,,,,,,,,63.0,,,,,,,,,,,
+39528,,,,,,,,,,,,,,,,,,54.6,,,,,,,,,,,
+34192,,,,,,,,,,,,,,,,,,56.4,,,,,,,,,,,
+188822,,,,,,,,,,,,,,,,,,58.2,,1,,,,,,,,,
+77492,,,,,,,,,,,,,,,,,,48.0,,,,,,,,,,,
+119725,,,,,,,,,,,,,,,,,,57.6,,,,,,,,,,,
+156789,,,,,,,,,,,,,,,,,,61.8,,1,,,,,,,,,
+140316,,,,,,,,,,,,,,,,,,58.8,,0,,,,,,,,,
+72880,,,,,,,,,,,,,,,,,,56.4,,,,,,,,,,,
+113450,,,,,,,,,,,,,,,,,,55.2,,,,,,,,,,,
+99606,,,,,,,,,,,,,,,,,,30.0,,1,,,,,,,,,
+80151,,,,,,,,,,,,,,,,,,48.0,,,,,,,,,,,
+93123,,,,,,,,,,,,,,,,,,72.0,,,,,,,,,,,
+41880,,,,,,,,,,,,,,,,,,66.6,,,,,,,,,,,
+145279,,,,,,,,,,,,,,,,,,49.2,,,,,,,,,,,
+51142,,,,,,,,,,,,,,,,,,69.0,,,,,,,,,,,
+187105,,,,,,,,,,,,,,,,,,62.4,,,,,,,,,,,
+188442,,,,,,,,,,,,,,,,,,58.2,,,,,,,,,,,
+168231,,,,,,,,,,,,,,,,,,70.8,,0,,,,,,,,,
+192079,,,,,,,,,,,,,,,,,,71.4,,,,,,,,,,,
+132800,,,,,,,,,,,,,,,,,,72.0,,,,,,,,,,,
+147187,,,,,,,,,,,,,,,,,,72.0,,0,,,,,,,,,
+93986,,,,,,,,,,,,,,,,,,57.6,,,,,,,,,,,
+137184,,,,,,,,,,,,,,,,,,69.6,,0,,,,,,,,,
+650,,,,,,,,,,,,,,,,,,67.8,,,,,,,,,,,
+163169,,,,,,,,,,,,,,,,,,59.4,,,,,,,,,,,
+91115,,,,,,,,,,,,,,,,,,49.8,,,,,,,,,,,
+77821,,,,,,,,,,,,,,,,,,34.5,,0,,,,,,,,,
+37052,,,,,,,,,,,,,,,,,,29.1,,0,,,,,,,,,
+16552,,,,,,,,,,,,,,,,,,61.2,,,,,,,,,,,
+139088,,,,,,,,,,,,,,,,,,70.2,,,,,,,,,,,
+133113,,,,,,,,,,,,,,,,,,67.8,,,,,,,,,,,
+44312,,,,,,,,,,,,,,,,,,65.4,,0,,,,,,,,,
+13277,,,,,,,,,,,,,,,,,,67.2,,0,,,,,,,,,
+195996,,,,,,,,,,,,,,,,,,52.8,,0,,,,,,,,,
+85297,,,,,,,,,,,,,,,,,39.99,54.0,,0,,,,,,,,,
+150153,,,,,,,,,,,,,,,,,,68.4,,,,,,,,,,,
+119498,,,,,,,,,,,,,,,,,,58.8,,,,,,,,,,,
+128563,,,,,,,,,,,,,,,,,,71.4,,,,,,,,,,,
+176475,,,,,,,,,,,,,,,,,,67.8,,0,,,,,,,,,
+124016,,,,,,,,,,,,,,,,,45.45,56.4,,0,,,,,,,,,
+203445,,,,,,,,,,,,,,,,,,55.8,,0,,,,,,,,,
+188001,,,,,,,,,,,,,,,,,18.06,55.8,,0,,,,,,,,,
+59984,,,,,,,,,,,,,,,,,,69.0,,0,,,,,,,,,
+153493,,,,,,,,,,,,,,,,,,49.2,,,,,,,,,,,
+108982,,,,,,,,,,,,,,,,,,49.2,,,,,,,,,,,
+130102,,,,,,,,,,,,,,,,,,88.2,,0,,,,,,,,,
+121008,,,,,,,,,,,,,,,,,,68.4,,,,,,,,,,,
+176986,,,,,,,,,,,,,,,,,,57.6,,0,,,,,,,,,
+47857,,,,,,,,,,,,,,,,,,51.0,,0,,,,,,,,,
+129620,,,,,,,,,,,,,,,,,,54.6,,0,,,,,,,,,
+104805,,,,,,,,,,,,,,,,,,64.2,,,,,,,,,,,
+86812,,,,,,,,,,,,,,,,,,67.8,,,,,,,,,,,
+61831,,,,,,,,,,,,,,,,,,48.0,,0,,,,,,,,,
+88149,,,,,,,,,,,,,,,,,,48.0,,0,,,,,,,,,
+195753,,,,,,,,,,,,,,,,,,70.2,,0,,,,,,,,,
+42590,,,,,,,,,,,,,,,,,,63.6,,,,,,,,,,,
+99258,,,,,,,,,,,,,,,,,,54.6,,0,,,,,,,,,
+11283,,,,,,,,,,,,,,,,,,60.0,,0,,,,,,,,,
+123825,,,,,,,,,,,,,,,,,,67.2,,0,,,,,,,,,
+123201,,,,,,,,,,,,,,,,,,68.4,,,,,,,,,,,
+29921,,,,,,,,,,,,,,,,,,53.4,,0,,,,,,,,,
+169959,,,,,,,,,,,,,,,,,,60.6,,,,,,,,,,,
+130087,,,,,,,,,,,,,,,,,,81.0,,,,,,,,,,,
+111330,,,,,,,,,,,,,,,,,,62.4,,0,,,,,,,,,
+202608,,,,,,,,,,,,,,,,,,59.4,,,,,,,,,,,
+57272,,,,,,,,,,,,,,,,,,69.0,,,,,,,,,,,
+33978,,,,,,,,,,,,,,,,,,67.8,,0,,,,,,,,,
+103413,,,,,,,,,,,,,,,,,,69.6,,0,,,,,,,,,
+202370,,,,,,,,,,,,,,,,,,59.4,,,,,,,,,,,
+154984,,,,,,,,,,,,,,,,,,54.6,,,,,,,,,,,
+57666,,,,,,,,,,,,,,,,,,55.2,,,,,,,,,,,
+58952,,,,,,,,,,,,,,,,,,63.0,,,,,,,,,,,
+141837,,,,,,,,,,,,,,,,,,59.4,,,,,,,,,,,
+107774,,,,,,,,,,,,,,,,,,55.8,,,,,,,,,,,
+25520,,,,,,,,,,,,,,,,,,52.8,,,,,,,,,,,
+18178,,,,,,,,,,,,,,,,,,59.4,,,,,,,,,,,
+39931,,,,,,,,,,,,,,,,,,48.0,,0,,,,,,,,,
+32726,,,,,,,,,,,,,,,,,,69.6,,,,,,,,,,,
+104683,,,,,,,,,,,,,,,,,,60.0,,,,,,,,,,,
+190889,,,,,,,,,,,,,,,,,,51.6,,0,,,,,,,,,
+90413,,,,,,,,,,,,,,,,,,24.9,,0,,,,,,,,,
+986,,,,,,,,,,,,,,,,,,66.6,,0,,,,,,,,,
+40058,,,,,,,,,,,,,,,,,,100.8,,0,,,,,,,,,
+180910,,,,,,,,,,,,,,,,,,54.0,,0,,,,,,,,,
+53150,,,,,,,,,,,,,,,,,,49.2,,,,,,,,,,,
+58820,,,,,,,,,,,,,,,,,,66.0,,0,,,,,,,,,
+22901,,,,,,,,,,,,,,,,,,98.1,,0,,,,,,,,,
+11833,,,,,,,,,,,,,,,,,,55.2,,,,,,,,,,,
+191258,,,,,,,,,,,,,,,,,,71.4,,,,,,,,,,,
+128406,,,,,,,,,,,,,,,,,,64.2,,0,,,,,,,,,
+35641,,,,,,,,,,,,,,,,,,67.2,,,,,,,,,,,
+48838,,,,,,,,,,,,,,,,,,50.4,,,,,,,,,,,
+122610,,,,,,,,,,,,,,,,,,69.0,,,,,,,,,,,
+169423,,,,,,,,,,,,,,,,,,34.5,,,,,,,,,,,
+117120,,,,,,,,,,,,,,,,,,59.4,,,,,,,,,,,
+27154,,,,,,,,,,,,,,,,,,66.6,,,,,,,,,,,
+168003,,,,,,,,,,,,,,,,,,66.6,,,,,,,,,,,
+101190,,,,,,,,,,,,,,,,,,61.8,,,,,,,,,,,
+132280,,,,,,,,,,,,,,,,,,35.4,,0,,,,,,,,,
+10571,,,,,,,,,,,,,,,,,,95.4,,0,,,,,,,,,
+10493,,,,,,,,,,,,,,,,,,57.6,,0,,,,,,,,,
+190707,,,,,,,,,,,,,,,,,,50.4,,,,,,,,,,,
+85185,,,,,,,,,,,,,,,,,,53.4,,,,,,,,,,,
+203994,,,,,,,,,,,,,,,,,,86.4,,0,,,,,,,,,
+1378,,,,,,,,,,,,,,,,,,104.4,,0,,,,,,,,,
+153023,,,,,,,,,,,,,,,,,,64.2,,0,,,,,,,,,
+170418,,,,,,,,,,,,,,,,,,69.0,,0,,,,,,,,,
+21784,,,,,,,,,,,,,,,,,,57.6,,,,,,,,,,,
+124639,,,,,,,,,,,,,,,,,,57.0,,,,,,,,,,,
+41097,,,,,,,,,,,,,,,,,,68.4,,,,,,,,,,,
+203552,,,,,,,,,,,,,,,,,,54.6,,,,,,,,,,,
+93154,,,,,,,,,,,,,,,,,,52.2,,0,,,,,,,,,
+124443,,,,,,,,,,,,,,,,,,66.0,,,,,,,,,,,
+7265,,,,,,,,,,,,,,,,,,57.6,,0,,,,,,,,,
+156134,,,,,,,,,,,,,,,,,,61.8,,,,,,,,,,,
+151511,,,,,,,,,,,,,,,,,,52.8,,1,,,,,,,,,
+124164,,,,,,,,,,,,,,,,,,48.0,,,,,,,,,,,
+123519,,,,,,,,,,,,,,,,,,64.2,,,,,,,,,,,
+186183,,,,,,,,,,,,,,,,,,49.2,,,,,,,,,,,
+86158,,,,,,,,,,,,,,,,,,55.8,,0,,,,,,,,,
+52474,,,,,,,,,,,,,,,,,,49.2,,,,,,,,,,,
+99983,,,,,,,,,,,,,,,,,,107.1,,0,,,,,,,,,
+119586,,,,,,,,,,,,,,,,,,64.2,,,,,,,,,,,
+9103,,,,,,,,,,,,,,,,,,58.8,,,,,,,,,,,
+103043,,,,,,,,,,,,,,,,,,69.0,,,,,,,,,,,
+18069,,,,,,,,,,,,,,,,,,49.8,,,,,,,,,,,
+65360,,,,,,,,,,,,,,,,,,56.4,,,,,,,,,,,
+42813,,,,,,,,,,,,,,,,,,68.4,,,,,,,,,,,
+35016,,,,,,,,,,,,,,,,,,49.2,,,,,,,,,,,
+156894,,,,,,,,,,,,,,,,,,52.2,,,,,,,,,,,
+41325,,,,,,,,,,,,,,,,,,67.2,,,,,,,,,,,
+89906,,,,,,,,,,,,,,,,,,61.2,,,,,,,,,,,
+67800,,,,,,,,,,,,,,,,,,69.0,,0,,,,,,,,,
+86571,,,,,,,,,,,,,,,,,,66.6,,,,,,,,,,,
+21664,,,,,,,,,,,,,,,,,,57.6,,,,,,,,,,,
+174845,,,,,,,,,,,,,,,,,,25.2,,0,,,,,,,,,
+95432,,,,,,,,,,,,,,,,,,54.0,,0,,,,,,,,,
+159502,,,,,,,,,,,,,,,,,,48.6,,,,,,,,,,,
+64959,,,,,,,,,,,,,,,,,,52.2,,0,,,,,,,,,
+71694,,,,,,,,,,,,,,,,,,67.8,,0,,,,,,,,,
+95133,,,,,,,,,,,,,,,,,,54.0,,0,,,,,,,,,
+2778,,,,,,,,,,,,,,,,,,101.7,,0,,,,,,,,,
+48496,,,,,,,,,,,,,,,,,,58.8,,,,,,,,,,,
+175313,,,,,,,,,,,,,,,,,,51.0,,0,,,,,,,,,
+51010,,,,,,,,,,,,,,,,,,60.0,,,,,,,,,,,
+159283,,,,,,,,,,,,,,,,,,67.2,,,,,,,,,,,
+7299,,,,,,,,,,,,,,,,,,27.0,,,,,,,,,,,
+1401,,,,,,,,,,,,,,,,,,70.2,,,,,,,,,,,
+154081,,,,,,,,,,,,,,,,,,70.2,,0,,,,,,,,,
+121159,,,,,,,,,,,,,,,,,,55.2,,,,,,,,,,,
+90903,,,,,,,,,,,,,,,,,,65.4,,,,,,,,,,,
+43432,,,,,,,,,,,,,,,,,,64.2,,,,,,,,,,,
+34891,,,,,,,,,,,,,,,,,,58.8,,0,,,,,,,,,
+104272,,,,,,,,,,,,,,,,,,70.2,,,,,,,,,,,
+137673,,,,,,,,,,,,,,,,,,68.4,,1,,,,,,,,,
+54347,,,,,,,,,,,,,,,,,,58.8,,0,,,,,,,,,
+112631,,,,,,,,,,,,,,,,,,60.6,,,,,,,,,,,
+13230,,,,,,,,,,,,,,,,,34.2,62.4,,0,,,,,,,,,
+156245,,,,,,,,,,,,,,,,,42.48,69.6,,0,,,,,,,,,
+162379,,,,,,,,,,,,,,,,,49.14,54.6,,1,,,,,,,,,
+24284,,,,,,,,,,,,,,,,,47.56,60.6,,0,,,,,,,,,
+138680,,,,,,,,,,,,,,,,,,67.2,,,,,,,,,,,
+197375,,,,,,,,,,,,,,,,,,55.2,,,,,,,,,,,
+24254,,,,,,,,,,,,,,,,,,60.0,,,,,,,,,,,
+109984,,,,,,,,,,,,,,,,,,51.6,,1,,,,,,,,,
+8550,,,,,,,,,,,,,,,,,,60.6,,,,,,,,,,,
+36080,,,,,,,,,,,,,,,,,,68.4,,,,,,,,,,,
+175829,,,,,,,,,,,,,,,,,,54.0,,0,,,,,,,,,
+51690,,,,,,,,,,,,,,,,,,57.0,,0,,,,,,,,,
+122941,,,,,,,,,,,,,,,,,,60.0,,,,,,,,,,,
+1352,,,,,,,,,,,,,,,,,,65.4,,,,,,,,,,,
+25935,,,,,,,,,,,,,,,,,,66.6,,0,,,,,,,,,
+139461,,,,,,,,,,,,,,,,,,49.2,,0,,,,,,,,,
+182998,,,,,,,,,,,,,,,,,,60.0,,,,,,,,,,,
+147340,,,,,,,,,,,,,,,,,,54.6,,0,,,,,,,,,
+139092,,,,,,,,,,,,,,,,,,60.6,,,,,,,,,,,
+52196,,,,,,,,,,,,,,,,,,57.6,,0,,,,,,,,,
+201120,,,,,,,,,,,,,,,,,,69.0,,0,,,,,,,,,
+15755,,,,,,,,,,,,,,,,,,33.6,,0,,,,,,,,,
+31875,,,,,,,,,,,,,,,,,,66.0,,,,,,,,,,,
+184621,,,,,,,,,,,,,,,,,,57.0,,,,,,,,,,,
+129813,,,,,,,,,,,,,,,,,,52.2,,,,,,,,,,,
+72714,,,,,,,,,,,,,,,,,,49.8,,1,,,,,,,,,
+101173,,,,,,,,,,,,,,,,,,48.0,,,,,,,,,,,
+95405,,,,,,,,,,,,,,,,,,70.2,,,,,,,,,,,
+14652,,,,,,,,,,,,,,,,,,50.4,,,,,,,,,,,
+4139,,,,,,,,,,,,,,,,,,61.8,,,,,,,,,,,
+159044,,,,,,,,,,,,,,,,,,72.0,,,,,,,,,,,
+171589,,,,,,,,,,,,,,,,,,53.4,,0,,,,,,,,,
+147431,,,,,,,,,,,,,,,,,,69.0,,,,,,,,,,,
+178965,,,,,,,,,,,,,,,,,,71.4,,,,,,,,,,,
+168134,,,,,,,,,,,,,,,,,,57.6,,,,,,,,,,,
+48581,,,,,,,,,,,,,,,,,,60.0,,,,,,,,,,,
+142148,,,,,,,,,,,,,,,,,,70.8,,,,,,,,,,,
+93974,,,,,,,,,,,,,,,,,,61.8,,0,,,,,,,,,
+177586,,,,,,,,,,,,,,,,,,60.0,,,,,,,,,,,
+8026,,,,,,,,,,,,,,,,,,60.6,,,,,,,,,,,
+165225,,,,,,,,,,,,,,,,,,61.8,,,,,,,,,,,
+146857,,,,,,,,,,,,,,,,,,62.4,,0,,,,,,,,,
+185463,,,,,,,,,,,,,,,,,,51.6,,0,,,,,,,,,
+26674,,,,,,,,,,,,,,,,,,55.8,,0,,,,,,,,,
+154676,,,,,,,,,,,,,,,,,,63.6,,,,,,,,,,,
+174846,,,,,,,,,,,,,,,,,,49.2,,,,,,,,,,,
+194717,,,,,,,,,,,,,,,,,,99.0,,0,,,,,,,,,
+88429,,,,,,,,,,,,,,,,,,67.2,,,,,,,,,,,
+92566,,,,,,,,,,,,,,,,,,53.4,,,,,,,,,,,
+32564,,,,,,,,,,,,,,,,,,62.4,,,,,,,,,,,
+127739,,,,,,,,,,,,,,,,,,61.8,,,,,,,,,,,
+130084,,,,,,,,,,,,,,,,,,54.6,,,,,,,,,,,
+179564,,,,,,,,,,,,,,,,,,61.8,,,,,,,,,,,
+77599,,,,,,,,,,,,,,,,,,70.2,,,,,,,,,,,
+111146,,,,,,,,,,,,,,,,,,61.2,,0,,,,,,,,,
+102902,,,,,,,,,,,,,,,,,,53.4,,,,,,,,,,,
+173012,,,,,,,,,,,,,,,,,,54.6,,,,,,,,,,,
+180564,,,,,,,,,,,,,,,,,,48.6,,0,,,,,,,,,
+172032,,,,,,,,,,,,,,,,,,61.8,,0,,,,,,,,,
+1602,,,,,,,,,,,,,,,,,,105.3,,0,,,,,,,,,
+200778,,,,,,,,,,,,,,,,,,64.8,,,,,,,,,,,
+47479,,,,,,,,,,,,,,,,,,49.2,,,,,,,,,,,
+150650,,,,,,,,,,,,,,,,,,63.0,,0,,,,,,,,,
+129074,,,,,,,,,,,,,,,,,,52.8,,0,,,,,,,,,
+5799,,,,,,,,,,,,,,,,,,55.2,,0,,,,,,,,,
+30397,,,,,,,,,,,,,,,,,,66.0,,,,,,,,,,,
+12511,,,,,,,,,,,,,,,,,,66.0,,0,,,,,,,,,
+24841,,,,,,,,,,,,,,,,,,32.4,,0,,,,,,,,,
+200699,,,,,,,,,,,,,,,,,,55.2,,0,,,,,,,,,
+183174,,,,,,,,,,,,,,,,,,52.2,,,,,,,,,,,
+63964,,,,,,,,,,,,,,,,,,49.8,,0,,,,,,,,,
+195805,,,,,,,,,,,,,,,,,,49.2,,0,,,,,,,,,
+161578,,,,,,,,,,,,,,,,,,60.6,,0,,,,,,,,,
+76543,,,,,,,,,,,,,,,,,,62.4,,,,,,,,,,,
+36823,,,,,,,,,,,,,,,,,,72.0,,0,,,,,,,,,
+99187,,,,,,,,,,,,,,,,,,71.4,,,,,,,,,,,
+93427,,,,,,,,,,,,,,,,,,64.8,,,,,,,,,,,
+200435,,,,,,,,,,,,,,,,,,68.4,,,,,,,,,,,
+141132,,,,,,,,,,,,,,,,,,49.2,,0,,,,,,,,,
+14341,,,,,,,,,,,,,,,,,,51.0,,0,,,,,,,,,
+177591,,,,,,,,,,,,,,,,,,61.8,,,,,,,,,,,
+180994,,,,,,,,,,,,,,,,,,29.7,,0,,,,,,,,,
+124602,,,,,,,,,,,,,,,,,,50.4,,,,,,,,,,,
+43654,,,,,,,,,,,,,,,,,,56.4,,,,,,,,,,,
+165932,,,,,,,,,,,,,,,,,,54.0,,0,,,,,,,,,
+7109,,,,,,,,,,,,,,,,,,53.4,,0,,,,,,,,,
+85003,,,,,,,,,,,,,,,,,,60.6,,0,,,,,,,,,
+87827,,,,,,,,,,,,,,,,,,64.2,,0,,,,,,,,,
+112525,,,,,,,,,,,,,,,,,,70.2,,0,,,,,,,,,
+175502,,,,,,,,,,,,,,,,,,54.6,,0,,,,,,,,,
+54092,,,,,,,,,,,,,,,,,,69.0,,,,,,,,,,,
+61674,,,,,,,,,,,,,,,,,,103.5,,0,,,,,,,,,
+68569,,,,,,,,,,,,,,,,,,72.0,,,,,,,,,,,
+119044,,,,,,,,,,,,,,,,,,55.2,,,,,,,,,,,
+136204,,,,,,,,,,,,,,,,,,60.6,,,,,,,,,,,
+10491,,,,,,,,,,,,,,,,,,66.6,,0,,,,,,,,,
+139730,,,,,,,,,,,,,,,,,,69.0,,0,,,,,,,,,
+48001,,,,,,,,,,,,,,,,,,54.6,,,,,,,,,,,
+198615,,,,,,,,,,,,,,,,,,67.8,,0,,,,,,,,,
+192039,,,,,,,,,,,,,,,,,,69.6,,0,,,,,,,,,
+198725,,,,,,,,,,,,,,,,,,50.4,,,,,,,,,,,
+3771,,,,,,,,,,,,,,,,,,63.6,,,,,,,,,,,
+24883,,,,,,,,,,,,,,,,,,57.0,,0,,,,,,,,,
+196938,,,,,,,,,,,,,,,,,,70.8,,0,,,,,,,,,
+102286,,,,,,,,,,,,,,,,,,54.6,,0,,,,,,,,,
+199823,,,,,,,,,,,,,,,,,,61.2,,0,,,,,,,,,
+109594,,,,,,,,,,,,,,,,,,60.6,,0,,,,,,,,,
+66889,,,,,,,,,,,,,,,,,,56.4,,,,,,,,,,,
+185183,,,,,,,,,,,,,,,,,,67.8,,,,,,,,,,,
+199502,,,,,,,,,,,,,,,,,,60.0,,,,,,,,,,,
+169437,,,,,,,,,,,,,,,,,,59.4,,,,,,,,,,,
+96723,,,,,,,,,,,,,,,,,,58.8,,,,,,,,,,,
+89472,,,,,,,,,,,,,,,,,,75.6,,,,,,,,,,,
+157622,,,,,,,,,,,,,,,,,,69.6,,0,,,,,,,,,
+129342,,,,,,,,,,,,,,,,,,49.2,,,,,,,,,,,
+15005,,,,,,,,,,,,,,,,,,67.2,,0,,,,,,,,,
+155463,,,,,,,,,,,,,,,,,,80.1,,0,,,,,,,,,
+60087,,,,,,,,,,,,,,,,,,70.8,,,,,,,,,,,
+10885,,,,,,,,,,,,,,,,,,66.0,,1,,,,,,,,,
+82538,,,,,,,,,,,,,,,,,,69.6,,0,,,,,,,,,
+71562,,,,,,,,,,,,,,,,,,71.4,,,,,,,,,,,
+79222,,,,,,,,,,,,,,,,,,55.8,,0,,,,,,,,,
+15356,,,,,,,,,,,,,,,,,,52.8,,,,,,,,,,,
+200678,,,,,,,,,,,,,,,,,,61.8,,,,,,,,,,,
+24002,,,,,,,,,,,,,,,,,,56.4,,,,,,,,,,,
+20982,,,,,,,,,,,,,,,,,,69.0,,,,,,,,,,,
+58741,,,,,,,,,,,,,,,,,,67.8,,0,,,,,,,,,
+70913,,,,,,,,,,,,,,,,,,52.8,,,,,,,,,,,
+95794,,,,,,,,,,,,,,,,,,63.6,,0,,,,,,,,,
+39781,,,,,,,,,,,,,,,,,,26.4,,0,,,,,,,,,
+144195,,,,,,,,,,,,,,,,,,58.2,,0,,,,,,,,,
+3131,,,,,,,,,,,,,,,,,,48.0,,,,,,,,,,,
+173619,,,,,,,,,,,,,,,,,,55.2,,,,,,,,,,,
+143149,,,,,,,,,,,,,,,,,,57.0,,,,,,,,,,,
+147415,,,,,,,,,,,,,,,,,,49.2,,,,,,,,,,,
+142979,,,,,,,,,,,,,,,,,,48.0,,,,,,,,,,,
+151087,,,,,,,,,,,,,,,,,,67.8,,,,,,,,,,,
+1886,,,,,,,,,,,,,,,,,,64.8,,0,,,,,,,,,
+30500,,,,,,,,,,,,,,,,,,57.6,,,,,,,,,,,
+177676,,,,,,,,,,,,,,,,,,50.4,,0,,,,,,,,,
+163666,,,,,,,,,,,,,,,,,,57.6,,,,,,,,,,,
+155386,,,,,,,,,,,,,,,,,,102.6,,0,,,,,,,,,
+63693,,,,,,,,,,,,,,,,,,51.6,,,,,,,,,,,
+19191,,,,,,,,,,,,,,,,,,58.8,,0,,,,,,,,,
+155011,,,,,,,,,,,,,,,,,,65.4,,,,,,,,,,,
+6459,,,,,,,,,,,,,,,,,,58.8,,,,,,,,,,,
+202582,,,,,,,,,,,,,,,,,,61.8,,,,,,,,,,,
+48359,,,,,,,,,,,,,,,,,,60.6,,0,,,,,,,,,
+14727,,,,,,,,,,,,,,,,,,51.0,,,,,,,,,,,
+160087,,,,,,,,,,,,,,,,,,70.8,,0,,,,,,,,,
+178087,,,,,,,,,,,,,,,,,,83.7,,,,,,,,,,,
+92211,,,,,,,,,,,,,,,,,,53.4,,,,,,,,,,,
+99106,,,,,,,,,,,,,,,,,,60.0,,,,,,,,,,,
+100040,,,,,,,,,,,,,,,,,,48.0,,,,,,,,,,,
+231,,,,,,,,,,,,,,,,,,61.8,,,,,,,,,,,
+71070,,,,,,,,,,,,,,,,,,55.8,,0,,,,,,,,,
+132996,,,,,,,,,,,,,,,,,,69.6,,,,,,,,,,,
+189509,,,,,,,,,,,,,,,,,,66.6,,0,,,,,,,,,
+72627,,,,,,,,,,,,,,,,,,57.6,,,,,,,,,,,
+179941,,,,,,,,,,,,,,,,,,67.2,,,,,,,,,,,
+132936,,,,,,,,,,,,,,,,,,54.0,,,,,,,,,,,
+178883,,,,,,,,,,,,,,,,,,48.6,,,,,,,,,,,
+64492,,,,,,,,,,,,,,,,,,50.4,,,,,,,,,,,
+136228,,,,,,,,,,,,,,,,,,55.2,,0,,,,,,,,,
+130235,,,,,,,,,,,,,,,,,,64.2,,0,,,,,,,,,
+74844,,,,,,,,,,,,,,,,,,48.6,,,,,,,,,,,
+102675,,,,,,,,,,,,,,,,,,67.8,,0,,,,,,,,,
+41787,,,,,,,,,,,,,,,,,,69.6,,0,,,,,,,,,
+157649,,,,,,,,,,,,,,,,,,71.4,,,,,,,,,,,
+101352,,,,,,,,,,,,,,,,,,51.6,,,,,,,,,,,
+194641,,,,,,,,,,,,,,,,,,60.6,,,,,,,,,,,
+65103,,,,,,,,,,,,,,,,,,70.2,,0,,,,,,,,,
+20571,,,,,,,,,,,,,,,,,,70.8,,,,,,,,,,,
+186323,,,,,,,,,,,,,,,,,,64.8,,0,,,,,,,,,
+103210,,,,,,,,,,,,,,,,,,52.8,,,,,,,,,,,
+69076,,,,,,,,,,,,,,,,,,81.9,,0,,,,,,,,,
+60863,,,,,,,,,,,,,,,,,,63.0,,,,,,,,,,,
+125715,,,,,,,,,,,,,,,,,,54.6,,0,,,,,,,,,
+178615,,,,,,,,,,,,,,,,,,57.0,,0,,,,,,,,,
+183714,,,,,,,,,,,,,,,,,,49.2,,,,,,,,,,,
+77126,,,,,,,,,,,,,,,,,,29.4,,0,,,,,,,,,
+85613,,,,,,,,,,,,,,,,,,66.0,,,,,,,,,,,
+79617,,,,,,,,,,,,,,,,,,54.0,,,,,,,,,,,
+172176,,,,,,,,,,,,,,,,,,66.0,,,,,,,,,,,
+13688,,,,,,,,,,,,,,,,,,58.2,,0,,,,,,,,,
+91018,,,,,,,,,,,,,,,,,,54.0,,,,,,,,,,,
+5780,,,,,,,,,,,,,,,,,,67.8,,,,,,,,,,,
+200603,,,,,,,,,,,,,,,,,,55.2,,1,,,,,,,,,
+45196,,,,,,,,,,,,,,,,,,84.6,,1,,,,,,,,,
+59239,,,,,,,,,,,,,,,,,,48.6,,,,,,,,,,,
+59985,,,,,,,,,,,,,,,,,,103.5,,,,,,,,,,,
+156765,,,,,,,,,,,,,,,,,,72.0,,,,,,,,,,,
+100224,,,,,,,,,,,,,,,,,,61.8,,0,,,,,,,,,
+145642,,,,,,,,,,,,,,,,,,66.6,,,,,,,,,,,
+158049,,,,,,,,,,,,,,,,,,50.4,,0,,,,,,,,,
+201437,,,,,,,,,,,,,,,,,,70.8,,0,,,,,,,,,
+96603,,,,,,,,,,,,,,,,,,64.8,,,,,,,,,,,
+83022,,,,,,,,,,,,,,,,,,58.8,,,,,,,,,,,
+199685,,,,,,,,,,,,,,,,,,51.0,,,,,,,,,,,
+60695,,,,,,,,,,,,,,,,,,71.4,,0,,,,,,,,,
+58072,,,,,,,,,,,,,,,,,,49.8,,0,,,,,,,,,
+82943,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+26529,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+86863,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+30832,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+144622,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+176443,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+11567,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+34172,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+51141,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+23498,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+56072,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+81529,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+79281,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+122318,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+102059,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+5265,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+79943,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,
+15243,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+201962,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+63345,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+124963,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,
+130204,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+181173,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,
+101411,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,
+57288,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+93414,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,
+188307,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+185566,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+47638,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+111500,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+88404,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+127554,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,
+93192,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,
+172984,,,,,,,,,,,,,,,,,,0.0,,1,,,,,,,,,
+137958,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+27881,,,,,,,,,,,,,,,,,,0.0,,1,,,,,,,,,
+190497,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+169931,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+138989,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+43093,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+191805,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+51451,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+97241,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+76997,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+64166,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+187637,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+52808,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+19598,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+131679,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+132062,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+138247,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+112929,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+38839,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+145227,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+159620,,,,,,,,,,,,,,,,,,0.0,,0,,,,,,,,,
+181636,,,,,,,,,,,,,,,,,,0.0,,1,,,,,,,,,
+188584,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,
+44986,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,
+989,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,
+202597,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,
+187170,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,
+59250,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,
+27928,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,
+120683,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,
+148956,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,
+100052,,,,,,,,,,,,,,,,,,0.0,,,,,,,,,,,
